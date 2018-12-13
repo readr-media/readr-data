@@ -1,0 +1,3938 @@
+{
+    "63000": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 1362,
+                    "party": "\u4eba\u6c11\u6c11\u4e3b\u9ee8",
+                    "tksRate": 0.1
+                },
+                {
+                    "tks": 154473,
+                    "party": "\u7121",
+                    "tksRate": 11.25
+                },
+                {
+                    "tks": 408853,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 29.76
+                },
+                {
+                    "tks": 35762,
+                    "party": "\u793e\u6703\u6c11\u4e3b\u9ee8",
+                    "tksRate": 2.6
+                },
+                {
+                    "tks": 573568,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 41.76
+                },
+                {
+                    "tks": 61858,
+                    "party": "\u65b0\u9ee8",
+                    "tksRate": 4.5
+                },
+                {
+                    "tks": 63199,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 4.6
+                },
+                {
+                    "tks": 3606,
+                    "party": "\u57fa\u9032\u9ee8",
+                    "tksRate": 0.26
+                },
+                {
+                    "tks": 51687,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 3.76
+                },
+                {
+                    "tks": 6153,
+                    "party": "\u6a39\u9ee8",
+                    "tksRate": 0.45
+                },
+                {
+                    "tks": 8675,
+                    "party": "\u6c11\u570b\u9ee8",
+                    "tksRate": 0.63
+                },
+                {
+                    "tks": 947,
+                    "party": "\u4e2d\u83ef\u6c11\u65cf\u81f4\u516c\u9ee8",
+                    "tksRate": 0.07
+                },
+                {
+                    "tks": 872,
+                    "party": "\u53f0\u7063\u5718\u7d50\u806f\u76df",
+                    "tksRate": 0.06
+                },
+                {
+                    "tks": 152,
+                    "party": "\u65b0\u653f\u4e16\u7d00\u9ee8",
+                    "tksRate": 0.01
+                },
+                {
+                    "tks": 845,
+                    "party": "\u516c\u6c11\u9ee8",
+                    "tksRate": 0.06
+                },
+                {
+                    "tks": 286,
+                    "party": "\u4e2d\u570b\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 0.02
+                },
+                {
+                    "tks": 115,
+                    "party": "\u611b\u5fc3\u9ee8",
+                    "tksRate": 0.01
+                },
+                {
+                    "tks": 1216,
+                    "party": "\u5de6\u7ffc\u806f\u76df",
+                    "tksRate": 0.09
+                }
+            ],
+            "totalVotables": 2146532,
+            "voteRate": 192.06
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 3598,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 100.0
+                }
+            ],
+            "totalVotables": 6964,
+            "voteRate": 162.05
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 592609,
+                    "party": "\u7121",
+                    "tksRate": 41.89
+                },
+                {
+                    "tks": 577566,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 40.82
+                },
+                {
+                    "tks": 244641,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 17.29
+                }
+            ],
+            "totalVotables": 2164155,
+            "voteRate": 191.99
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 2257,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 81.81
+                },
+                {
+                    "tks": 502,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 18.19
+                }
+            ],
+            "totalVotables": 4646,
+            "voteRate": 178.05
+        },
+        "F6": {
+            "agreeTks": 732239,
+            "disagreeTks": 506433,
+            "totalVotables": 2228430,
+            "voteRate": 55.58
+        },
+        "F7": {
+            "agreeTks": 549973,
+            "disagreeTks": 701711,
+            "totalVotables": 2228430,
+            "voteRate": 56.17
+        },
+        "F8": {
+            "agreeTks": 469793,
+            "disagreeTks": 762277,
+            "totalVotables": 2228430,
+            "voteRate": 55.29
+        },
+        "F9": {
+            "agreeTks": 479771,
+            "disagreeTks": 751265,
+            "totalVotables": 2228430,
+            "voteRate": 55.24
+        },
+        "F1": {
+            "agreeTks": 924026,
+            "disagreeTks": 277072,
+            "totalVotables": 2228430,
+            "voteRate": 53.9
+        },
+        "FA": {
+            "agreeTks": 698579,
+            "disagreeTks": 494516,
+            "totalVotables": 2228430,
+            "voteRate": 53.54
+        },
+        "F2": {
+            "agreeTks": 892660,
+            "disagreeTks": 295984,
+            "totalVotables": 2228430,
+            "voteRate": 53.34
+        },
+        "F3": {
+            "agreeTks": 922395,
+            "disagreeTks": 279844,
+            "totalVotables": 2228430,
+            "voteRate": 53.95
+        },
+        "F4": {
+            "agreeTks": 818887,
+            "disagreeTks": 429583,
+            "totalVotables": 2228430,
+            "voteRate": 56.02
+        },
+        "F5": {
+            "agreeTks": 779447,
+            "disagreeTks": 462976,
+            "totalVotables": 2228430,
+            "voteRate": 55.75
+        },
+        "age": [
+            130363,
+            149409,
+            155571,
+            188340,
+            239048,
+            211733,
+            202735,
+            201664,
+            201288,
+            194058,
+            163695,
+            93187,
+            75392,
+            50172,
+            35046,
+            16454,
+            4465,
+            765
+        ],
+        "education": [
+            215434,
+            263820,
+            597954,
+            281915,
+            701023,
+            227911,
+            25328
+        ],
+        "sex": [
+            1090143,
+            1223242
+        ],
+        "middle_num": "740"
+    },
+    "65000": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 678762,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 33.89
+                },
+                {
+                    "tks": 248882,
+                    "party": "\u7121",
+                    "tksRate": 12.43
+                },
+                {
+                    "tks": 41553,
+                    "party": "\u7121\u9ee8\u5718\u7d50\u806f\u76df",
+                    "tksRate": 2.07
+                },
+                {
+                    "tks": 925173,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 46.19
+                },
+                {
+                    "tks": 3444,
+                    "party": "\u57fa\u9032\u9ee8",
+                    "tksRate": 0.17
+                },
+                {
+                    "tks": 5324,
+                    "party": "\u7da0\u9ee8",
+                    "tksRate": 0.27
+                },
+                {
+                    "tks": 90321,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 4.51
+                },
+                {
+                    "tks": 281,
+                    "party": "\u6b63\u9ee8",
+                    "tksRate": 0.01
+                },
+                {
+                    "tks": 6075,
+                    "party": "\u65b0\u9ee8",
+                    "tksRate": 0.3
+                },
+                {
+                    "tks": 1780,
+                    "party": "\u6a39\u9ee8",
+                    "tksRate": 0.09
+                },
+                {
+                    "tks": 1195,
+                    "party": "\u4e2d\u83ef\u6c11\u570b\u570b\u653f\u76e3\u7763\u806f\u76df",
+                    "tksRate": 0.06
+                }
+            ],
+            "totalVotables": 3217863,
+            "voteRate": 228.65
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 11814,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 86.66
+                },
+                {
+                    "tks": 1314,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 9.64
+                },
+                {
+                    "tks": 505,
+                    "party": "\u8ecd\u516c\u6559\u806f\u76df\u9ee8",
+                    "tksRate": 3.7
+                }
+            ],
+            "totalVotables": 27083,
+            "voteRate": 199.05
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 873692,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 42.85
+                },
+                {
+                    "tks": 1165130,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 57.15
+                }
+            ],
+            "totalVotables": 3264128,
+            "voteRate": 228.33
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 2732,
+                    "party": "\u7121",
+                    "tksRate": 42.53
+                },
+                {
+                    "tks": 1175,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 18.29
+                },
+                {
+                    "tks": 2517,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 39.18
+                }
+            ],
+            "totalVotables": 11417,
+            "voteRate": 197.56
+        },
+        "F6": {
+            "agreeTks": 1070300,
+            "disagreeTks": 712548,
+            "totalVotables": 3375513,
+            "voteRate": 52.82
+        },
+        "F7": {
+            "agreeTks": 807514,
+            "disagreeTks": 985763,
+            "totalVotables": 3375513,
+            "voteRate": 53.13
+        },
+        "F8": {
+            "agreeTks": 616312,
+            "disagreeTks": 1148290,
+            "totalVotables": 3375513,
+            "voteRate": 52.28
+        },
+        "F9": {
+            "agreeTks": 631350,
+            "disagreeTks": 1127654,
+            "totalVotables": 3375513,
+            "voteRate": 52.11
+        },
+        "F1": {
+            "agreeTks": 1346167,
+            "disagreeTks": 373414,
+            "totalVotables": 3375513,
+            "voteRate": 50.94
+        },
+        "FA": {
+            "agreeTks": 1000493,
+            "disagreeTks": 691936,
+            "totalVotables": 3375513,
+            "voteRate": 50.14
+        },
+        "F2": {
+            "agreeTks": 1300337,
+            "disagreeTks": 403443,
+            "totalVotables": 3375513,
+            "voteRate": 50.47
+        },
+        "F3": {
+            "agreeTks": 1338359,
+            "disagreeTks": 382433,
+            "totalVotables": 3375513,
+            "voteRate": 50.98
+        },
+        "F4": {
+            "agreeTks": 1259036,
+            "disagreeTks": 539138,
+            "totalVotables": 3375513,
+            "voteRate": 53.27
+        },
+        "F5": {
+            "agreeTks": 1174782,
+            "disagreeTks": 617886,
+            "totalVotables": 3375513,
+            "voteRate": 53.11
+        },
+        "age": [
+            222059,
+            270318,
+            280017,
+            288639,
+            353749,
+            329124,
+            315731,
+            322871,
+            319012,
+            284135,
+            213493,
+            109529,
+            82059,
+            49076,
+            30622,
+            13316,
+            3495,
+            591
+        ],
+        "education": [
+            413852,
+            680721,
+            1084693,
+            372524,
+            753619,
+            170154,
+            12273
+        ],
+        "sex": [
+            1694144,
+            1793692
+        ],
+        "middle_num": "612"
+    },
+    "68000": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 203473,
+                    "party": "\u7121",
+                    "tksRate": 20.44
+                },
+                {
+                    "tks": 310040,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 31.15
+                },
+                {
+                    "tks": 31755,
+                    "party": "\u7da0\u9ee8",
+                    "tksRate": 3.19
+                },
+                {
+                    "tks": 422631,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 42.46
+                },
+                {
+                    "tks": 11234,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 1.13
+                },
+                {
+                    "tks": 8649,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 0.87
+                },
+                {
+                    "tks": 6487,
+                    "party": "\u6c11\u570b\u9ee8",
+                    "tksRate": 0.65
+                },
+                {
+                    "tks": 1150,
+                    "party": "\u5de6\u7ffc\u806f\u76df",
+                    "tksRate": 0.12
+                }
+            ],
+            "totalVotables": 1677612,
+            "voteRate": 145.31
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 8123,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 57.9
+                },
+                {
+                    "tks": 4250,
+                    "party": "\u7121",
+                    "tksRate": 30.29
+                },
+                {
+                    "tks": 1657,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 11.81
+                }
+            ],
+            "totalVotables": 27744,
+            "voteRate": 137.45
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 73585,
+                    "party": "\u7121",
+                    "tksRate": 7.12
+                },
+                {
+                    "tks": 407234,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 39.42
+                },
+                {
+                    "tks": 552330,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 53.46
+                }
+            ],
+            "totalVotables": 1732591,
+            "voteRate": 145.61
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 429,
+                    "party": "\u8ecd\u516c\u6559\u806f\u76df\u9ee8",
+                    "tksRate": 3.38
+                },
+                {
+                    "tks": 6650,
+                    "party": "\u7121",
+                    "tksRate": 52.47
+                },
+                {
+                    "tks": 5596,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 44.15
+                }
+            ],
+            "totalVotables": 21479,
+            "voteRate": 173.55
+        },
+        "F6": {
+            "agreeTks": 540236,
+            "disagreeTks": 352795,
+            "totalVotables": 1801823,
+            "voteRate": 49.56
+        },
+        "F7": {
+            "agreeTks": 372182,
+            "disagreeTks": 524453,
+            "totalVotables": 1801823,
+            "voteRate": 49.76
+        },
+        "F8": {
+            "agreeTks": 282142,
+            "disagreeTks": 603494,
+            "totalVotables": 1801823,
+            "voteRate": 49.15
+        },
+        "F9": {
+            "agreeTks": 295646,
+            "disagreeTks": 590939,
+            "totalVotables": 1801823,
+            "voteRate": 49.2
+        },
+        "F1": {
+            "agreeTks": 697528,
+            "disagreeTks": 173333,
+            "totalVotables": 1801823,
+            "voteRate": 48.33
+        },
+        "FA": {
+            "agreeTks": 518318,
+            "disagreeTks": 337300,
+            "totalVotables": 1801823,
+            "voteRate": 47.49
+        },
+        "F2": {
+            "agreeTks": 669790,
+            "disagreeTks": 192616,
+            "totalVotables": 1801823,
+            "voteRate": 47.86
+        },
+        "F3": {
+            "agreeTks": 688091,
+            "disagreeTks": 178491,
+            "totalVotables": 1801823,
+            "voteRate": 48.09
+        },
+        "F4": {
+            "agreeTks": 655472,
+            "disagreeTks": 245285,
+            "totalVotables": 1801823,
+            "voteRate": 49.99
+        },
+        "F5": {
+            "agreeTks": 605777,
+            "disagreeTks": 291473,
+            "totalVotables": 1801823,
+            "voteRate": 49.8
+        },
+        "age": [
+            138805,
+            157989,
+            158267,
+            167967,
+            201793,
+            178985,
+            170656,
+            165816,
+            151069,
+            126952,
+            93589,
+            49564,
+            39274,
+            24994,
+            18771,
+            7587,
+            1614,
+            261
+        ],
+        "education": [
+            221624,
+            337957,
+            613348,
+            188037,
+            397419,
+            89172,
+            6396
+        ],
+        "sex": [
+            915462,
+            938491
+        ],
+        "middle_num": "649"
+    },
+    "66000": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 656696,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 45.84
+                },
+                {
+                    "tks": 476966,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 33.29
+                },
+                {
+                    "tks": 241214,
+                    "party": "\u7121",
+                    "tksRate": 16.84
+                },
+                {
+                    "tks": 3875,
+                    "party": "\u9752\u5e74\u967d\u5149\u9ee8",
+                    "tksRate": 0.27
+                },
+                {
+                    "tks": 345,
+                    "party": "\u53f0\u7063\u6574\u5fa9\u5e2b\u806f\u76df\u5de5\u9ee8",
+                    "tksRate": 0.02
+                },
+                {
+                    "tks": 30719,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 2.14
+                },
+                {
+                    "tks": 6621,
+                    "party": "\u4fe1\u5fc3\u5e0c\u671b\u806f\u76df",
+                    "tksRate": 0.46
+                },
+                {
+                    "tks": 16278,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 1.14
+                }
+            ],
+            "totalVotables": 2183237,
+            "voteRate": 293.0
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 1766,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 34.89
+                },
+                {
+                    "tks": 1957,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 38.66
+                },
+                {
+                    "tks": 589,
+                    "party": "\u7121",
+                    "tksRate": 11.64
+                },
+                {
+                    "tks": 750,
+                    "party": "\u8ecd\u516c\u6559\u806f\u76df\u9ee8",
+                    "tksRate": 14.82
+                }
+            ],
+            "totalVotables": 9211,
+            "voteRate": 282.75
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 15919,
+                    "party": "\u7121",
+                    "tksRate": 1.09
+                },
+                {
+                    "tks": 619855,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 42.35
+                },
+                {
+                    "tks": 827996,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 56.57
+                }
+            ],
+            "totalVotables": 2213789,
+            "voteRate": 293.06
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 4322,
+                    "party": "\u7121",
+                    "tksRate": 52.17
+                },
+                {
+                    "tks": 3064,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 36.99
+                },
+                {
+                    "tks": 898,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 10.84
+                }
+            ],
+            "totalVotables": 13236,
+            "voteRate": 318.59
+        },
+        "F6": {
+            "agreeTks": 777273,
+            "disagreeTks": 490959,
+            "totalVotables": 2295642,
+            "voteRate": 55.25
+        },
+        "F7": {
+            "agreeTks": 554566,
+            "disagreeTks": 726864,
+            "totalVotables": 2295642,
+            "voteRate": 55.82
+        },
+        "F8": {
+            "agreeTks": 395557,
+            "disagreeTks": 866827,
+            "totalVotables": 2295642,
+            "voteRate": 54.99
+        },
+        "F9": {
+            "agreeTks": 411320,
+            "disagreeTks": 850532,
+            "totalVotables": 2295642,
+            "voteRate": 54.97
+        },
+        "F1": {
+            "agreeTks": 1013174,
+            "disagreeTks": 234816,
+            "totalVotables": 2295642,
+            "voteRate": 54.36
+        },
+        "FA": {
+            "agreeTks": 725778,
+            "disagreeTks": 478271,
+            "totalVotables": 2295642,
+            "voteRate": 52.45
+        },
+        "F2": {
+            "agreeTks": 950822,
+            "disagreeTks": 273963,
+            "totalVotables": 2295642,
+            "voteRate": 53.35
+        },
+        "F3": {
+            "agreeTks": 979821,
+            "disagreeTks": 256540,
+            "totalVotables": 2295642,
+            "voteRate": 53.86
+        },
+        "F4": {
+            "agreeTks": 937001,
+            "disagreeTks": 342349,
+            "totalVotables": 2295642,
+            "voteRate": 55.73
+        },
+        "F5": {
+            "agreeTks": 868563,
+            "disagreeTks": 406665,
+            "totalVotables": 2295642,
+            "voteRate": 55.55
+        },
+        "age": [
+            173698,
+            203303,
+            201253,
+            210982,
+            248980,
+            220077,
+            213990,
+            213352,
+            199465,
+            170035,
+            126101,
+            68192,
+            56512,
+            36393,
+            22146,
+            8566,
+            1809,
+            261
+        ],
+        "education": [
+            288495,
+            415725,
+            770939,
+            251703,
+            518199,
+            119506,
+            10548
+        ],
+        "sex": [
+            1160112,
+            1215003
+        ],
+        "middle_num": "591"
+    },
+    "67000": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 280702,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 29.3
+                },
+                {
+                    "tks": 248467,
+                    "party": "\u7121",
+                    "tksRate": 25.94
+                },
+                {
+                    "tks": 382260,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 39.9
+                },
+                {
+                    "tks": 1002,
+                    "party": "\u81fa\u7063\u4eba\u6c11\u5171\u7522\u9ee8",
+                    "tksRate": 0.1
+                },
+                {
+                    "tks": 19221,
+                    "party": "\u57fa\u9032\u9ee8",
+                    "tksRate": 2.01
+                },
+                {
+                    "tks": 13533,
+                    "party": "\u53f0\u7063\u5718\u7d50\u806f\u76df",
+                    "tksRate": 1.41
+                },
+                {
+                    "tks": 9241,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 0.96
+                },
+                {
+                    "tks": 3571,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 0.37
+                }
+            ],
+            "totalVotables": 1536857,
+            "voteRate": 257.86
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 635,
+                    "party": "\u7121",
+                    "tksRate": 47.11
+                },
+                {
+                    "tks": 340,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 25.22
+                },
+                {
+                    "tks": 373,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 27.67
+                }
+            ],
+            "totalVotables": 2401,
+            "voteRate": 243.11
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 367518,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 38.02
+                },
+                {
+                    "tks": 312874,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 32.37
+                },
+                {
+                    "tks": 286278,
+                    "party": "\u7121",
+                    "tksRate": 29.61
+                }
+            ],
+            "totalVotables": 1546862,
+            "voteRate": 257.83
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 600,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 35.38
+                },
+                {
+                    "tks": 1096,
+                    "party": "\u7121",
+                    "tksRate": 64.62
+                }
+            ],
+            "totalVotables": 2812,
+            "voteRate": 252.31
+        },
+        "F6": {
+            "agreeTks": 494543,
+            "disagreeTks": 297390,
+            "totalVotables": 1594821,
+            "voteRate": 49.66
+        },
+        "F7": {
+            "agreeTks": 420409,
+            "disagreeTks": 376916,
+            "totalVotables": 1594821,
+            "voteRate": 49.99
+        },
+        "F8": {
+            "agreeTks": 257730,
+            "disagreeTks": 515188,
+            "totalVotables": 1594821,
+            "voteRate": 48.46
+        },
+        "F9": {
+            "agreeTks": 270957,
+            "disagreeTks": 502776,
+            "totalVotables": 1594821,
+            "voteRate": 48.52
+        },
+        "F1": {
+            "agreeTks": 572230,
+            "disagreeTks": 167275,
+            "totalVotables": 1594821,
+            "voteRate": 46.37
+        },
+        "FA": {
+            "agreeTks": 422398,
+            "disagreeTks": 310812,
+            "totalVotables": 1594821,
+            "voteRate": 45.97
+        },
+        "F2": {
+            "agreeTks": 541984,
+            "disagreeTks": 188192,
+            "totalVotables": 1594821,
+            "voteRate": 45.78
+        },
+        "F3": {
+            "agreeTks": 560594,
+            "disagreeTks": 178274,
+            "totalVotables": 1594821,
+            "voteRate": 46.33
+        },
+        "F4": {
+            "agreeTks": 582450,
+            "disagreeTks": 217619,
+            "totalVotables": 1594821,
+            "voteRate": 50.17
+        },
+        "F5": {
+            "agreeTks": 537623,
+            "disagreeTks": 254622,
+            "totalVotables": 1594821,
+            "voteRate": 49.68
+        },
+        "age": [
+            92920,
+            112648,
+            115568,
+            123706,
+            148085,
+            131788,
+            127026,
+            133218,
+            132620,
+            113660,
+            85364,
+            46871,
+            41667,
+            30021,
+            17525,
+            6209,
+            1264,
+            170
+        ],
+        "education": [
+            242187,
+            249824,
+            442990,
+            132692,
+            314145,
+            71915,
+            6577
+        ],
+        "sex": [
+            723322,
+            737008
+        ],
+        "middle_num": "598"
+    },
+    "64000": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 109599,
+                    "party": "\u7121",
+                    "tksRate": 6.79
+                },
+                {
+                    "tks": 597370,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 37.03
+                },
+                {
+                    "tks": 43372,
+                    "party": "\u7121\u9ee8\u5718\u7d50\u806f\u76df",
+                    "tksRate": 2.69
+                },
+                {
+                    "tks": 708998,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 43.94
+                },
+                {
+                    "tks": 43169,
+                    "party": "\u57fa\u9032\u9ee8",
+                    "tksRate": 2.68
+                },
+                {
+                    "tks": 5754,
+                    "party": "\u4fe1\u5fc3\u5e0c\u671b\u806f\u76df",
+                    "tksRate": 0.36
+                },
+                {
+                    "tks": 43219,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 2.68
+                },
+                {
+                    "tks": 44945,
+                    "party": "\u53f0\u7063\u5718\u7d50\u806f\u76df",
+                    "tksRate": 2.79
+                },
+                {
+                    "tks": 16976,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 1.05
+                }
+            ],
+            "totalVotables": 2249166,
+            "voteRate": 358.89
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 2562,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 44.91
+                },
+                {
+                    "tks": 2681,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 46.99
+                },
+                {
+                    "tks": 462,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 8.1
+                }
+            ],
+            "totalVotables": 8927,
+            "voteRate": 395.09
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 892545,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 53.87
+                },
+                {
+                    "tks": 742239,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 44.8
+                },
+                {
+                    "tks": 22123,
+                    "party": "\u7121",
+                    "tksRate": 1.34
+                }
+            ],
+            "totalVotables": 2281338,
+            "voteRate": 360.7
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 6243,
+                    "party": "\u7121",
+                    "tksRate": 55.98
+                },
+                {
+                    "tks": 4909,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 44.02
+                }
+            ],
+            "totalVotables": 14728,
+            "voteRate": 340.92
+        },
+        "F6": {
+            "agreeTks": 857170,
+            "disagreeTks": 491490,
+            "totalVotables": 2353342,
+            "voteRate": 57.31
+        },
+        "F7": {
+            "agreeTks": 658515,
+            "disagreeTks": 695878,
+            "totalVotables": 2353342,
+            "voteRate": 57.55
+        },
+        "F8": {
+            "agreeTks": 427186,
+            "disagreeTks": 885698,
+            "totalVotables": 2353342,
+            "voteRate": 55.79
+        },
+        "F9": {
+            "agreeTks": 436565,
+            "disagreeTks": 870018,
+            "totalVotables": 2353342,
+            "voteRate": 55.52
+        },
+        "F1": {
+            "agreeTks": 990802,
+            "disagreeTks": 272337,
+            "totalVotables": 2353342,
+            "voteRate": 53.67
+        },
+        "FA": {
+            "agreeTks": 752932,
+            "disagreeTks": 509854,
+            "totalVotables": 2353342,
+            "voteRate": 53.66
+        },
+        "F2": {
+            "agreeTks": 944727,
+            "disagreeTks": 307838,
+            "totalVotables": 2353342,
+            "voteRate": 53.22
+        },
+        "F3": {
+            "agreeTks": 968007,
+            "disagreeTks": 290441,
+            "totalVotables": 2353342,
+            "voteRate": 53.47
+        },
+        "F4": {
+            "agreeTks": 1005282,
+            "disagreeTks": 355705,
+            "totalVotables": 2353342,
+            "voteRate": 57.83
+        },
+        "F5": {
+            "agreeTks": 934858,
+            "disagreeTks": 413374,
+            "totalVotables": 2353342,
+            "voteRate": 57.29
+        },
+        "age": [
+            155413,
+            186219,
+            187520,
+            195744,
+            239903,
+            228550,
+            220968,
+            218766,
+            214636,
+            197384,
+            158202,
+            85875,
+            69925,
+            43405,
+            25576,
+            9693,
+            1952,
+            233
+        ],
+        "education": [
+            348951,
+            407306,
+            799293,
+            249754,
+            508046,
+            116982,
+            9632
+        ],
+        "sex": [
+            1200597,
+            1239367
+        ],
+        "middle_num": "616"
+    },
+    "10004": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 90880,
+                    "party": "\u7121",
+                    "tksRate": 33.86
+                },
+                {
+                    "tks": 116851,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 43.54
+                },
+                {
+                    "tks": 24384,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 9.09
+                },
+                {
+                    "tks": 1624,
+                    "party": "\u6a39\u9ee8",
+                    "tksRate": 0.61
+                },
+                {
+                    "tks": 4766,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 1.78
+                },
+                {
+                    "tks": 14059,
+                    "party": "\u6c11\u570b\u9ee8",
+                    "tksRate": 5.24
+                },
+                {
+                    "tks": 10247,
+                    "party": "\u52de\u52d5\u9ee8",
+                    "tksRate": 3.82
+                },
+                {
+                    "tks": 5567,
+                    "party": "\u7da0\u9ee8",
+                    "tksRate": 2.07
+                }
+            ],
+            "totalVotables": 412288,
+            "voteRate": 136.58
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 186,
+                    "party": "\u7121",
+                    "tksRate": 18.22
+                },
+                {
+                    "tks": 835,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 81.78
+                }
+            ],
+            "totalVotables": 1945,
+            "voteRate": 126.84
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 107877,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 38.2
+                },
+                {
+                    "tks": 5168,
+                    "party": "\u7121",
+                    "tksRate": 1.83
+                },
+                {
+                    "tks": 78170,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 27.68
+                },
+                {
+                    "tks": 91190,
+                    "party": "\u6c11\u570b\u9ee8",
+                    "tksRate": 32.29
+                }
+            ],
+            "totalVotables": 427652,
+            "voteRate": 138.48
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 5891,
+                    "party": "\u7121",
+                    "tksRate": 64.3
+                },
+                {
+                    "tks": 3271,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 35.7
+                }
+            ],
+            "totalVotables": 12689,
+            "voteRate": 209.97
+        },
+        "F6": {
+            "agreeTks": 150580,
+            "disagreeTks": 92309,
+            "totalVotables": 445051,
+            "voteRate": 54.58
+        },
+        "F7": {
+            "agreeTks": 89171,
+            "disagreeTks": 151859,
+            "totalVotables": 445051,
+            "voteRate": 54.16
+        },
+        "F8": {
+            "agreeTks": 73718,
+            "disagreeTks": 166893,
+            "totalVotables": 445051,
+            "voteRate": 54.06
+        },
+        "F9": {
+            "agreeTks": 77180,
+            "disagreeTks": 163313,
+            "totalVotables": 445051,
+            "voteRate": 54.04
+        },
+        "F1": {
+            "agreeTks": 191602,
+            "disagreeTks": 45444,
+            "totalVotables": 445051,
+            "voteRate": 53.26
+        },
+        "FA": {
+            "agreeTks": 139470,
+            "disagreeTks": 93309,
+            "totalVotables": 445051,
+            "voteRate": 52.3
+        },
+        "F2": {
+            "agreeTks": 183636,
+            "disagreeTks": 50494,
+            "totalVotables": 445051,
+            "voteRate": 52.61
+        },
+        "F3": {
+            "agreeTks": 187845,
+            "disagreeTks": 47564,
+            "totalVotables": 445051,
+            "voteRate": 52.89
+        },
+        "F4": {
+            "agreeTks": 181680,
+            "disagreeTks": 63339,
+            "totalVotables": 445051,
+            "voteRate": 55.05
+        },
+        "F5": {
+            "agreeTks": 168550,
+            "disagreeTks": 75167,
+            "totalVotables": 445051,
+            "voteRate": 54.76
+        },
+        "age": [
+            34701,
+            38732,
+            36081,
+            37633,
+            50565,
+            47943,
+            43541,
+            39959,
+            35922,
+            28906,
+            21183,
+            13383,
+            13528,
+            9445,
+            5691,
+            2230,
+            443,
+            73
+        ],
+        "education": [
+            59230,
+            81462,
+            139182,
+            43320,
+            102263,
+            31823,
+            2679
+        ],
+        "sex": [
+            234041,
+            225918
+        ],
+        "middle_num": "710"
+    },
+    "10005": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 89893,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 30.08
+                },
+                {
+                    "tks": 154698,
+                    "party": "\u7121",
+                    "tksRate": 51.76
+                },
+                {
+                    "tks": 43034,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 14.4
+                },
+                {
+                    "tks": 10328,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 3.46
+                },
+                {
+                    "tks": 943,
+                    "party": "\u4e2d\u83ef\u7d71\u4e00\u4fc3\u9032\u9ee8",
+                    "tksRate": 0.32
+                }
+            ],
+            "totalVotables": 438124,
+            "voteRate": 186.21
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 1590,
+                    "party": "\u7121",
+                    "tksRate": 80.02
+                },
+                {
+                    "tks": 397,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 19.98
+                }
+            ],
+            "totalVotables": 3153,
+            "voteRate": 206.85
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 128614,
+                    "party": "\u7121",
+                    "tksRate": 42.26
+                },
+                {
+                    "tks": 175756,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 57.74
+                }
+            ],
+            "totalVotables": 446507,
+            "voteRate": 186.92
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 1944,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 50.43
+                },
+                {
+                    "tks": 1911,
+                    "party": "\u7121",
+                    "tksRate": 49.57
+                }
+            ],
+            "totalVotables": 4781,
+            "voteRate": 217.19
+        },
+        "F6": {
+            "agreeTks": 153026,
+            "disagreeTks": 95793,
+            "totalVotables": 461580,
+            "voteRate": 53.91
+        },
+        "F7": {
+            "agreeTks": 97041,
+            "disagreeTks": 152791,
+            "totalVotables": 461580,
+            "voteRate": 54.13
+        },
+        "F8": {
+            "agreeTks": 69712,
+            "disagreeTks": 177248,
+            "totalVotables": 461580,
+            "voteRate": 53.5
+        },
+        "F9": {
+            "agreeTks": 74809,
+            "disagreeTks": 172173,
+            "totalVotables": 461580,
+            "voteRate": 53.51
+        },
+        "F1": {
+            "agreeTks": 198009,
+            "disagreeTks": 47324,
+            "totalVotables": 461580,
+            "voteRate": 53.15
+        },
+        "FA": {
+            "agreeTks": 143501,
+            "disagreeTks": 95723,
+            "totalVotables": 461580,
+            "voteRate": 51.83
+        },
+        "F2": {
+            "agreeTks": 188547,
+            "disagreeTks": 53465,
+            "totalVotables": 461580,
+            "voteRate": 52.43
+        },
+        "F3": {
+            "agreeTks": 190918,
+            "disagreeTks": 51594,
+            "totalVotables": 461580,
+            "voteRate": 52.54
+        },
+        "F4": {
+            "agreeTks": 193302,
+            "disagreeTks": 58441,
+            "totalVotables": 461580,
+            "voteRate": 54.54
+        },
+        "F5": {
+            "agreeTks": 175397,
+            "disagreeTks": 74340,
+            "totalVotables": 461580,
+            "voteRate": 54.1
+        },
+        "age": [
+            32634,
+            39284,
+            39234,
+            39593,
+            45822,
+            39981,
+            40551,
+            41529,
+            41854,
+            35764,
+            26909,
+            17245,
+            17216,
+            12676,
+            7758,
+            2852,
+            628,
+            77
+        ],
+        "education": [
+            76969,
+            99084,
+            159621,
+            40790,
+            86797,
+            17305,
+            1041
+        ],
+        "sex": [
+            248060,
+            233547
+        ],
+        "middle_num": "593"
+    },
+    "10007": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 312983,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 44.65
+                },
+                {
+                    "tks": 185842,
+                    "party": "\u7121",
+                    "tksRate": 26.51
+                },
+                {
+                    "tks": 193157,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 27.55
+                },
+                {
+                    "tks": 330,
+                    "party": "\u4e2d\u83ef\u7d71\u4e00\u4fc3\u9032\u9ee8",
+                    "tksRate": 0.05
+                },
+                {
+                    "tks": 8721,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 1.24
+                }
+            ],
+            "totalVotables": 1028181,
+            "voteRate": 184.28
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 491,
+                    "party": "\u7121",
+                    "tksRate": 41.75
+                },
+                {
+                    "tks": 685,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 58.25
+                }
+            ],
+            "totalVotables": 1920,
+            "voteRate": 149.69
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 283269,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 39.87
+                },
+                {
+                    "tks": 377795,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 53.18
+                },
+                {
+                    "tks": 49355,
+                    "party": "\u7121",
+                    "tksRate": 6.95
+                }
+            ],
+            "totalVotables": 1031222,
+            "voteRate": 184.14
+        },
+        "F6": {
+            "agreeTks": 356924,
+            "disagreeTks": 224371,
+            "totalVotables": 1066994,
+            "voteRate": 54.48
+        },
+        "F7": {
+            "agreeTks": 263529,
+            "disagreeTks": 320975,
+            "totalVotables": 1066994,
+            "voteRate": 54.78
+        },
+        "F8": {
+            "agreeTks": 169785,
+            "disagreeTks": 406975,
+            "totalVotables": 1066994,
+            "voteRate": 54.05
+        },
+        "F9": {
+            "agreeTks": 177421,
+            "disagreeTks": 398192,
+            "totalVotables": 1066994,
+            "voteRate": 53.95
+        },
+        "F1": {
+            "agreeTks": 452334,
+            "disagreeTks": 111030,
+            "totalVotables": 1066994,
+            "voteRate": 52.8
+        },
+        "FA": {
+            "agreeTks": 328349,
+            "disagreeTks": 223084,
+            "totalVotables": 1066994,
+            "voteRate": 51.68
+        },
+        "F2": {
+            "agreeTks": 427390,
+            "disagreeTks": 128963,
+            "totalVotables": 1066994,
+            "voteRate": 52.14
+        },
+        "F3": {
+            "agreeTks": 435289,
+            "disagreeTks": 124114,
+            "totalVotables": 1066994,
+            "voteRate": 52.43
+        },
+        "F4": {
+            "agreeTks": 447132,
+            "disagreeTks": 139760,
+            "totalVotables": 1066994,
+            "voteRate": 55.0
+        },
+        "F5": {
+            "agreeTks": 404865,
+            "disagreeTks": 177099,
+            "totalVotables": 1066994,
+            "voteRate": 54.54
+        },
+        "age": [
+            78678,
+            91063,
+            92603,
+            96680,
+            107819,
+            94118,
+            88654,
+            93551,
+            93304,
+            80425,
+            62712,
+            37936,
+            37103,
+            27627,
+            15681,
+            5654,
+            1175,
+            114
+        ],
+        "education": [
+            213840,
+            225635,
+            335140,
+            95488,
+            195121,
+            37626,
+            2047
+        ],
+        "sex": [
+            560734,
+            544163
+        ],
+        "middle_num": "544"
+    },
+    "10008": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 101869,
+                    "party": "\u7121",
+                    "tksRate": 36.79
+                },
+                {
+                    "tks": 106819,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 38.58
+                },
+                {
+                    "tks": 68203,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 24.63
+                }
+            ],
+            "totalVotables": 392248,
+            "voteRate": 172.27
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 756,
+                    "party": "\u7121",
+                    "tksRate": 100.0
+                }
+            ],
+            "totalVotables": 1173,
+            "voteRate": 170.76
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 195385,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 66.72
+                },
+                {
+                    "tks": 97460,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 33.28
+                }
+            ],
+            "totalVotables": 413222,
+            "voteRate": 175.56
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 4129,
+                    "party": "\u7121",
+                    "tksRate": 28.11
+                },
+                {
+                    "tks": 9143,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 62.25
+                },
+                {
+                    "tks": 1415,
+                    "party": "\u65b0\u83ef\u52de\u52d5\u9ee8",
+                    "tksRate": 9.63
+                }
+            ],
+            "totalVotables": 19528,
+            "voteRate": 234.0
+        },
+        "F6": {
+            "agreeTks": 143356,
+            "disagreeTks": 91565,
+            "totalVotables": 427089,
+            "voteRate": 55.01
+        },
+        "F7": {
+            "agreeTks": 98462,
+            "disagreeTks": 138563,
+            "totalVotables": 427089,
+            "voteRate": 55.5
+        },
+        "F8": {
+            "agreeTks": 64424,
+            "disagreeTks": 169616,
+            "totalVotables": 427089,
+            "voteRate": 54.8
+        },
+        "F9": {
+            "agreeTks": 68393,
+            "disagreeTks": 165077,
+            "totalVotables": 427089,
+            "voteRate": 54.67
+        },
+        "F1": {
+            "agreeTks": 187162,
+            "disagreeTks": 41641,
+            "totalVotables": 427089,
+            "voteRate": 53.57
+        },
+        "FA": {
+            "agreeTks": 138860,
+            "disagreeTks": 85227,
+            "totalVotables": 427089,
+            "voteRate": 52.47
+        },
+        "F2": {
+            "agreeTks": 178821,
+            "disagreeTks": 46683,
+            "totalVotables": 427089,
+            "voteRate": 52.8
+        },
+        "F3": {
+            "agreeTks": 178955,
+            "disagreeTks": 46704,
+            "totalVotables": 427089,
+            "voteRate": 52.84
+        },
+        "F4": {
+            "agreeTks": 184051,
+            "disagreeTks": 52700,
+            "totalVotables": 427089,
+            "voteRate": 55.43
+        },
+        "F5": {
+            "agreeTks": 165850,
+            "disagreeTks": 68818,
+            "totalVotables": 427089,
+            "voteRate": 54.95
+        },
+        "age": [
+            29918,
+            36526,
+            35262,
+            33839,
+            37723,
+            34488,
+            37436,
+            40653,
+            41208,
+            35485,
+            27414,
+            16500,
+            16720,
+            11952,
+            7093,
+            2513,
+            531,
+            57
+        ],
+        "education": [
+            83543,
+            101799,
+            137258,
+            38808,
+            69191,
+            13817,
+            902
+        ],
+        "sex": [
+            227785,
+            217533
+        ],
+        "middle_num": "546"
+    },
+    "10009": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 190357,
+                    "party": "\u7121",
+                    "tksRate": 48.79
+                },
+                {
+                    "tks": 8388,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 2.15
+                },
+                {
+                    "tks": 111941,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 28.69
+                },
+                {
+                    "tks": 72660,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 18.62
+                },
+                {
+                    "tks": 6161,
+                    "party": "\u53f0\u7063\u5718\u7d50\u806f\u76df",
+                    "tksRate": 1.58
+                },
+                {
+                    "tks": 673,
+                    "party": "\u7687\u541b\u4eba\u6c11\u653f\u9ee8",
+                    "tksRate": 0.17
+                }
+            ],
+            "totalVotables": 564688,
+            "voteRate": 195.64
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 17424,
+                    "party": "\u7121",
+                    "tksRate": 4.45
+                },
+                {
+                    "tks": 163325,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 41.72
+                },
+                {
+                    "tks": 210770,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 53.83
+                }
+            ],
+            "totalVotables": 565078,
+            "voteRate": 195.53
+        },
+        "F6": {
+            "agreeTks": 170393,
+            "disagreeTks": 114101,
+            "totalVotables": 584480,
+            "voteRate": 48.67
+        },
+        "F7": {
+            "agreeTks": 139350,
+            "disagreeTks": 150404,
+            "totalVotables": 584480,
+            "voteRate": 49.57
+        },
+        "F8": {
+            "agreeTks": 83844,
+            "disagreeTks": 196025,
+            "totalVotables": 584480,
+            "voteRate": 47.88
+        },
+        "F9": {
+            "agreeTks": 88127,
+            "disagreeTks": 190434,
+            "totalVotables": 584480,
+            "voteRate": 47.66
+        },
+        "F1": {
+            "agreeTks": 213508,
+            "disagreeTks": 57394,
+            "totalVotables": 584480,
+            "voteRate": 46.35
+        },
+        "FA": {
+            "agreeTks": 158850,
+            "disagreeTks": 106155,
+            "totalVotables": 584480,
+            "voteRate": 45.34
+        },
+        "F2": {
+            "agreeTks": 201784,
+            "disagreeTks": 65207,
+            "totalVotables": 584480,
+            "voteRate": 45.68
+        },
+        "F3": {
+            "agreeTks": 205923,
+            "disagreeTks": 61421,
+            "totalVotables": 584480,
+            "voteRate": 45.74
+        },
+        "F4": {
+            "agreeTks": 218210,
+            "disagreeTks": 68279,
+            "totalVotables": 584480,
+            "voteRate": 49.02
+        },
+        "F5": {
+            "agreeTks": 196214,
+            "disagreeTks": 88271,
+            "totalVotables": 584480,
+            "voteRate": 48.67
+        },
+        "age": [
+            41577,
+            46586,
+            43540,
+            46898,
+            55427,
+            52044,
+            51033,
+            53669,
+            51627,
+            44777,
+            36831,
+            25275,
+            25474,
+            18528,
+            10460,
+            3618,
+            701,
+            77
+        ],
+        "education": [
+            144341,
+            135694,
+            174022,
+            44863,
+            90656,
+            17540,
+            1026
+        ],
+        "sex": [
+            315209,
+            292933
+        ],
+        "middle_num": "578"
+    },
+    "10010": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 91493,
+                    "party": "\u7121",
+                    "tksRate": 31.67
+                },
+                {
+                    "tks": 137614,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 47.63
+                },
+                {
+                    "tks": 59797,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 20.7
+                }
+            ],
+            "totalVotables": 424652,
+            "voteRate": 228.66
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 145288,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 50.95
+                },
+                {
+                    "tks": 55616,
+                    "party": "\u7121",
+                    "tksRate": 19.5
+                },
+                {
+                    "tks": 84243,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 29.54
+                }
+            ],
+            "totalVotables": 428649,
+            "voteRate": 229.01
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 1108,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 41.17
+                },
+                {
+                    "tks": 1583,
+                    "party": "\u7121",
+                    "tksRate": 58.83
+                }
+            ],
+            "totalVotables": 3763,
+            "voteRate": 276.85
+        },
+        "F6": {
+            "agreeTks": 132636,
+            "disagreeTks": 81825,
+            "totalVotables": 442775,
+            "voteRate": 48.44
+        },
+        "F7": {
+            "agreeTks": 110830,
+            "disagreeTks": 103993,
+            "totalVotables": 442775,
+            "voteRate": 48.52
+        },
+        "F8": {
+            "agreeTks": 61462,
+            "disagreeTks": 144616,
+            "totalVotables": 442775,
+            "voteRate": 46.54
+        },
+        "F9": {
+            "agreeTks": 65100,
+            "disagreeTks": 139182,
+            "totalVotables": 442775,
+            "voteRate": 46.14
+        },
+        "F1": {
+            "agreeTks": 155084,
+            "disagreeTks": 42921,
+            "totalVotables": 442775,
+            "voteRate": 44.72
+        },
+        "FA": {
+            "agreeTks": 114627,
+            "disagreeTks": 81395,
+            "totalVotables": 442775,
+            "voteRate": 44.27
+        },
+        "F2": {
+            "agreeTks": 145827,
+            "disagreeTks": 49345,
+            "totalVotables": 442775,
+            "voteRate": 44.08
+        },
+        "F3": {
+            "agreeTks": 149984,
+            "disagreeTks": 47427,
+            "totalVotables": 442775,
+            "voteRate": 44.58
+        },
+        "F4": {
+            "agreeTks": 166655,
+            "disagreeTks": 48809,
+            "totalVotables": 442775,
+            "voteRate": 48.66
+        },
+        "F5": {
+            "agreeTks": 148475,
+            "disagreeTks": 64207,
+            "totalVotables": 442775,
+            "voteRate": 48.03
+        },
+        "age": [
+            29633,
+            35155,
+            33470,
+            33126,
+            37766,
+            36176,
+            38541,
+            42190,
+            42009,
+            35363,
+            28650,
+            18063,
+            19491,
+            14899,
+            8746,
+            2968,
+            608,
+            81
+        ],
+        "education": [
+            110458,
+            100884,
+            136685,
+            33300,
+            63557,
+            11226,
+            825
+        ],
+        "sex": [
+            237539,
+            219396
+        ],
+        "middle_num": "565"
+    },
+    "10013": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 89617,
+                    "party": "\u7121",
+                    "tksRate": 29.21
+                },
+                {
+                    "tks": 81149,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 26.45
+                },
+                {
+                    "tks": 135198,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 44.07
+                },
+                {
+                    "tks": 795,
+                    "party": "\u4e2d\u83ef\u7d71\u4e00\u4fc3\u9032\u9ee8",
+                    "tksRate": 0.26
+                }
+            ],
+            "totalVotables": 642936,
+            "voteRate": 160.34
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 1165,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 100.0
+                }
+            ],
+            "totalVotables": 3458,
+            "voteRate": 172.38
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 9819,
+                    "party": "\u7121",
+                    "tksRate": 2.09
+                },
+                {
+                    "tks": 197518,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 42.01
+                },
+                {
+                    "tks": 262809,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 55.9
+                }
+            ],
+            "totalVotables": 689393,
+            "voteRate": 165.12
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 15759,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 46.86
+                },
+                {
+                    "tks": 17466,
+                    "party": "\u7121",
+                    "tksRate": 51.94
+                },
+                {
+                    "tks": 404,
+                    "party": "\u4e2d\u83ef\u7d71\u4e00\u4fc3\u9032\u9ee8",
+                    "tksRate": 1.2
+                }
+            ],
+            "totalVotables": 42300,
+            "voteRate": 248.1
+        },
+        "F6": {
+            "agreeTks": 216753,
+            "disagreeTks": 136224,
+            "totalVotables": 711720,
+            "voteRate": 49.59
+        },
+        "F7": {
+            "agreeTks": 180402,
+            "disagreeTks": 177106,
+            "totalVotables": 711720,
+            "voteRate": 50.23
+        },
+        "F8": {
+            "agreeTks": 105349,
+            "disagreeTks": 238235,
+            "totalVotables": 711720,
+            "voteRate": 48.28
+        },
+        "F9": {
+            "agreeTks": 113331,
+            "disagreeTks": 229686,
+            "totalVotables": 711720,
+            "voteRate": 48.2
+        },
+        "F1": {
+            "agreeTks": 259443,
+            "disagreeTks": 70573,
+            "totalVotables": 711720,
+            "voteRate": 46.37
+        },
+        "FA": {
+            "agreeTks": 192218,
+            "disagreeTks": 136052,
+            "totalVotables": 711720,
+            "voteRate": 46.12
+        },
+        "F2": {
+            "agreeTks": 245566,
+            "disagreeTks": 79966,
+            "totalVotables": 711720,
+            "voteRate": 45.74
+        },
+        "F3": {
+            "agreeTks": 248756,
+            "disagreeTks": 79806,
+            "totalVotables": 711720,
+            "voteRate": 46.16
+        },
+        "F4": {
+            "agreeTks": 270712,
+            "disagreeTks": 85379,
+            "totalVotables": 711720,
+            "voteRate": 50.03
+        },
+        "F5": {
+            "agreeTks": 244464,
+            "disagreeTks": 110273,
+            "totalVotables": 711720,
+            "voteRate": 49.84
+        },
+        "age": [
+            47458,
+            60476,
+            57281,
+            55903,
+            65216,
+            61652,
+            63688,
+            67877,
+            67331,
+            59592,
+            46372,
+            27340,
+            25976,
+            17811,
+            9691,
+            3213,
+            633,
+            86
+        ],
+        "education": [
+            137287,
+            150023,
+            250170,
+            63185,
+            114322,
+            21022,
+            1587
+        ],
+        "sex": [
+            376160,
+            361436
+        ],
+        "middle_num": "574"
+    },
+    "10002": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 70189,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 29.46
+                },
+                {
+                    "tks": 82100,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 34.46
+                },
+                {
+                    "tks": 80225,
+                    "party": "\u7121",
+                    "tksRate": 33.68
+                },
+                {
+                    "tks": 5715,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 2.4
+                }
+            ],
+            "totalVotables": 360945,
+            "voteRate": 166.0
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 1056,
+                    "party": "\u7121",
+                    "tksRate": 100.0
+                }
+            ],
+            "totalVotables": 1749,
+            "voteRate": 162.55
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 30745,
+                    "party": "\u7121",
+                    "tksRate": 12.29
+                },
+                {
+                    "tks": 123767,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 49.48
+                },
+                {
+                    "tks": 95609,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 38.23
+                }
+            ],
+            "totalVotables": 373510,
+            "voteRate": 167.59
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 2366,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 29.9
+                },
+                {
+                    "tks": 2490,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 31.47
+                },
+                {
+                    "tks": 3057,
+                    "party": "\u7121",
+                    "tksRate": 38.63
+                }
+            ],
+            "totalVotables": 9914,
+            "voteRate": 231.18
+        },
+        "F6": {
+            "agreeTks": 119746,
+            "disagreeTks": 83726,
+            "totalVotables": 386089,
+            "voteRate": 52.7
+        },
+        "F7": {
+            "agreeTks": 102924,
+            "disagreeTks": 101242,
+            "totalVotables": 386089,
+            "voteRate": 52.88
+        },
+        "F8": {
+            "agreeTks": 66039,
+            "disagreeTks": 133819,
+            "totalVotables": 386089,
+            "voteRate": 51.76
+        },
+        "F9": {
+            "agreeTks": 69188,
+            "disagreeTks": 130483,
+            "totalVotables": 386089,
+            "voteRate": 51.72
+        },
+        "F1": {
+            "agreeTks": 153113,
+            "disagreeTks": 42257,
+            "totalVotables": 386089,
+            "voteRate": 50.6
+        },
+        "FA": {
+            "agreeTks": 111743,
+            "disagreeTks": 77082,
+            "totalVotables": 386089,
+            "voteRate": 48.91
+        },
+        "F2": {
+            "agreeTks": 148910,
+            "disagreeTks": 43259,
+            "totalVotables": 386089,
+            "voteRate": 49.77
+        },
+        "F3": {
+            "agreeTks": 149047,
+            "disagreeTks": 45210,
+            "totalVotables": 386089,
+            "voteRate": 50.31
+        },
+        "F4": {
+            "agreeTks": 150234,
+            "disagreeTks": 55064,
+            "totalVotables": 386089,
+            "voteRate": 53.17
+        },
+        "F5": {
+            "agreeTks": 136422,
+            "disagreeTks": 67663,
+            "totalVotables": 386089,
+            "voteRate": 52.86
+        },
+        "age": [
+            26716,
+            34021,
+            32770,
+            30828,
+            35003,
+            33476,
+            35174,
+            36495,
+            35683,
+            30742,
+            22382,
+            14019,
+            14830,
+            10269,
+            5829,
+            2167,
+            456,
+            73
+        ],
+        "education": [
+            69413,
+            100040,
+            111045,
+            36983,
+            68089,
+            14505,
+            858
+        ],
+        "sex": [
+            201990,
+            198943
+        ],
+        "middle_num": "571"
+    },
+    "10015": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 20372,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 16.61
+                },
+                {
+                    "tks": 76860,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 62.67
+                },
+                {
+                    "tks": 24492,
+                    "party": "\u7121",
+                    "tksRate": 19.97
+                },
+                {
+                    "tks": 919,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 0.75
+                }
+            ],
+            "totalVotables": 197392,
+            "voteRate": 119.35
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 943,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 3.42
+                },
+                {
+                    "tks": 10751,
+                    "party": "\u7121",
+                    "tksRate": 39.03
+                },
+                {
+                    "tks": 15661,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 56.86
+                },
+                {
+                    "tks": 190,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 0.69
+                }
+            ],
+            "totalVotables": 44650,
+            "voteRate": 162.52
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 121297,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 71.52
+                },
+                {
+                    "tks": 43879,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 25.87
+                },
+                {
+                    "tks": 4420,
+                    "party": "\u7121",
+                    "tksRate": 2.61
+                }
+            ],
+            "totalVotables": 268817,
+            "voteRate": 132.49
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 14712,
+                    "party": "\u7121",
+                    "tksRate": 80.94
+                },
+                {
+                    "tks": 3465,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 19.06
+                }
+            ],
+            "totalVotables": 26119,
+            "voteRate": 188.9
+        },
+        "F6": {
+            "agreeTks": 86680,
+            "disagreeTks": 53334,
+            "totalVotables": 278059,
+            "voteRate": 50.35
+        },
+        "F7": {
+            "agreeTks": 49349,
+            "disagreeTks": 88466,
+            "totalVotables": 278059,
+            "voteRate": 49.56
+        },
+        "F8": {
+            "agreeTks": 36102,
+            "disagreeTks": 100144,
+            "totalVotables": 278059,
+            "voteRate": 49.0
+        },
+        "F9": {
+            "agreeTks": 38850,
+            "disagreeTks": 97972,
+            "totalVotables": 278059,
+            "voteRate": 49.21
+        },
+        "F1": {
+            "agreeTks": 108373,
+            "disagreeTks": 25734,
+            "totalVotables": 278059,
+            "voteRate": 48.23
+        },
+        "FA": {
+            "agreeTks": 80187,
+            "disagreeTks": 50311,
+            "totalVotables": 278059,
+            "voteRate": 46.93
+        },
+        "F2": {
+            "agreeTks": 104153,
+            "disagreeTks": 28095,
+            "totalVotables": 278059,
+            "voteRate": 47.56
+        },
+        "F3": {
+            "agreeTks": 104326,
+            "disagreeTks": 28174,
+            "totalVotables": 278059,
+            "voteRate": 47.65
+        },
+        "F4": {
+            "agreeTks": 110028,
+            "disagreeTks": 30699,
+            "totalVotables": 278059,
+            "voteRate": 50.61
+        },
+        "F5": {
+            "agreeTks": 99444,
+            "disagreeTks": 40126,
+            "totalVotables": 278059,
+            "voteRate": 50.19
+        },
+        "age": [
+            19134,
+            23786,
+            22297,
+            21789,
+            25454,
+            24572,
+            25671,
+            26148,
+            26138,
+            23640,
+            17812,
+            10789,
+            9380,
+            6442,
+            3884,
+            1699,
+            392,
+            66
+        ],
+        "education": [
+            49601,
+            59705,
+            97356,
+            26156,
+            45895,
+            9400,
+            980
+        ],
+        "sex": [
+            146166,
+            142927
+        ],
+        "middle_num": "572"
+    },
+    "10014": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 47516,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 60.91
+                },
+                {
+                    "tks": 24862,
+                    "party": "\u7121",
+                    "tksRate": 31.87
+                },
+                {
+                    "tks": 5633,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 7.22
+                }
+            ],
+            "totalVotables": 117756,
+            "voteRate": 103.66
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 10427,
+                    "party": "\u7121",
+                    "tksRate": 36.33
+                },
+                {
+                    "tks": 17456,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 60.82
+                },
+                {
+                    "tks": 457,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 1.59
+                },
+                {
+                    "tks": 360,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 1.25
+                }
+            ],
+            "totalVotables": 45018,
+            "voteRate": 133.53
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 4677,
+                    "party": "\u7121",
+                    "tksRate": 3.91
+                },
+                {
+                    "tks": 44264,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 37.04
+                },
+                {
+                    "tks": 70577,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 59.05
+                }
+            ],
+            "totalVotables": 179706,
+            "voteRate": 117.11
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "tks": 3901,
+                    "party": "\u7121",
+                    "tksRate": 32.03
+                },
+                {
+                    "tks": 6900,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 56.66
+                },
+                {
+                    "tks": 564,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 4.63
+                },
+                {
+                    "tks": 813,
+                    "party": "\u4fe1\u5fc3\u5e0c\u671b\u806f\u76df",
+                    "tksRate": 6.68
+                }
+            ],
+            "totalVotables": 16715,
+            "voteRate": 194.51
+        },
+        "F6": {
+            "agreeTks": 57826,
+            "disagreeTks": 34122,
+            "totalVotables": 185996,
+            "voteRate": 49.44
+        },
+        "F7": {
+            "agreeTks": 33959,
+            "disagreeTks": 55792,
+            "totalVotables": 185996,
+            "voteRate": 48.25
+        },
+        "F8": {
+            "agreeTks": 23365,
+            "disagreeTks": 65685,
+            "totalVotables": 185996,
+            "voteRate": 47.88
+        },
+        "F9": {
+            "agreeTks": 24813,
+            "disagreeTks": 62900,
+            "totalVotables": 185996,
+            "voteRate": 47.16
+        },
+        "F1": {
+            "agreeTks": 67881,
+            "disagreeTks": 17418,
+            "totalVotables": 185996,
+            "voteRate": 45.86
+        },
+        "FA": {
+            "agreeTks": 51032,
+            "disagreeTks": 33932,
+            "totalVotables": 185996,
+            "voteRate": 45.68
+        },
+        "F2": {
+            "agreeTks": 65521,
+            "disagreeTks": 18824,
+            "totalVotables": 185996,
+            "voteRate": 45.35
+        },
+        "F3": {
+            "agreeTks": 65154,
+            "disagreeTks": 19668,
+            "totalVotables": 185996,
+            "voteRate": 45.6
+        },
+        "F4": {
+            "agreeTks": 72221,
+            "disagreeTks": 20213,
+            "totalVotables": 185996,
+            "voteRate": 49.7
+        },
+        "F5": {
+            "agreeTks": 65985,
+            "disagreeTks": 26076,
+            "totalVotables": 185996,
+            "voteRate": 49.5
+        },
+        "age": [
+            13059,
+            15531,
+            14627,
+            14243,
+            16533,
+            16444,
+            17771,
+            18331,
+            17340,
+            15105,
+            11641,
+            7364,
+            6456,
+            4541,
+            2690,
+            1155,
+            268,
+            43
+        ],
+        "education": [
+            43812,
+            44651,
+            61074,
+            13272,
+            24991,
+            5024,
+            318
+        ],
+        "sex": [
+            99492,
+            93650
+        ],
+        "middle_num": "575"
+    },
+    "10016": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 33727,
+                    "party": "\u7121",
+                    "tksRate": 63.94
+                },
+                {
+                    "tks": 3483,
+                    "party": "\u7121\u9ee8\u5718\u7d50\u806f\u76df",
+                    "tksRate": 6.6
+                },
+                {
+                    "tks": 379,
+                    "party": "\u6a39\u9ee8",
+                    "tksRate": 0.72
+                },
+                {
+                    "tks": 5353,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 10.15
+                },
+                {
+                    "tks": 9301,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 17.63
+                },
+                {
+                    "tks": 505,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 0.96
+                }
+            ],
+            "totalVotables": 86497,
+            "voteRate": 94.01
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 14998,
+                    "party": "\u7121",
+                    "tksRate": 28.34
+                },
+                {
+                    "tks": 20570,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 38.87
+                },
+                {
+                    "tks": 17347,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 32.78
+                }
+            ],
+            "totalVotables": 86603,
+            "voteRate": 93.99
+        },
+        "F6": {
+            "agreeTks": 24658,
+            "disagreeTks": 14157,
+            "totalVotables": 90405,
+            "voteRate": 42.93
+        },
+        "F7": {
+            "agreeTks": 16396,
+            "disagreeTks": 23036,
+            "totalVotables": 90405,
+            "voteRate": 43.62
+        },
+        "F8": {
+            "agreeTks": 11008,
+            "disagreeTks": 27052,
+            "totalVotables": 90405,
+            "voteRate": 42.1
+        },
+        "F9": {
+            "agreeTks": 11489,
+            "disagreeTks": 26451,
+            "totalVotables": 90405,
+            "voteRate": 41.97
+        },
+        "F1": {
+            "agreeTks": 29508,
+            "disagreeTks": 7117,
+            "totalVotables": 90405,
+            "voteRate": 40.51
+        },
+        "FA": {
+            "agreeTks": 22697,
+            "disagreeTks": 13207,
+            "totalVotables": 90405,
+            "voteRate": 39.71
+        },
+        "F2": {
+            "agreeTks": 28232,
+            "disagreeTks": 7910,
+            "totalVotables": 90405,
+            "voteRate": 39.98
+        },
+        "F3": {
+            "agreeTks": 28923,
+            "disagreeTks": 7616,
+            "totalVotables": 90405,
+            "voteRate": 40.42
+        },
+        "F4": {
+            "agreeTks": 30169,
+            "disagreeTks": 9187,
+            "totalVotables": 90405,
+            "voteRate": 43.53
+        },
+        "F5": {
+            "agreeTks": 27546,
+            "disagreeTks": 11418,
+            "totalVotables": 90405,
+            "voteRate": 43.1
+        },
+        "age": [
+            5976,
+            8390,
+            7597,
+            7541,
+            8316,
+            7711,
+            7565,
+            7864,
+            7597,
+            6472,
+            5079,
+            3100,
+            2788,
+            2522,
+            1593,
+            618,
+            160,
+            8
+        ],
+        "education": [
+            18406,
+            18120,
+            28523,
+            6648,
+            15727,
+            3223,
+            250
+        ],
+        "sex": [
+            46609,
+            44288
+        ],
+        "middle_num": "676"
+    },
+    "10017": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 46724,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 25.33
+                },
+                {
+                    "tks": 80093,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 43.41
+                },
+                {
+                    "tks": 10016,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 5.43
+                },
+                {
+                    "tks": 38133,
+                    "party": "\u7121",
+                    "tksRate": 20.67
+                },
+                {
+                    "tks": 5711,
+                    "party": "\u6c11\u570b\u9ee8",
+                    "tksRate": 3.1
+                },
+                {
+                    "tks": 3732,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 2.02
+                },
+                {
+                    "tks": 75,
+                    "party": "\u5168\u6c11\u751f\u6d3b\u653f\u7b56\u9ee8",
+                    "tksRate": 0.04
+                }
+            ],
+            "totalVotables": 302673,
+            "voteRate": 161.6
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 924,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 29.82
+                },
+                {
+                    "tks": 2175,
+                    "party": "\u7121",
+                    "tksRate": 70.18
+                }
+            ],
+            "totalVotables": 5760,
+            "voteRate": 94.15
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 86529,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 45.86
+                },
+                {
+                    "tks": 102167,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 54.14
+                }
+            ],
+            "totalVotables": 309428,
+            "voteRate": 159.45
+        },
+        "F6": {
+            "agreeTks": 96333,
+            "disagreeTks": 62976,
+            "totalVotables": 320030,
+            "voteRate": 49.78
+        },
+        "F7": {
+            "agreeTks": 68736,
+            "disagreeTks": 90381,
+            "totalVotables": 320030,
+            "voteRate": 49.72
+        },
+        "F8": {
+            "agreeTks": 53224,
+            "disagreeTks": 103741,
+            "totalVotables": 320030,
+            "voteRate": 49.05
+        },
+        "F9": {
+            "agreeTks": 54369,
+            "disagreeTks": 102268,
+            "totalVotables": 320030,
+            "voteRate": 48.94
+        },
+        "F1": {
+            "agreeTks": 121863,
+            "disagreeTks": 31714,
+            "totalVotables": 320030,
+            "voteRate": 47.99
+        },
+        "FA": {
+            "agreeTks": 90311,
+            "disagreeTks": 61447,
+            "totalVotables": 320030,
+            "voteRate": 47.42
+        },
+        "F2": {
+            "agreeTks": 118570,
+            "disagreeTks": 33570,
+            "totalVotables": 320030,
+            "voteRate": 47.54
+        },
+        "F3": {
+            "agreeTks": 119425,
+            "disagreeTks": 33714,
+            "totalVotables": 320030,
+            "voteRate": 47.85
+        },
+        "F4": {
+            "agreeTks": 116173,
+            "disagreeTks": 44691,
+            "totalVotables": 320030,
+            "voteRate": 50.27
+        },
+        "F5": {
+            "agreeTks": 106801,
+            "disagreeTks": 52811,
+            "totalVotables": 320030,
+            "voteRate": 49.87
+        },
+        "age": [
+            21039,
+            26486,
+            26275,
+            23634,
+            28039,
+            27942,
+            30042,
+            31758,
+            32091,
+            27996,
+            21262,
+            10753,
+            10231,
+            6524,
+            3868,
+            1678,
+            379,
+            86
+        ],
+        "education": [
+            47185,
+            63010,
+            113329,
+            33913,
+            60102,
+            11775,
+            769
+        ],
+        "sex": [
+            164405,
+            165678
+        ],
+        "middle_num": "590"
+    },
+    "10018": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 77196,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 36.1
+                },
+                {
+                    "tks": 48024,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 22.46
+                },
+                {
+                    "tks": 64147,
+                    "party": "\u7121",
+                    "tksRate": 30.0
+                },
+                {
+                    "tks": 14949,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 6.99
+                },
+                {
+                    "tks": 7254,
+                    "party": "\u7da0\u9ee8",
+                    "tksRate": 3.39
+                },
+                {
+                    "tks": 2259,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 1.06
+                }
+            ],
+            "totalVotables": 335832,
+            "voteRate": 126.12
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "tks": 471,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 67.58
+                },
+                {
+                    "tks": 226,
+                    "party": "\u7121",
+                    "tksRate": 32.42
+                }
+            ],
+            "totalVotables": 1304,
+            "voteRate": 115.95
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 48983,
+                    "party": "\u7121",
+                    "tksRate": 22.56
+                },
+                {
+                    "tks": 60508,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 27.87
+                },
+                {
+                    "tks": 107612,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 49.57
+                }
+            ],
+            "totalVotables": 338323,
+            "voteRate": 126.08
+        },
+        "F6": {
+            "agreeTks": 116724,
+            "disagreeTks": 75092,
+            "totalVotables": 351775,
+            "voteRate": 54.53
+        },
+        "F7": {
+            "agreeTks": 80567,
+            "disagreeTks": 111788,
+            "totalVotables": 351775,
+            "voteRate": 54.68
+        },
+        "F8": {
+            "agreeTks": 65851,
+            "disagreeTks": 124511,
+            "totalVotables": 351775,
+            "voteRate": 54.11
+        },
+        "F9": {
+            "agreeTks": 67231,
+            "disagreeTks": 123030,
+            "totalVotables": 351775,
+            "voteRate": 54.09
+        },
+        "F1": {
+            "agreeTks": 147391,
+            "disagreeTks": 39438,
+            "totalVotables": 351775,
+            "voteRate": 53.11
+        },
+        "FA": {
+            "agreeTks": 110083,
+            "disagreeTks": 73690,
+            "totalVotables": 351775,
+            "voteRate": 52.24
+        },
+        "F2": {
+            "agreeTks": 141640,
+            "disagreeTks": 43061,
+            "totalVotables": 351775,
+            "voteRate": 52.51
+        },
+        "F3": {
+            "agreeTks": 146486,
+            "disagreeTks": 39257,
+            "totalVotables": 351775,
+            "voteRate": 52.8
+        },
+        "F4": {
+            "agreeTks": 135398,
+            "disagreeTks": 58148,
+            "totalVotables": 351775,
+            "voteRate": 55.02
+        },
+        "F5": {
+            "agreeTks": 127376,
+            "disagreeTks": 65250,
+            "totalVotables": 351775,
+            "voteRate": 54.76
+        },
+        "age": [
+            26662,
+            27997,
+            27095,
+            30717,
+            42303,
+            38136,
+            34591,
+            30907,
+            28174,
+            24168,
+            18407,
+            10660,
+            8898,
+            5914,
+            3992,
+            1822,
+            400,
+            64
+        ],
+        "education": [
+            39224,
+            58214,
+            99132,
+            34439,
+            90298,
+            35382,
+            4218
+        ],
+        "sex": [
+            176265,
+            184642
+        ],
+        "middle_num": "751"
+    },
+    "10020": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 68714,
+                    "party": "\u7121",
+                    "tksRate": 48.97
+                },
+                {
+                    "tks": 31903,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 22.73
+                },
+                {
+                    "tks": 33272,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 23.71
+                },
+                {
+                    "tks": 4578,
+                    "party": "\u53f0\u7063\u5718\u7d50\u806f\u76df",
+                    "tksRate": 3.26
+                },
+                {
+                    "tks": 1865,
+                    "party": "\u6642\u4ee3\u529b\u91cf",
+                    "tksRate": 1.33
+                }
+            ],
+            "totalVotables": 212528,
+            "voteRate": 104.05
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 27394,
+                    "party": "\u7121",
+                    "tksRate": 19.26
+                },
+                {
+                    "tks": 58558,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 41.18
+                },
+                {
+                    "tks": 56256,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 39.56
+                }
+            ],
+            "totalVotables": 212843,
+            "voteRate": 104.04
+        },
+        "F6": {
+            "agreeTks": 73821,
+            "disagreeTks": 44563,
+            "totalVotables": 221553,
+            "voteRate": 53.43
+        },
+        "F7": {
+            "agreeTks": 58391,
+            "disagreeTks": 60171,
+            "totalVotables": 221553,
+            "voteRate": 53.51
+        },
+        "F8": {
+            "agreeTks": 37776,
+            "disagreeTks": 77841,
+            "totalVotables": 221553,
+            "voteRate": 52.18
+        },
+        "F9": {
+            "agreeTks": 39449,
+            "disagreeTks": 75746,
+            "totalVotables": 221553,
+            "voteRate": 51.99
+        },
+        "F1": {
+            "agreeTks": 86276,
+            "disagreeTks": 24205,
+            "totalVotables": 221553,
+            "voteRate": 49.87
+        },
+        "FA": {
+            "agreeTks": 64519,
+            "disagreeTks": 45975,
+            "totalVotables": 221553,
+            "voteRate": 49.87
+        },
+        "F2": {
+            "agreeTks": 81506,
+            "disagreeTks": 27853,
+            "totalVotables": 221553,
+            "voteRate": 49.36
+        },
+        "F3": {
+            "agreeTks": 84825,
+            "disagreeTks": 25741,
+            "totalVotables": 221553,
+            "voteRate": 49.9
+        },
+        "F4": {
+            "agreeTks": 86583,
+            "disagreeTks": 32815,
+            "totalVotables": 221553,
+            "voteRate": 53.89
+        },
+        "F5": {
+            "agreeTks": 80216,
+            "disagreeTks": 38442,
+            "totalVotables": 221553,
+            "voteRate": 53.56
+        },
+        "age": [
+            18000,
+            19484,
+            17782,
+            17876,
+            21534,
+            20724,
+            20788,
+            20921,
+            19543,
+            17002,
+            13632,
+            8042,
+            7108,
+            5019,
+            2925,
+            1145,
+            233,
+            36
+        ],
+        "education": [
+            30135,
+            36583,
+            74281,
+            27814,
+            49700,
+            12199,
+            1082
+        ],
+        "sex": [
+            111334,
+            120460
+        ],
+        "middle_num": "619"
+    },
+    "09020": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 19603,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 40.67
+                },
+                {
+                    "tks": 26182,
+                    "party": "\u7121",
+                    "tksRate": 54.32
+                },
+                {
+                    "tks": 190,
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                    "tksRate": 0.39
+                },
+                {
+                    "tks": 440,
+                    "party": "\u89aa\u6c11\u9ee8",
+                    "tksRate": 0.91
+                },
+                {
+                    "tks": 1782,
+                    "party": "\u4e2d\u83ef\u6c11\u65cf\u81f4\u516c\u9ee8",
+                    "tksRate": 3.7
+                }
+            ],
+            "totalVotables": 117763,
+            "voteRate": 84.13
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 23520,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 47.78
+                },
+                {
+                    "tks": 832,
+                    "party": "\u91d1\u9580\u9ad8\u7cb1\u9ee8",
+                    "tksRate": 1.69
+                },
+                {
+                    "tks": 403,
+                    "party": "\u6559\u79d1\u6587\u9810\u7b97\u4fdd\u969ce\u806f\u76df",
+                    "tksRate": 0.82
+                },
+                {
+                    "tks": 24474,
+                    "party": "\u7121",
+                    "tksRate": 49.71
+                }
+            ],
+            "totalVotables": 117913,
+            "voteRate": 84.11
+        },
+        "F6": {
+            "agreeTks": 26932,
+            "disagreeTks": 14773,
+            "totalVotables": 122695,
+            "voteRate": 33.99
+        },
+        "F7": {
+            "agreeTks": 9644,
+            "disagreeTks": 32014,
+            "totalVotables": 122695,
+            "voteRate": 33.95
+        },
+        "F8": {
+            "agreeTks": 10414,
+            "disagreeTks": 31439,
+            "totalVotables": 122695,
+            "voteRate": 34.11
+        },
+        "F9": {
+            "agreeTks": 10826,
+            "disagreeTks": 30970,
+            "totalVotables": 122695,
+            "voteRate": 34.06
+        },
+        "F1": {
+            "agreeTks": 35436,
+            "disagreeTks": 6045,
+            "totalVotables": 122695,
+            "voteRate": 33.81
+        },
+        "FA": {
+            "agreeTks": 26851,
+            "disagreeTks": 13274,
+            "totalVotables": 122695,
+            "voteRate": 32.7
+        },
+        "F2": {
+            "agreeTks": 34139,
+            "disagreeTks": 6816,
+            "totalVotables": 122695,
+            "voteRate": 33.38
+        },
+        "F3": {
+            "agreeTks": 33982,
+            "disagreeTks": 6656,
+            "totalVotables": 122695,
+            "voteRate": 33.12
+        },
+        "F4": {
+            "agreeTks": 32991,
+            "disagreeTks": 8977,
+            "totalVotables": 122695,
+            "voteRate": 34.21
+        },
+        "F5": {
+            "agreeTks": 30593,
+            "disagreeTks": 11206,
+            "totalVotables": 122695,
+            "voteRate": 34.07
+        },
+        "age": [
+            6805,
+            12079,
+            11073,
+            10274,
+            10355,
+            9708,
+            10893,
+            12704,
+            12548,
+            10666,
+            6137,
+            3472,
+            2936,
+            2260,
+            1264,
+            541,
+            172,
+            49
+        ],
+        "education": [
+            17045,
+            19276,
+            40278,
+            12200,
+            28525,
+            6127,
+            485
+        ],
+        "sex": [
+            61645,
+            62291
+        ],
+        "middle_num": "708"
+    },
+    "09007": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "tks": 5913,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 78.96
+                },
+                {
+                    "tks": 1576,
+                    "party": "\u7121",
+                    "tksRate": 21.04
+                }
+            ],
+            "totalVotables": 10771,
+            "voteRate": 106.55
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "tks": 927,
+                    "party": "\u6a39\u9ee8",
+                    "tksRate": 12.51
+                },
+                {
+                    "tks": 1620,
+                    "party": "\u7121",
+                    "tksRate": 21.87
+                },
+                {
+                    "tks": 4861,
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                    "tksRate": 65.62
+                }
+            ],
+            "totalVotables": 10773,
+            "voteRate": 106.51
+        },
+        "F6": {
+            "agreeTks": 3599,
+            "disagreeTks": 1925,
+            "totalVotables": 11205,
+            "voteRate": 49.3
+        },
+        "F7": {
+            "agreeTks": 1176,
+            "disagreeTks": 4390,
+            "totalVotables": 11205,
+            "voteRate": 49.67
+        },
+        "F8": {
+            "agreeTks": 1493,
+            "disagreeTks": 4083,
+            "totalVotables": 11205,
+            "voteRate": 49.76
+        },
+        "F9": {
+            "agreeTks": 1480,
+            "disagreeTks": 4110,
+            "totalVotables": 11205,
+            "voteRate": 49.89
+        },
+        "F1": {
+            "agreeTks": 4843,
+            "disagreeTks": 655,
+            "totalVotables": 11205,
+            "voteRate": 49.07
+        },
+        "FA": {
+            "agreeTks": 3764,
+            "disagreeTks": 1663,
+            "totalVotables": 11205,
+            "voteRate": 48.43
+        },
+        "F2": {
+            "agreeTks": 4705,
+            "disagreeTks": 769,
+            "totalVotables": 11205,
+            "voteRate": 48.85
+        },
+        "F3": {
+            "agreeTks": 4751,
+            "disagreeTks": 736,
+            "totalVotables": 11205,
+            "voteRate": 48.97
+        },
+        "F4": {
+            "agreeTks": 4341,
+            "disagreeTks": 1249,
+            "totalVotables": 11205,
+            "voteRate": 49.89
+        },
+        "F5": {
+            "agreeTks": 4131,
+            "disagreeTks": 1461,
+            "totalVotables": 11205,
+            "voteRate": 49.91
+        },
+        "age": [
+            290,
+            407,
+            431,
+            380,
+            482,
+            431,
+            442,
+            509,
+            493,
+            405,
+            224,
+            135,
+            82,
+            74,
+            44,
+            19,
+            12,
+            1
+        ],
+        "education": [
+            797,
+            788,
+            1488,
+            471,
+            1043,
+            268,
+            6
+        ],
+        "sex": [
+            2806,
+            2055
+        ],
+        "middle_num": "783"
+    }
+}

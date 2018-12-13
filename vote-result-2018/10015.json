@@ -1,0 +1,185 @@
+{
+    "T1": {
+        "candTksInfo": [
+            {
+                "tks": 20372,
+                "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                "tksRate": 16.61
+            },
+            {
+                "tks": 76860,
+                "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                "tksRate": 62.67
+            },
+            {
+                "tks": 24492,
+                "party": "\u7121",
+                "tksRate": 19.97
+            },
+            {
+                "tks": 919,
+                "party": "\u6642\u4ee3\u529b\u91cf",
+                "tksRate": 0.75
+            }
+        ],
+        "totalVotables": 197392,
+        "voteRate": 119.35
+    },
+    "T2": {
+        "candTksInfo": [
+            {
+                "tks": 943,
+                "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                "tksRate": 3.42
+            },
+            {
+                "tks": 10751,
+                "party": "\u7121",
+                "tksRate": 39.03
+            },
+            {
+                "tks": 15661,
+                "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                "tksRate": 56.86
+            },
+            {
+                "tks": 190,
+                "party": "\u6642\u4ee3\u529b\u91cf",
+                "tksRate": 0.69
+            }
+        ],
+        "totalVotables": 44650,
+        "voteRate": 162.52
+    },
+    "TC": {
+        "candTksInfo": [
+            {
+                "tks": 121297,
+                "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                "tksRate": 71.52
+            },
+            {
+                "tks": 43879,
+                "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8",
+                "tksRate": 25.87
+            },
+            {
+                "tks": 4420,
+                "party": "\u7121",
+                "tksRate": 2.61
+            }
+        ],
+        "totalVotables": 268817,
+        "voteRate": 132.49
+    },
+    "T3": {
+        "candTksInfo": [
+            {
+                "tks": 14712,
+                "party": "\u7121",
+                "tksRate": 80.94
+            },
+            {
+                "tks": 3465,
+                "party": "\u4e2d\u570b\u570b\u6c11\u9ee8",
+                "tksRate": 19.06
+            }
+        ],
+        "totalVotables": 26119,
+        "voteRate": 188.9
+    },
+    "F6": {
+        "agreeTks": 86680,
+        "disagreeTks": 53334,
+        "totalVotables": 278059,
+        "voteRate": 50.35
+    },
+    "F7": {
+        "agreeTks": 49349,
+        "disagreeTks": 88466,
+        "totalVotables": 278059,
+        "voteRate": 49.56
+    },
+    "F8": {
+        "agreeTks": 36102,
+        "disagreeTks": 100144,
+        "totalVotables": 278059,
+        "voteRate": 49.0
+    },
+    "F9": {
+        "agreeTks": 38850,
+        "disagreeTks": 97972,
+        "totalVotables": 278059,
+        "voteRate": 49.21
+    },
+    "F1": {
+        "agreeTks": 108373,
+        "disagreeTks": 25734,
+        "totalVotables": 278059,
+        "voteRate": 48.23
+    },
+    "FA": {
+        "agreeTks": 80187,
+        "disagreeTks": 50311,
+        "totalVotables": 278059,
+        "voteRate": 46.93
+    },
+    "F2": {
+        "agreeTks": 104153,
+        "disagreeTks": 28095,
+        "totalVotables": 278059,
+        "voteRate": 47.56
+    },
+    "F3": {
+        "agreeTks": 104326,
+        "disagreeTks": 28174,
+        "totalVotables": 278059,
+        "voteRate": 47.65
+    },
+    "F4": {
+        "agreeTks": 110028,
+        "disagreeTks": 30699,
+        "totalVotables": 278059,
+        "voteRate": 50.61
+    },
+    "F5": {
+        "agreeTks": 99444,
+        "disagreeTks": 40126,
+        "totalVotables": 278059,
+        "voteRate": 50.19
+    },
+    "age": [
+        19134,
+        23786,
+        22297,
+        21789,
+        25454,
+        24572,
+        25671,
+        26148,
+        26138,
+        23640,
+        17812,
+        10789,
+        9380,
+        6442,
+        3884,
+        1699,
+        392,
+        66
+    ],
+    "education": [
+        49601,
+        59705,
+        97356,
+        26156,
+        45895,
+        9400,
+        980
+    ],
+    "sex": [
+        146166,
+        142927
+    ],
+    "middle_num": "572"
+}

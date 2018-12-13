@@ -1,0 +1,2422 @@
+{
+    "005": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 366,
+                    "candVictor": "*",
+                    "tksRate": 32.13,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 510,
+                    "candVictor": " ",
+                    "tksRate": 44.78,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 263,
+                    "candVictor": "*",
+                    "tksRate": 23.09,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 1684,
+            "voteRate": 69.95,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 19,
+                    "candVictor": " ",
+                    "tksRate": 21.84,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 68,
+                    "candVictor": "*",
+                    "tksRate": 78.16,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 155,
+            "voteRate": 59.35,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 23,
+                    "candVictor": " ",
+                    "tksRate": 1.83,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 542,
+                    "candVictor": " ",
+                    "tksRate": 43.22,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 3,
+                    "candVictor": " ",
+                    "tksRate": 0.24,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 9,
+                    "candVictor": " ",
+                    "tksRate": 0.72,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 677,
+                    "candVictor": "*",
+                    "tksRate": 53.99,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 1871,
+            "voteRate": 68.79,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 4,
+                    "candVictor": " ",
+                    "tksRate": 23.53,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 13,
+                    "candVictor": "*",
+                    "tksRate": 76.47,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 32,
+            "voteRate": 53.12,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 547,
+            "disagreeTks": 378,
+            "totalVotables": 1921,
+            "voteRate": 48.15
+        },
+        "F7": {
+            "agreeTks": 388,
+            "disagreeTks": 572,
+            "totalVotables": 1921,
+            "voteRate": 49.97
+        },
+        "F8": {
+            "agreeTks": 259,
+            "disagreeTks": 666,
+            "totalVotables": 1921,
+            "voteRate": 48.15
+        },
+        "F9": {
+            "agreeTks": 293,
+            "disagreeTks": 635,
+            "totalVotables": 1921,
+            "voteRate": 48.31
+        },
+        "F1": {
+            "agreeTks": 740,
+            "disagreeTks": 156,
+            "totalVotables": 1921,
+            "voteRate": 46.64
+        },
+        "FA": {
+            "agreeTks": 527,
+            "disagreeTks": 347,
+            "totalVotables": 1921,
+            "voteRate": 45.5
+        },
+        "F2": {
+            "agreeTks": 686,
+            "disagreeTks": 194,
+            "totalVotables": 1921,
+            "voteRate": 45.81
+        },
+        "F3": {
+            "agreeTks": 692,
+            "disagreeTks": 198,
+            "totalVotables": 1921,
+            "voteRate": 46.33
+        },
+        "F4": {
+            "agreeTks": 725,
+            "disagreeTks": 215,
+            "totalVotables": 1921,
+            "voteRate": 48.93
+        },
+        "F5": {
+            "agreeTks": 653,
+            "disagreeTks": 271,
+            "totalVotables": 1921,
+            "voteRate": 48.1
+        },
+        "age": [
+            120,
+            140,
+            150,
+            128,
+            166,
+            163,
+            177,
+            165,
+            182,
+            173,
+            125,
+            88,
+            87,
+            64,
+            39,
+            14,
+            8,
+            1
+        ],
+        "education": [
+            408,
+            410,
+            683,
+            164,
+            287,
+            36,
+            2
+        ],
+        "sex": [
+            953,
+            1037
+        ],
+        "merriage": [
+            664,
+            933,
+            185,
+            208
+        ],
+        "middle_num": 568
+    },
+    "001": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 140,
+                    "candVictor": "*",
+                    "tksRate": 27.03,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 251,
+                    "candVictor": " ",
+                    "tksRate": 48.46,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 127,
+                    "candVictor": "*",
+                    "tksRate": 24.52,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 856,
+            "voteRate": 62.03,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 32,
+                    "candVictor": " ",
+                    "tksRate": 31.37,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 70,
+                    "candVictor": "*",
+                    "tksRate": 68.63,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 197,
+            "voteRate": 53.81,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 13,
+                    "candVictor": " ",
+                    "tksRate": 2.04,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 255,
+                    "candVictor": " ",
+                    "tksRate": 39.97,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 5,
+                    "candVictor": " ",
+                    "tksRate": 0.78,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 3,
+                    "candVictor": " ",
+                    "tksRate": 0.47,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 362,
+                    "candVictor": "*",
+                    "tksRate": 56.74,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 1093,
+            "voteRate": 60.02,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 4,
+                    "candVictor": " ",
+                    "tksRate": 23.53,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 13,
+                    "candVictor": "*",
+                    "tksRate": 76.47,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 39,
+            "voteRate": 46.15,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 243,
+            "disagreeTks": 221,
+            "totalVotables": 1137,
+            "voteRate": 40.81
+        },
+        "F7": {
+            "agreeTks": 198,
+            "disagreeTks": 281,
+            "totalVotables": 1137,
+            "voteRate": 42.13
+        },
+        "F8": {
+            "agreeTks": 137,
+            "disagreeTks": 326,
+            "totalVotables": 1137,
+            "voteRate": 40.72
+        },
+        "F9": {
+            "agreeTks": 143,
+            "disagreeTks": 317,
+            "totalVotables": 1137,
+            "voteRate": 40.46
+        },
+        "F1": {
+            "agreeTks": 348,
+            "disagreeTks": 111,
+            "totalVotables": 1137,
+            "voteRate": 40.37
+        },
+        "FA": {
+            "agreeTks": 256,
+            "disagreeTks": 200,
+            "totalVotables": 1137,
+            "voteRate": 40.11
+        },
+        "F2": {
+            "agreeTks": 332,
+            "disagreeTks": 120,
+            "totalVotables": 1137,
+            "voteRate": 39.75
+        },
+        "F3": {
+            "agreeTks": 320,
+            "disagreeTks": 133,
+            "totalVotables": 1137,
+            "voteRate": 39.84
+        },
+        "F4": {
+            "agreeTks": 348,
+            "disagreeTks": 102,
+            "totalVotables": 1137,
+            "voteRate": 39.58
+        },
+        "F5": {
+            "agreeTks": 278,
+            "disagreeTks": 176,
+            "totalVotables": 1137,
+            "voteRate": 39.93
+        },
+        "age": [
+            86,
+            81,
+            65,
+            49,
+            91,
+            127,
+            115,
+            114,
+            100,
+            100,
+            75,
+            52,
+            52,
+            32,
+            32,
+            13,
+            8,
+            0
+        ],
+        "education": [
+            351,
+            310,
+            374,
+            57,
+            92,
+            8,
+            0
+        ],
+        "sex": [
+            630,
+            562
+        ],
+        "merriage": [
+            400,
+            469,
+            160,
+            163
+        ],
+        "middle_num": 497
+    },
+    "002": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 59,
+                    "candVictor": "*",
+                    "tksRate": 14.71,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 229,
+                    "candVictor": " ",
+                    "tksRate": 57.11,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 113,
+                    "candVictor": "*",
+                    "tksRate": 28.18,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 536,
+            "voteRate": 76.87,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 21,
+                    "candVictor": " ",
+                    "tksRate": 35.0,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 39,
+                    "candVictor": "*",
+                    "tksRate": 65.0,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 92,
+            "voteRate": 70.65,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 12,
+                    "candVictor": " ",
+                    "tksRate": 2.66,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 169,
+                    "candVictor": " ",
+                    "tksRate": 37.47,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 3,
+                    "candVictor": " ",
+                    "tksRate": 0.67,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 267,
+                    "candVictor": "*",
+                    "tksRate": 59.2,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 633,
+            "voteRate": 75.51,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 1,
+                    "candVictor": "*",
+                    "tksRate": 100.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 5,
+            "voteRate": 20.0,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 142,
+            "disagreeTks": 122,
+            "totalVotables": 654,
+            "voteRate": 43.58
+        },
+        "F7": {
+            "agreeTks": 122,
+            "disagreeTks": 161,
+            "totalVotables": 654,
+            "voteRate": 45.11
+        },
+        "F8": {
+            "agreeTks": 64,
+            "disagreeTks": 203,
+            "totalVotables": 654,
+            "voteRate": 44.04
+        },
+        "F9": {
+            "agreeTks": 72,
+            "disagreeTks": 190,
+            "totalVotables": 654,
+            "voteRate": 43.73
+        },
+        "F1": {
+            "agreeTks": 201,
+            "disagreeTks": 40,
+            "totalVotables": 654,
+            "voteRate": 39.91
+        },
+        "FA": {
+            "agreeTks": 146,
+            "disagreeTks": 91,
+            "totalVotables": 654,
+            "voteRate": 39.91
+        },
+        "F2": {
+            "agreeTks": 191,
+            "disagreeTks": 49,
+            "totalVotables": 654,
+            "voteRate": 40.21
+        },
+        "F3": {
+            "agreeTks": 187,
+            "disagreeTks": 53,
+            "totalVotables": 654,
+            "voteRate": 40.06
+        },
+        "F4": {
+            "agreeTks": 213,
+            "disagreeTks": 54,
+            "totalVotables": 654,
+            "voteRate": 43.73
+        },
+        "F5": {
+            "agreeTks": 174,
+            "disagreeTks": 88,
+            "totalVotables": 654,
+            "voteRate": 43.73
+        },
+        "age": [
+            38,
+            50,
+            43,
+            34,
+            51,
+            63,
+            59,
+            71,
+            61,
+            47,
+            59,
+            28,
+            25,
+            31,
+            15,
+            4,
+            1,
+            1
+        ],
+        "education": [
+            187,
+            172,
+            209,
+            46,
+            59,
+            8,
+            0
+        ],
+        "sex": [
+            356,
+            325
+        ],
+        "merriage": [
+            226,
+            284,
+            79,
+            92
+        ],
+        "middle_num": 553
+    },
+    "003": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 14,
+                    "candVictor": "*",
+                    "tksRate": 26.42,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 21,
+                    "candVictor": " ",
+                    "tksRate": 39.62,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 18,
+                    "candVictor": "*",
+                    "tksRate": 33.96,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 83,
+            "voteRate": 71.08,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 36,
+                    "candVictor": " ",
+                    "tksRate": 26.28,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 101,
+                    "candVictor": "*",
+                    "tksRate": 73.72,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 230,
+            "voteRate": 66.52,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 3,
+                    "candVictor": " ",
+                    "tksRate": 1.6,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 60,
+                    "candVictor": " ",
+                    "tksRate": 32.09,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 2,
+                    "candVictor": " ",
+                    "tksRate": 1.07,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 2,
+                    "candVictor": " ",
+                    "tksRate": 1.07,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 120,
+                    "candVictor": "*",
+                    "tksRate": 64.17,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 315,
+            "voteRate": 67.3,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 0,
+                    "candVictor": "*",
+                    "tksRate": 0.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 2,
+            "voteRate": 0.0,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 55,
+            "disagreeTks": 59,
+            "totalVotables": 324,
+            "voteRate": 39.81
+        },
+        "F7": {
+            "agreeTks": 44,
+            "disagreeTks": 69,
+            "totalVotables": 324,
+            "voteRate": 40.12
+        },
+        "F8": {
+            "agreeTks": 25,
+            "disagreeTks": 87,
+            "totalVotables": 324,
+            "voteRate": 39.81
+        },
+        "F9": {
+            "agreeTks": 33,
+            "disagreeTks": 75,
+            "totalVotables": 324,
+            "voteRate": 39.81
+        },
+        "F1": {
+            "agreeTks": 86,
+            "disagreeTks": 27,
+            "totalVotables": 324,
+            "voteRate": 39.51
+        },
+        "FA": {
+            "agreeTks": 50,
+            "disagreeTks": 59,
+            "totalVotables": 324,
+            "voteRate": 39.81
+        },
+        "F2": {
+            "agreeTks": 81,
+            "disagreeTks": 27,
+            "totalVotables": 324,
+            "voteRate": 39.51
+        },
+        "F3": {
+            "agreeTks": 79,
+            "disagreeTks": 33,
+            "totalVotables": 324,
+            "voteRate": 39.51
+        },
+        "F4": {
+            "agreeTks": 87,
+            "disagreeTks": 26,
+            "totalVotables": 324,
+            "voteRate": 39.51
+        },
+        "F5": {
+            "agreeTks": 74,
+            "disagreeTks": 40,
+            "totalVotables": 324,
+            "voteRate": 39.81
+        },
+        "age": [
+            14,
+            21,
+            18,
+            20,
+            20,
+            25,
+            17,
+            29,
+            48,
+            39,
+            30,
+            14,
+            14,
+            14,
+            8,
+            2,
+            1,
+            0
+        ],
+        "education": [
+            119,
+            95,
+            84,
+            10,
+            25,
+            1,
+            0
+        ],
+        "sex": [
+            187,
+            147
+        ],
+        "merriage": [
+            98,
+            157,
+            36,
+            43
+        ],
+        "middle_num": 559
+    },
+    "004": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 73,
+                    "candVictor": "*",
+                    "tksRate": 28.4,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 110,
+                    "candVictor": " ",
+                    "tksRate": 42.8,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 74,
+                    "candVictor": "*",
+                    "tksRate": 28.79,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 374,
+            "voteRate": 71.66,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 64,
+                    "candVictor": " ",
+                    "tksRate": 32.82,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 131,
+                    "candVictor": "*",
+                    "tksRate": 67.18,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 391,
+            "voteRate": 52.43,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 12,
+                    "candVictor": " ",
+                    "tksRate": 2.59,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 136,
+                    "candVictor": " ",
+                    "tksRate": 29.37,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.22,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 314,
+                    "candVictor": "*",
+                    "tksRate": 67.82,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 774,
+            "voteRate": 62.02,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 16.67,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 5,
+                    "candVictor": "*",
+                    "tksRate": 83.33,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 9,
+            "voteRate": 66.67,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 187,
+            "disagreeTks": 145,
+            "totalVotables": 794,
+            "voteRate": 45.21
+        },
+        "F7": {
+            "agreeTks": 123,
+            "disagreeTks": 210,
+            "totalVotables": 794,
+            "voteRate": 46.22
+        },
+        "F8": {
+            "agreeTks": 89,
+            "disagreeTks": 245,
+            "totalVotables": 794,
+            "voteRate": 45.34
+        },
+        "F9": {
+            "agreeTks": 95,
+            "disagreeTks": 224,
+            "totalVotables": 794,
+            "voteRate": 45.21
+        },
+        "F1": {
+            "agreeTks": 245,
+            "disagreeTks": 77,
+            "totalVotables": 794,
+            "voteRate": 45.09
+        },
+        "FA": {
+            "agreeTks": 186,
+            "disagreeTks": 125,
+            "totalVotables": 794,
+            "voteRate": 45.21
+        },
+        "F2": {
+            "agreeTks": 236,
+            "disagreeTks": 81,
+            "totalVotables": 794,
+            "voteRate": 45.09
+        },
+        "F3": {
+            "agreeTks": 234,
+            "disagreeTks": 82,
+            "totalVotables": 794,
+            "voteRate": 44.84
+        },
+        "F4": {
+            "agreeTks": 252,
+            "disagreeTks": 81,
+            "totalVotables": 794,
+            "voteRate": 45.47
+        },
+        "F5": {
+            "agreeTks": 226,
+            "disagreeTks": 103,
+            "totalVotables": 794,
+            "voteRate": 44.96
+        },
+        "age": [
+            42,
+            62,
+            50,
+            46,
+            74,
+            55,
+            73,
+            65,
+            70,
+            76,
+            70,
+            52,
+            39,
+            20,
+            9,
+            4,
+            0,
+            2
+        ],
+        "education": [
+            228,
+            199,
+            220,
+            51,
+            95,
+            15,
+            1
+        ],
+        "sex": [
+            400,
+            409
+        ],
+        "merriage": [
+            269,
+            364,
+            91,
+            85
+        ],
+        "middle_num": 520
+    },
+    "007": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 154,
+                    "candVictor": "*",
+                    "tksRate": 33.33,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 171,
+                    "candVictor": " ",
+                    "tksRate": 37.01,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 137,
+                    "candVictor": "*",
+                    "tksRate": 29.65,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 682,
+            "voteRate": 69.65,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 20,
+                    "candVictor": " ",
+                    "tksRate": 22.73,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 68,
+                    "candVictor": "*",
+                    "tksRate": 77.27,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 135,
+            "voteRate": 71.85,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 12,
+                    "candVictor": " ",
+                    "tksRate": 2.12,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 206,
+                    "candVictor": " ",
+                    "tksRate": 36.4,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 5,
+                    "candVictor": " ",
+                    "tksRate": 0.88,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.18,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 342,
+                    "candVictor": "*",
+                    "tksRate": 60.42,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 836,
+            "voteRate": 69.86,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 3,
+                    "candVictor": " ",
+                    "tksRate": 30.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 7,
+                    "candVictor": "*",
+                    "tksRate": 70.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 19,
+            "voteRate": 52.63,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 220,
+            "disagreeTks": 143,
+            "totalVotables": 856,
+            "voteRate": 48.25
+        },
+        "F7": {
+            "agreeTks": 166,
+            "disagreeTks": 225,
+            "totalVotables": 856,
+            "voteRate": 48.6
+        },
+        "F8": {
+            "agreeTks": 94,
+            "disagreeTks": 268,
+            "totalVotables": 856,
+            "voteRate": 48.13
+        },
+        "F9": {
+            "agreeTks": 101,
+            "disagreeTks": 252,
+            "totalVotables": 856,
+            "voteRate": 48.13
+        },
+        "F1": {
+            "agreeTks": 314,
+            "disagreeTks": 60,
+            "totalVotables": 856,
+            "voteRate": 48.36
+        },
+        "FA": {
+            "agreeTks": 208,
+            "disagreeTks": 151,
+            "totalVotables": 856,
+            "voteRate": 48.01
+        },
+        "F2": {
+            "agreeTks": 281,
+            "disagreeTks": 82,
+            "totalVotables": 856,
+            "voteRate": 48.48
+        },
+        "F3": {
+            "agreeTks": 277,
+            "disagreeTks": 88,
+            "totalVotables": 856,
+            "voteRate": 48.25
+        },
+        "F4": {
+            "agreeTks": 316,
+            "disagreeTks": 74,
+            "totalVotables": 856,
+            "voteRate": 48.48
+        },
+        "F5": {
+            "agreeTks": 262,
+            "disagreeTks": 109,
+            "totalVotables": 856,
+            "voteRate": 48.36
+        },
+        "age": [
+            51,
+            60,
+            69,
+            54,
+            61,
+            82,
+            90,
+            67,
+            76,
+            72,
+            61,
+            33,
+            37,
+            44,
+            21,
+            10,
+            3,
+            3
+        ],
+        "education": [
+            270,
+            218,
+            272,
+            46,
+            73,
+            13,
+            2
+        ],
+        "sex": [
+            496,
+            398
+        ],
+        "merriage": [
+            287,
+            423,
+            90,
+            94
+        ],
+        "middle_num": 518
+    },
+    "006": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 48,
+                    "candVictor": "*",
+                    "tksRate": 24.24,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 86,
+                    "candVictor": " ",
+                    "tksRate": 43.43,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 64,
+                    "candVictor": "*",
+                    "tksRate": 32.32,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 325,
+            "voteRate": 62.46,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 5,
+                    "candVictor": "*",
+                    "tksRate": 100.0,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 11,
+            "voteRate": 45.45,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 7,
+                    "candVictor": " ",
+                    "tksRate": 3.57,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 91,
+                    "candVictor": " ",
+                    "tksRate": 46.43,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.51,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 97,
+                    "candVictor": "*",
+                    "tksRate": 49.49,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 338,
+            "voteRate": 61.83,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 1,
+                    "candVictor": "*",
+                    "tksRate": 100.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 2,
+            "voteRate": 50.0,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 73,
+            "disagreeTks": 60,
+            "totalVotables": 344,
+            "voteRate": 41.86
+        },
+        "F7": {
+            "agreeTks": 61,
+            "disagreeTks": 80,
+            "totalVotables": 344,
+            "voteRate": 43.31
+        },
+        "F8": {
+            "agreeTks": 35,
+            "disagreeTks": 89,
+            "totalVotables": 344,
+            "voteRate": 40.99
+        },
+        "F9": {
+            "agreeTks": 34,
+            "disagreeTks": 93,
+            "totalVotables": 344,
+            "voteRate": 41.28
+        },
+        "F1": {
+            "agreeTks": 106,
+            "disagreeTks": 22,
+            "totalVotables": 344,
+            "voteRate": 40.99
+        },
+        "FA": {
+            "agreeTks": 87,
+            "disagreeTks": 40,
+            "totalVotables": 344,
+            "voteRate": 40.99
+        },
+        "F2": {
+            "agreeTks": 105,
+            "disagreeTks": 21,
+            "totalVotables": 344,
+            "voteRate": 40.41
+        },
+        "F3": {
+            "agreeTks": 105,
+            "disagreeTks": 23,
+            "totalVotables": 344,
+            "voteRate": 40.7
+        },
+        "F4": {
+            "agreeTks": 103,
+            "disagreeTks": 20,
+            "totalVotables": 344,
+            "voteRate": 41.28
+        },
+        "F5": {
+            "agreeTks": 94,
+            "disagreeTks": 34,
+            "totalVotables": 344,
+            "voteRate": 41.28
+        },
+        "age": [
+            21,
+            17,
+            19,
+            19,
+            18,
+            27,
+            27,
+            46,
+            38,
+            37,
+            24,
+            18,
+            18,
+            17,
+            11,
+            2,
+            2,
+            0
+        ],
+        "education": [
+            101,
+            85,
+            119,
+            18,
+            34,
+            4,
+            0
+        ],
+        "sex": [
+            195,
+            166
+        ],
+        "merriage": [
+            94,
+            181,
+            38,
+            48
+        ],
+        "middle_num": 616
+    },
+    "008": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 82,
+                    "candVictor": "*",
+                    "tksRate": 38.14,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 85,
+                    "candVictor": " ",
+                    "tksRate": 39.53,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 48,
+                    "candVictor": "*",
+                    "tksRate": 22.33,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 282,
+            "voteRate": 78.01,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 4,
+                    "candVictor": " ",
+                    "tksRate": 33.33,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 8,
+                    "candVictor": "*",
+                    "tksRate": 66.67,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 20,
+            "voteRate": 80.0,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 4,
+                    "candVictor": " ",
+                    "tksRate": 1.73,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 103,
+                    "candVictor": " ",
+                    "tksRate": 44.59,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.43,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.43,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 122,
+                    "candVictor": "*",
+                    "tksRate": 52.81,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 303,
+            "voteRate": 78.22,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 100.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 0,
+                    "candVictor": "*",
+                    "tksRate": 0.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 1,
+            "voteRate": 100.0,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 85,
+            "disagreeTks": 64,
+            "totalVotables": 311,
+            "voteRate": 55.63
+        },
+        "F7": {
+            "agreeTks": 75,
+            "disagreeTks": 92,
+            "totalVotables": 311,
+            "voteRate": 58.2
+        },
+        "F8": {
+            "agreeTks": 42,
+            "disagreeTks": 119,
+            "totalVotables": 311,
+            "voteRate": 57.23
+        },
+        "F9": {
+            "agreeTks": 47,
+            "disagreeTks": 109,
+            "totalVotables": 311,
+            "voteRate": 56.91
+        },
+        "F1": {
+            "agreeTks": 128,
+            "disagreeTks": 24,
+            "totalVotables": 311,
+            "voteRate": 54.98
+        },
+        "FA": {
+            "agreeTks": 98,
+            "disagreeTks": 48,
+            "totalVotables": 311,
+            "voteRate": 54.98
+        },
+        "F2": {
+            "agreeTks": 121,
+            "disagreeTks": 29,
+            "totalVotables": 311,
+            "voteRate": 54.98
+        },
+        "F3": {
+            "agreeTks": 115,
+            "disagreeTks": 34,
+            "totalVotables": 311,
+            "voteRate": 55.31
+        },
+        "F4": {
+            "agreeTks": 116,
+            "disagreeTks": 36,
+            "totalVotables": 311,
+            "voteRate": 55.95
+        },
+        "F5": {
+            "agreeTks": 110,
+            "disagreeTks": 40,
+            "totalVotables": 311,
+            "voteRate": 55.31
+        },
+        "age": [
+            18,
+            23,
+            18,
+            12,
+            26,
+            21,
+            29,
+            36,
+            27,
+            24,
+            28,
+            15,
+            14,
+            17,
+            15,
+            1,
+            1,
+            0
+        ],
+        "education": [
+            107,
+            80,
+            93,
+            17,
+            26,
+            2,
+            0
+        ],
+        "sex": [
+            172,
+            153
+        ],
+        "merriage": [
+            91,
+            152,
+            30,
+            52
+        ],
+        "middle_num": 495
+    },
+    "009": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 36,
+                    "candVictor": "*",
+                    "tksRate": 23.23,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 50,
+                    "candVictor": " ",
+                    "tksRate": 32.26,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 69,
+                    "candVictor": "*",
+                    "tksRate": 44.52,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 257,
+            "voteRate": 61.48,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 42,
+                    "candVictor": " ",
+                    "tksRate": 68.85,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 19,
+                    "candVictor": "*",
+                    "tksRate": 31.15,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 115,
+            "voteRate": 55.65,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 5,
+                    "candVictor": " ",
+                    "tksRate": 2.3,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 67,
+                    "candVictor": " ",
+                    "tksRate": 30.88,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.46,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.46,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 143,
+                    "candVictor": "*",
+                    "tksRate": 65.9,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 374,
+            "voteRate": 59.89,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 1,
+                    "candVictor": "*",
+                    "tksRate": 100.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 2,
+            "voteRate": 100.0,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 78,
+            "disagreeTks": 44,
+            "totalVotables": 386,
+            "voteRate": 35.49
+        },
+        "F7": {
+            "agreeTks": 54,
+            "disagreeTks": 76,
+            "totalVotables": 386,
+            "voteRate": 35.75
+        },
+        "F8": {
+            "agreeTks": 35,
+            "disagreeTks": 89,
+            "totalVotables": 386,
+            "voteRate": 35.49
+        },
+        "F9": {
+            "agreeTks": 36,
+            "disagreeTks": 87,
+            "totalVotables": 386,
+            "voteRate": 35.49
+        },
+        "F1": {
+            "agreeTks": 82,
+            "disagreeTks": 36,
+            "totalVotables": 386,
+            "voteRate": 35.23
+        },
+        "FA": {
+            "agreeTks": 72,
+            "disagreeTks": 52,
+            "totalVotables": 386,
+            "voteRate": 35.23
+        },
+        "F2": {
+            "agreeTks": 83,
+            "disagreeTks": 36,
+            "totalVotables": 386,
+            "voteRate": 35.23
+        },
+        "F3": {
+            "agreeTks": 81,
+            "disagreeTks": 36,
+            "totalVotables": 386,
+            "voteRate": 35.23
+        },
+        "F4": {
+            "agreeTks": 99,
+            "disagreeTks": 27,
+            "totalVotables": 386,
+            "voteRate": 35.49
+        },
+        "F5": {
+            "agreeTks": 84,
+            "disagreeTks": 38,
+            "totalVotables": 386,
+            "voteRate": 35.49
+        },
+        "age": [
+            25,
+            28,
+            19,
+            22,
+            30,
+            40,
+            37,
+            40,
+            46,
+            32,
+            35,
+            15,
+            20,
+            10,
+            8,
+            3,
+            1,
+            0
+        ],
+        "education": [
+            136,
+            118,
+            107,
+            21,
+            24,
+            4,
+            1
+        ],
+        "sex": [
+            236,
+            175
+        ],
+        "merriage": [
+            132,
+            185,
+            51,
+            43
+        ],
+        "middle_num": 437
+    },
+    "010": {
+        "T1": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 27,
+                    "candVictor": "*",
+                    "tksRate": 39.13,
+                    "name": "\u9673\u5b8f\u5b97",
+                    "birthday": "19581101",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 23,
+                    "candVictor": " ",
+                    "tksRate": 33.33,
+                    "name": "\u6797\u91d1\u6a3a",
+                    "birthday": "19700916",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 19,
+                    "candVictor": "*",
+                    "tksRate": 27.54,
+                    "name": "\u9ec3\u745e\u83ef",
+                    "birthday": "19520710",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 119,
+            "voteRate": 60.5,
+            "areaCode": "04",
+            "deptCode": "060"
+        },
+        "T2": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 70,
+                    "candVictor": " ",
+                    "tksRate": 42.94,
+                    "name": "\u5468\u83ca\u82f1",
+                    "birthday": "19610525",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 93,
+                    "candVictor": "*",
+                    "tksRate": 57.06,
+                    "name": "\u694a\u6e05\u9806 Cinsun Pawtawan",
+                    "birthday": "19691128",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 300,
+            "voteRate": 60.0,
+            "areaCode": "10",
+            "deptCode": "060"
+        },
+        "TC": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 12,
+                    "candVictor": " ",
+                    "tksRate": 5.13,
+                    "name": "\u913a\u9e97\u8c9e",
+                    "birthday": "19630312",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 75,
+                    "candVictor": " ",
+                    "tksRate": 32.05,
+                    "name": "\u5289\u6ac2\u8c6a",
+                    "birthday": "19670202",
+                    "party": "\u6c11\u4e3b\u9032\u6b65\u9ee8"
+                },
+                {
+                    "candNo": 3,
+                    "tks": 1,
+                    "candVictor": " ",
+                    "tksRate": 0.43,
+                    "name": "\u9ec3\u88d5\u658c",
+                    "birthday": "19490310",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 4,
+                    "tks": 2,
+                    "candVictor": " ",
+                    "tksRate": 0.85,
+                    "name": "\u5f6d\u6b0a\u570b",
+                    "birthday": "19630424",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 5,
+                    "tks": 144,
+                    "candVictor": "*",
+                    "tksRate": 61.54,
+                    "name": "\u9952\u6176\u9234",
+                    "birthday": "19691123",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 424,
+            "voteRate": 59.91,
+            "areaCode": null,
+            "deptCode": "060"
+        },
+        "T3": {
+            "candTksInfo": [
+                {
+                    "candNo": 1,
+                    "tks": 0,
+                    "candVictor": " ",
+                    "tksRate": 0.0,
+                    "name": "\u4f59\u79c0\u82b3",
+                    "birthday": "19670208",
+                    "party": "\u7121"
+                },
+                {
+                    "candNo": 2,
+                    "tks": 2,
+                    "candVictor": "*",
+                    "tksRate": 100.0,
+                    "name": "\u5f35\u5168\u99a8\u5d50",
+                    "birthday": "19850204",
+                    "party": "\u4e2d\u570b\u570b\u6c11\u9ee8"
+                }
+            ],
+            "totalVotables": 4,
+            "voteRate": 50.0,
+            "areaCode": "13",
+            "deptCode": "060"
+        },
+        "F6": {
+            "agreeTks": 74,
+            "disagreeTks": 58,
+            "totalVotables": 435,
+            "voteRate": 34.71
+        },
+        "F7": {
+            "agreeTks": 62,
+            "disagreeTks": 75,
+            "totalVotables": 435,
+            "voteRate": 34.94
+        },
+        "F8": {
+            "agreeTks": 38,
+            "disagreeTks": 95,
+            "totalVotables": 435,
+            "voteRate": 34.94
+        },
+        "F9": {
+            "agreeTks": 40,
+            "disagreeTks": 93,
+            "totalVotables": 435,
+            "voteRate": 34.94
+        },
+        "F1": {
+            "agreeTks": 103,
+            "disagreeTks": 32,
+            "totalVotables": 435,
+            "voteRate": 35.17
+        },
+        "FA": {
+            "agreeTks": 76,
+            "disagreeTks": 56,
+            "totalVotables": 435,
+            "voteRate": 34.71
+        },
+        "F2": {
+            "agreeTks": 93,
+            "disagreeTks": 34,
+            "totalVotables": 435,
+            "voteRate": 34.71
+        },
+        "F3": {
+            "agreeTks": 90,
+            "disagreeTks": 39,
+            "totalVotables": 435,
+            "voteRate": 34.71
+        },
+        "F4": {
+            "agreeTks": 98,
+            "disagreeTks": 33,
+            "totalVotables": 435,
+            "voteRate": 34.71
+        },
+        "F5": {
+            "agreeTks": 86,
+            "disagreeTks": 41,
+            "totalVotables": 435,
+            "voteRate": 34.71
+        },
+        "age": [
+            27,
+            40,
+            26,
+            25,
+            35,
+            38,
+            46,
+            44,
+            30,
+            45,
+            31,
+            24,
+            17,
+            14,
+            5,
+            2,
+            1,
+            0
+        ],
+        "education": [
+            191,
+            111,
+            102,
+            14,
+            26,
+            6,
+            0
+        ],
+        "sex": [
+            240,
+            210
+        ],
+        "merriage": [
+            143,
+            193,
+            60,
+            54
+        ],
+        "middle_num": 525
+    }
+}
