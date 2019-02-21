@@ -1,0 +1,6 @@
+All the files are from the IMDB site. The copyright would be followed the https://www.imdb.com/.
+IMDB provides the better data structure and detail, please check the https://www.imdb.com/interfaces/.
+
+oscar_nominate.tsv: All of the nominated data of the Oscar Academy Award from 1929.
+imdb_title.tsv: The movies related data from the oscar_nominate.tsv
+imdb_name.tsv: The people related data from oscar_nominate.tsv
