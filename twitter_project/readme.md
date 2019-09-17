@@ -12,6 +12,8 @@
 * 07_edges_timeline：06 關係資料加上時間變化，gephi 繪圖用，node資料
 * 08 機器學習結果
 * 09_tweets_language：推特推文語言代碼中文翻譯對照（in 不在官方 support language 中，依照內文翻譯是印尼文；und 不知道是什麼… 歸到 NA）
+* 10_users_train1.csv 用來進行機器學習的 training data
+* 11_users_train2.csv 用來作為機器學習的驗證資料
 
 
 註：資料 01、02、03 為 Twitter 公佈原始資料，只是依照需求切分小檔，並另外標註組別
