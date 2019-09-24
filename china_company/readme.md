@@ -1,7 +1,8 @@
 # readme
 ### 新聞資料爬蟲
 * ATIE_press_all_rows：台企聯網站爬蟲，新聞中心每日新聞（2013/01/08）
-* china_press：國台辦網站爬蟲，包含政務要聞（~2017-05-10）及新聞發佈會（～2000-9-5）
+* china_press：國台辦網站爬蟲，政務要聞（2016-09-14~2017-05-10）
+* china_news：國台辦網站爬蟲，新聞發佈會（2000-09-5~2019-03-15）
 * china_press_year：國台辦網站爬蟲，text mining 後以年份切
 * ATIE_press_year：台企聯網站爬蟲，text mining 後以年份切
 
