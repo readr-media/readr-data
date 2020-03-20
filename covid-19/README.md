@@ -6,10 +6,11 @@
 		* filtered at airport 機場採檢
 		* hospitalized 就醫
 		* identified as a contact 和確診者有接觸
-	* infection_reason 感染原因
 	* case_type 個案類型
 		* imported case 境外移入
 		* indigenous case 本土感染
+	* imported_country：個案在哪個國家感染
+	* contact_with：個案與誰接觸
 	* group 案例群組：指標個案導致的群聚感染，以及隸屬同一個旅行團的個案，會被囊括在同一個群組裡
 	* symptom 有無症狀
 	* tourism_history 有無旅遊史

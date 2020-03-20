@@ -1,110 +1,110 @@
-patient_id,gender,age,country,report_reason,infection_reason,case_type,group,symptom,tourism_history,medical_history,"confirmed_date
+patient_id,gender,age,country,report_reason,case_type,imported_country,contact_with,group,symptom,tourism_history,medical_history,"confirmed_date
 ",released_date,deceased_date,State
-1,female,Over 50,Taiwan,filtered at airport,work in Wuhan,imported case,,Yes,Yes,,2020-01-21,2020-02-06,,released
-2,female,Over 50,China,hospitalized,visit to Wuhan,imported case,,Yes,Yes,,2020-01-24,,,isolated
-3,male,Over 50,Taiwan,hospitalized,work in Wuhan,imported case,,Yes,Yes,,2020-01-24,,,isolated
-4,female,Over 50,Taiwan,filtered at airport,visit to Wuhan,imported case,,Yes,Yes,,2020-01-26,2020-02-20,,released
-5,female,Over 50,Taiwan,hospitalized,work in Wuhan,imported case,patient#5,Yes,Yes,,2020-01-27,2020-02-19,,released
-6,female,Over 70,China,hospitalized,residence in Wuhan,imported case,Taiwan tour,Yes,Yes,,2020-01-28,,,isolated
-7,female,Over 70,China,hospitalized,residence in Wuhan,imported case,Taiwan tour,Yes,Yes,,2020-01-28,2020-02-29,,released
-8,male,Over 50,Taiwan,hospitalized,contact with patient#5,indigenous case,patient#5,Yes,No,,2020-01-28,2020-02-27,,released
-9,female,Over 40,Taiwan,hospitalized,contact with patient#10,indigenous case,patient#10,Yes,No,,2020-01-30,2020-02-29,,released
-10,male,Over 40,Taiwan,identified as a contact,work in Wuhan,imported case,patient#10,Yes,Yes,,2020-01-31,2020-02-13,,released
-11,male,Over 50,Taiwan,filtered at airport,work in Wuhan,imported case,,Yes,Yes,,2020-02-04,2020-02-27,,released
-12,male,Over 40,Taiwan,hospitalized,work in Wuhan,imported case,,Yes,Yes,,2020-02-06,2020-02-22,,released
-13,female,Over 20,Taiwan,hospitalized,residence in Wuhan,imported case,,Yes,Yes,,2020-02-06,2020-02-26,,released
-14,male,Over 50,Taiwan,hospitalized,visit to Italy,imported case,Italy tour,Yes,Yes,,2020-02-06,,,isolated
-15,female,Over 50,Taiwan,hospitalized,visit to Italy,imported case,Italy tour,Yes,Yes,,2020-02-06,,,isolated
-16,female,Over 40,Taiwan,hospitalized,visit to Macau,imported case,,Yes,Yes,,2020-02-06,2020-02-29,,released
-17,male,Over 20,Taiwan,identified as a contact,visit to Italy,imported case,Italy tour,Yes,Yes,,2020-02-08,2020-02-27,,released
-18,male,Over 20,Taiwan,identified as a contact,visit to Italy,imported case,Italy tour,No,Yes,,2020-02-09,2020-03-08,,released
-19,male,Over 60,Taiwan,hospitalized,contact with carrier,indigenous case,patient#19,Yes,No,hepatitis B and diabete,2020-02-16,,2020-02-15,deceased
-20,male,Over 50,Taiwan,identified as a contact,contact with patient#19,indigenous case,patient#19,No,No,,2020-02-16,,,isolated
-21,female,Over 80,Taiwan,identified as a contact,contact with patient#19,indigenous case,patient#19,Yes,No,,2020-02-17,,,isolated
-22,male,Over 30,Taiwan,identified as a contact,contact with patient#19,indigenous case,patient#19,Yes,No,,2020-02-17,,,isolated
-23,female,60,Taiwan,identified as a contact,contact with patient#19,indigenous case,patient#19,Yes,No,,2020-02-19,,,isolated
-24,female,Over 60,Taiwan,hospitalized,,indigenous case,patient#24,Yes,No,hypertension and gout,2020-02-19,,,isolated
-25,female,Over 20,Taiwan,identified as a contact,contact with patient#24,indigenous case,patient#24,Yes,No,,2020-02-21,,,isolated
-26,female,Over 40,Taiwan,identified as a contact,contact with patient#24,indigenous case,patient#24,Yes,No,,2020-02-21,2020-03-08,,released
-27,male,Over 80,Taiwan,hospitalized,,indigenous case,patient#27,Yes,No,"hypertension and diabete dialysis treatment",2020-02-23,,,isolated
-28,male,Over 50,Taiwan,hospitalized,contact with patient#27,indigenous case,patient#27,Yes,No,,2020-02-23,,,isolated
-29,male,Over 40,Taiwan,identified as a contact,contact with patient#27,indigenous case,patient#27,Yes,Yes,,2020-02-24,2020-03-08,,released
-30,female,Over 70,Taiwan,identified as a contact,contact with patient#27,indigenous case,patient#27,Yes,No,,2020-02-24,,,isolated
-31,male,Over 10,Taiwan,identified as a contact,contact with patient#27,indigenous case,patient#27,No,No,,2020-02-25,,,isolated
-32,female,Over 30,Indonesia,identified as a contact,contact with patient#27,indigenous case,patient#27,Yes,No,,2020-02-26,,,isolated
-33,male,Over 30,Taiwan,hospitalized,visit to Japan,imported case,,Yes,Yes,,2020-02-28,2020-03-10,,released
-34,female,Over 50,Taiwan,hospitalized,,indigenous case,patient#34,Yes,No,diabete and cardiovascular disease,2020-02-28,,,isolated
-35,female,Over 50,Taiwan,identified as a contact,contact with patient#34,indigenous case,patient#34,Yes,No,,2020-02-29,2020-03-10,,released
-36,female,Over 20,Taiwan,identified as a contact,contact with patient#34,indigenous case,patient#34,Yes,No,,2020-02-29,,,isolated
-37,female,Over 20,Taiwan,identified as a contact,contact with patient#34,indigenous case,patient#34,Yes,No,,2020-02-29,,,isolated
-38,female,Over 40,Taiwan,identified as a contact,contact with patient#34,indigenous case,patient#34,Yes,No,,2020-02-29,,,isolated
-39,female,Over 60,Taiwan,hospitalized,visit to Egypt,imported case,patient#39,Yes,Yes,,2020-02-29,,,isolated
-40,female,Over 70,Taiwan,Diamond princess cruise ship passenger,Diamond princess cruise ship passenger,imported case,,No,Yes,,2020-03-01,,,isolated
-41,female,Over 20,Taiwan,identified as a contact,contact with patient#34,indigenous case,patient#34,No,No,,2020-03-02,,,isolated
-42,female,Over 50,Taiwan,hospitalized,contact with patient#34,indigenous case,patient#34,Yes,No,,2020-03-03,,,isolated
-43,female,Over 50,Taiwan,hospitalized,contact with patient#39,indigenous case,patient#39,Yes,No,,2020-03-05,,,isolated
-44,male,Over 30,Taiwan,hospitalized,visit to Philippines,imported case,,Yes,Yes,,2020-03-05,,,isolated
-45,female,Over 50,Taiwan,identified as a contact,contact with patient#34,indigenous case,patient#34,No,No,,2020-03-06,,,isolated
-46,male,Over 20,Taiwan,hospitalized,contact with patient#34,indigenous case,patient#34,Yes,No,,2020-03-10,,,isolated
-47,male,Over 30,Taiwan,hospitalized,visit to Netherlands,imported case,,Yes,Yes,,2020-03-10,,,isolated
-48,female,Over 30,Taiwan,hospitalized,visit to the U.K,imported case,,Yes,Yes,,2020-03-11,,,isolated
-49,female,Over 40,Taiwan,hospitalized,Visit to Ireland、Belgium,imported case,,Yes,Yes,,2020-03-12,,,isolated
-50,male,Over 50,U.S.A,hospitalized,contact with patient,indigenous case,,Yes,No,,2020-03-13,,,isolated
-51,male,Over 30,Netherlands,hospitalized,Visit to Austria、 Netherlands,imported case,,Yes,Yes,,2020-03-14,,,isolated
-52,male,Over 30,Taiwan,hospitalized,Visit to Switzerland、 France,imported case,,Yes,Yes,,2020-03-14,,,isolated
-53,male,Over 30,Taiwan,hospitalized,Visit to Germany,imported case,,Yes,Yes,,2020-03-14,,,isolated
-54,male,Over 30,Taiwan,hospitalized,Visit to Taliland、Japan,imported case,,Yes,Yes,,2020-03-15,,,isolated
-55,male,Over 50,Taiwan,hospitalized,visit to Egypt,imported case,Egypt tour,Yes,Yes,,2020-03-15,,,isolated
-56,male,Over 40,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-15,,,isolated
-57,female,70,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-15,,,isolated
-58,female,Over 20,Taiwan,filtered at airport,visit to Spain,imported case,,Yes,Yes,,2020-03-15,,,isolated
-59,male,Over 10,Taiwan,hospitalized,visit to Greece,imported case,,Yes,Yes,,2020-03-15,,,isolated
-60,female,Over 20,Taiwan,hospitalized,visit to Italy、Greece、Germany,imported case,,Yes,Yes,,2020-03-16,,,isolated
-61,female,Over 50,Taiwan,filtered at airport,visit to Austria、Czech Republic,imported case,Austria、Czech Republic tour,Yes,Yes,,2020-03-16,,,isolated
-62,female,Over 60,Taiwan,hospitalized,visit to Philippines,imported case,,Yes,Yes,,2020-03-16,,,isolated
-63,male,Over 50,Taiwan,hospitalized,visit to Egypt,imported case,Egypt tour,Yes,Yes,,2020-03-16,,,isolated
-64,male,Over 20,Taiwan,hospitalized,visit to Spain,imported case,,Yes,Yes,,2020-03-16,,,isolated
-65,female,Over 50,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-16,,,isolated
-66,female,Over 50,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-16,,,isolated
-67,male,Over 60,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-16,,,isolated
-68,female,,Taiwan,,visit to Turkey,imported case,Turkey tour,,Yes,,2020-03-17,,,isolated
-69,female,,Taiwan,,visit to Turkey,imported case,Turkey tour,,Yes,,2020-03-17,,,isolated
-70,male,,Taiwan,,visit to Turkey,imported case,Turkey tour,,Yes,,2020-03-17,,,isolated
-71,male,Over 60,Taiwan,hospitalized,visit to Egypt,imported case,Egypt tour,Yes,Yes,,2020-03-17,,,isolated
-72,female,Over 70,Taiwan,hospitalized,visit to Austria、Czech Republic,imported case,Austria、Czech Republic tour,Yes,Yes,,2020-03-17,,,isolated
-73,male,,Taiwan,,visit to Turkey,imported case,Turkey tour,,Yes,,2020-03-17,,,isolated
-74,male,Over 30,Taiwan,hospitalized,visit to Iceland,imported case,,Yes,Yes,,2020-03-17,,,isolated
-75,male,Over 20,Taiwan,hospitalized,visit to Germany,imported case,,Yes,Yes,,2020-03-17,,,isolated
-76,female,Over 30,Taiwan,hospitalized,visit to France,imported case,,Yes,Yes,,2020-03-17,,,isolated
-77,female,Over 60,Taiwan,hospitalized,visit to Czech Republic、USA,imported case,,Yes,Yes,,2020-03-17,,,isolated
-78,male,Over 50,Taiwan,hospitalized,visit to Germany,imported case,,Yes,Yes,,2020-03-18,,,isolated
-79,female,Over 40,Taiwan,hospitalized,visit to U.K,imported case,,Yes,Yes,,2020-03-18,,,isolated
-80,female,Over 20,Taiwan,hospitalized,visit to Spain,imported case,,Yes,Yes,,2020-03-18,,,isolated
-81,female,Over 50,Taiwan,identified as a contact,visit to Turkey,imported case,Turkey tour,No,Yes,,2020-03-18,,,isolated
-82,female,Over 20,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-18,,,isolated
-83,female,Over 40,Taiwan,identified as a contact,visit to Turkey,imported case,Turkey tour,No,Yes,,2020-03-18,,,isolated
-84,male,Over 20,France,hospitalized,residence in France,imported case,,Yes,Yes,,2020-03-18,,,isolated
-85,female,Over 30,Taiwan,hospitalized,visit to the USA,imported case,,Yes,Yes,,2020-03-18,,,isolated
-86,male,Over 20,Taiwan,filtered at airport,visit to the USA,imported case,,Yes,Yes,,2020-03-18,,,isolated
-87,male,Over 30,Taiwan,filtered at airport,Visit to the U.K、Italy、France,imported case,,Yes,Yes,,2020-03-18,,,isolated
-88,female,Over 20,Taiwan,filtered at airport,visit to Spain,imported case,,Yes,Yes,,2020-03-18,,,isolated
-89,female,Over 30,Taiwan,filtered at airport,live in the USA,imported case,,Yes,Yes,,2020-03-18,,,isolated
-90,male,Over 30,Taiwan,filtered at airport,visit to Spain,imported case,,Yes,Yes,,2020-03-18,,,isolated
-91,male,Over 30,Taiwan,filtered at airport,Visit to the U.K、Spain、France,imported case,,Yes,Yes,,2020-03-18,,,isolated
-92,male,Over 20,Taiwan,identified as a contact,contact with patient#71,indigenous case,Egypt tour,No,No,,2020-03-18,,,isolated
-93,female,Over 30,Taiwan,filtered at airport,visit to Qatar,imported case,,Yes,Yes,,2020-03-18,,,isolated
-94,male,Over 30,Taiwan,hospitalized,visit to Turkey,imported case,Turkey tour,Yes,Yes,,2020-03-18,,,isolated
-95,female,Over 20,Taiwan,hospitalized,visit to Indonesia,imported case,,Yes,Yes,,2020-03-18,,,isolated
-96,female,Over 20,Taiwan,filtered at airport,visit to the U.K,imported case,,Yes,Yes,,2020-03-18,,,isolated
-97,male,Over 20,Taiwan,filtered at airport,visit to Switzerland,imported case,,Yes,Yes,,2020-03-18,,,isolated
-98,female,Over 20,Taiwan,filtered at airport,visit to France,imported case,,Yes,Yes,,2020-03-18,,,isolated
-99,female,Over 20,Taiwan,filtered at airport,visit to Philippines,imported case,,Yes,Yes,,2020-03-18,,,isolated
-100,female,Over 20,Taiwan,hospitalized,,indigenous case,,Yes,No,,2020-03-18,,,isolated
-101,male,Over 70,Taiwan,hospitalized,visit to Egypt,imported case,Egypt tour,Yes,Yes,,2020-03-19,,,isolated
-102,female,Over 50,Taiwan,hospitalized,visit to the USA,imported case,,Yes,Yes,,2020-03-19,,,isolated
-103,male,Over 10,Taiwan,hospitalized,contact with patient#59,indigenous case,,Yes,No,,2020-03-19,,,isolated
-104,female,Over 40,Taiwan,hospitalized,visit to Austria、Czech Republic,imported case,Austria、Czech Republic tour,Yes,Yes,,2020-03-19,,,isolated
-105,male,Over 20,Taiwan,filtered at airport,visit to France,imported case,,Yes,Yes,,2020-03-19,,,isolated
-106,male,Over 20,Taiwan,filtered at airport,visit to Spain,imported case,,Yes,Yes,,2020-03-19,,,isolated
-107,male,Over 50,France,hospitalized,residence in France,imported case,,Yes,Yes,,2020-03-19,,,isolated
-108,male,Over 40,Taiwan,hospitalized,visit to Austria、Czech Republic,imported case,Austria、Czech Republic tour,Yes,Yes,,2020-03-19,,,isolated
+1,female,Over 50,Taiwan,filtered at airport,imported case,China,,,Yes,Yes,,2020-01-21,2020-02-06,,released
+2,female,Over 50,China,hospitalized,imported case,China,,,Yes,Yes,,2020-01-24,,,isolated
+3,male,Over 50,Taiwan,hospitalized,imported case,China,,,Yes,Yes,,2020-01-24,,,isolated
+4,female,Over 50,Taiwan,filtered at airport,imported case,China,,,Yes,Yes,,2020-01-26,2020-02-20,,released
+5,female,Over 50,Taiwan,hospitalized,imported case,China,,patient#5,Yes,Yes,,2020-01-27,2020-02-19,,released
+6,female,Over 70,China,hospitalized,imported case,China,,Taiwan tour,Yes,Yes,,2020-01-28,,,isolated
+7,female,Over 70,China,hospitalized,imported case,China,,Taiwan tour,Yes,Yes,,2020-01-28,2020-02-29,,released
+8,male,Over 50,Taiwan,hospitalized,indigenous case,,patient#5,patient#5,Yes,No,,2020-01-28,2020-02-27,,released
+9,female,Over 40,Taiwan,hospitalized,indigenous case,,patient#10,patient#10,Yes,No,,2020-01-30,2020-02-29,,released
+10,male,Over 40,Taiwan,identified as a contact,imported case,China,,patient#10,Yes,Yes,,2020-01-31,2020-02-13,,released
+11,male,Over 50,Taiwan,filtered at airport,imported case,China,,,Yes,Yes,,2020-02-04,2020-02-27,,released
+12,male,Over 40,Taiwan,hospitalized,imported case,China,,,Yes,Yes,,2020-02-06,2020-02-22,,released
+13,female,Over 20,Taiwan,hospitalized,imported case,China,,,Yes,Yes,,2020-02-06,2020-02-26,,released
+14,male,Over 50,Taiwan,hospitalized,imported case,Italy,,Italy tour,Yes,Yes,,2020-02-06,,,isolated
+15,female,Over 50,Taiwan,hospitalized,imported case,Italy,,Italy tour,Yes,Yes,,2020-02-06,,,isolated
+16,female,Over 40,Taiwan,hospitalized,imported case,Macau,,,Yes,Yes,,2020-02-06,2020-02-29,,released
+17,male,Over 20,Taiwan,identified as a contact,imported case,Italy,,Italy tour,Yes,Yes,,2020-02-08,2020-02-27,,released
+18,male,Over 20,Taiwan,identified as a contact,imported case,Italy,,Italy tour,No,Yes,,2020-02-09,2020-03-08,,released
+19,male,Over 60,Taiwan,hospitalized,indigenous case,,carrier,patient#19,Yes,No,hepatitis B and diabete,2020-02-16,,2020-02-15,deceased
+20,male,Over 50,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,No,No,,2020-02-16,,,isolated
+21,female,Over 80,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,Yes,No,,2020-02-17,,,isolated
+22,male,Over 30,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,Yes,No,,2020-02-17,,,isolated
+23,female,60,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,Yes,No,,2020-02-19,,,isolated
+24,female,Over 60,Taiwan,hospitalized,indigenous case,,unknown,patient#24,Yes,No,hypertension and gout,2020-02-19,,,isolated
+25,female,Over 20,Taiwan,identified as a contact,indigenous case,,patient#24,patient#24,Yes,No,,2020-02-21,,,isolated
+26,female,Over 40,Taiwan,identified as a contact,indigenous case,,patient#24,patient#24,Yes,No,,2020-02-21,2020-03-08,,released
+27,male,Over 80,Taiwan,hospitalized,indigenous case,,unknown,patient#27,Yes,No,"hypertension and diabete dialysis treatment",2020-02-23,,,isolated
+28,male,Over 50,Taiwan,hospitalized,indigenous case,,patient#27,patient#27,Yes,No,,2020-02-23,,,isolated
+29,male,Over 40,Taiwan,identified as a contact,indigenous case,,patient#27,patient#27,Yes,Yes,,2020-02-24,2020-03-08,,released
+30,female,Over 70,Taiwan,identified as a contact,indigenous case,,patient#27,patient#27,Yes,No,,2020-02-24,,,isolated
+31,male,Over 10,Taiwan,identified as a contact,indigenous case,,patient#27,patient#27,No,No,,2020-02-25,,,isolated
+32,female,Over 30,Indonesia,identified as a contact,indigenous case,,patient#27,patient#27,Yes,No,,2020-02-26,,,isolated
+33,male,Over 30,Taiwan,hospitalized,imported case,Japan,,,Yes,Yes,,2020-02-28,2020-03-10,,released
+34,female,Over 50,Taiwan,hospitalized,indigenous case,,unknown,patient#34,Yes,No,diabete and cardiovascular disease,2020-02-28,,,isolated
+35,female,Over 50,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,Yes,No,,2020-02-29,2020-03-10,,released
+36,female,Over 20,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,Yes,No,,2020-02-29,,,isolated
+37,female,Over 20,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,Yes,No,,2020-02-29,,,isolated
+38,female,Over 40,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,Yes,No,,2020-02-29,,,isolated
+39,female,Over 60,Taiwan,hospitalized,imported case,Egypt,,patient#39,Yes,Yes,,2020-02-29,,,isolated
+40,female,Over 70,Taiwan,Diamond princess cruise ship passenger,imported case,Diamond princess cruise ship,,,No,Yes,,2020-03-01,,,isolated
+41,female,Over 20,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,No,No,,2020-03-02,,,isolated
+42,female,Over 50,Taiwan,hospitalized,indigenous case,,patient#34,patient#34,Yes,No,,2020-03-03,,,isolated
+43,female,Over 50,Taiwan,hospitalized,indigenous case,,patient#39,patient#39,Yes,No,,2020-03-05,,,isolated
+44,male,Over 30,Taiwan,hospitalized,imported case,Philippines,,,Yes,Yes,,2020-03-05,,,isolated
+45,female,Over 50,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,No,No,,2020-03-06,,,isolated
+46,male,Over 20,Taiwan,hospitalized,indigenous case,,patient#34,patient#34,Yes,No,,2020-03-10,,,isolated
+47,male,Over 30,Taiwan,hospitalized,imported case,Netherlands,,,Yes,Yes,,2020-03-10,,,isolated
+48,female,Over 30,Taiwan,hospitalized,imported case,U.K,,,Yes,Yes,,2020-03-11,,,isolated
+49,female,Over 40,Taiwan,hospitalized,imported case,Ireland/Belgium,,,Yes,Yes,,2020-03-12,,,isolated
+50,male,Over 50,U.S.A,hospitalized,indigenous case,,patient from the USA,,Yes,No,,2020-03-13,,,isolated
+51,male,Over 30,Netherlands,hospitalized,imported case,Austria/Netherlands,,,Yes,Yes,,2020-03-14,,,isolated
+52,male,Over 30,Taiwan,hospitalized,imported case,Switzerland/France,,,Yes,Yes,,2020-03-14,,,isolated
+53,male,Over 30,Taiwan,hospitalized,imported case,Germany,,,Yes,Yes,,2020-03-14,,,isolated
+54,male,Over 30,Taiwan,hospitalized,imported case,Taliland/Japan,,,Yes,Yes,,2020-03-15,,,isolated
+55,male,Over 50,Taiwan,hospitalized,imported case,Egypt,,Egypt tour,Yes,Yes,,2020-03-15,,,isolated
+56,male,Over 40,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-15,,,isolated
+57,female,70,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-15,,,isolated
+58,female,Over 20,Taiwan,filtered at airport,imported case,Spain,,,Yes,Yes,,2020-03-15,,,isolated
+59,male,Over 10,Taiwan,hospitalized,imported case,Greece,,,Yes,Yes,,2020-03-15,,,isolated
+60,female,Over 20,Taiwan,hospitalized,imported case,Italy/Greece/Germany,,,Yes,Yes,,2020-03-16,,,isolated
+61,female,Over 50,Taiwan,filtered at airport,imported case,Austria/Czech Republic,,Austria、Czech Republic tour,Yes,Yes,,2020-03-16,,,isolated
+62,female,Over 60,Taiwan,hospitalized,imported case,Philippines,,,Yes,Yes,,2020-03-16,,,isolated
+63,male,Over 50,Taiwan,hospitalized,imported case,Egypt,,Egypt tour,Yes,Yes,,2020-03-16,,,isolated
+64,male,Over 20,Taiwan,hospitalized,imported case,Spain,,,Yes,Yes,,2020-03-16,,,isolated
+65,female,Over 50,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-16,,,isolated
+66,female,Over 50,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-16,,,isolated
+67,male,Over 60,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-16,,,isolated
+68,female,,Taiwan,,imported case,Turkey,,Turkey tour,,Yes,,2020-03-17,,,isolated
+69,female,,Taiwan,,imported case,Turkey,,Turkey tour,,Yes,,2020-03-17,,,isolated
+70,male,,Taiwan,,imported case,Turkey,,Turkey tour,,Yes,,2020-03-17,,,isolated
+71,male,Over 60,Taiwan,hospitalized,imported case,Egypt,,Egypt tour,Yes,Yes,,2020-03-17,,,isolated
+72,female,Over 70,Taiwan,hospitalized,imported case,Austria/Czech Republic,,Austria/Czech Republic tour,Yes,Yes,,2020-03-17,,,isolated
+73,male,,Taiwan,,imported case,Turkey,,Turkey tour,,Yes,,2020-03-17,,,isolated
+74,male,Over 30,Taiwan,hospitalized,imported case,Iceland,,,Yes,Yes,,2020-03-17,,,isolated
+75,male,Over 20,Taiwan,hospitalized,imported case,Germany,,,Yes,Yes,,2020-03-17,,,isolated
+76,female,Over 30,Taiwan,hospitalized,imported case,France,,,Yes,Yes,,2020-03-17,,,isolated
+77,female,Over 60,Taiwan,hospitalized,imported case,Czech Republic/USA,,,Yes,Yes,,2020-03-17,,,isolated
+78,male,Over 50,Taiwan,hospitalized,imported case,Germany,,,Yes,Yes,,2020-03-18,,,isolated
+79,female,Over 40,Taiwan,hospitalized,imported case,U.K,,,Yes,Yes,,2020-03-18,,,isolated
+80,female,Over 20,Taiwan,hospitalized,imported case,Spain,,,Yes,Yes,,2020-03-18,,,isolated
+81,female,Over 50,Taiwan,identified as a contact,imported case,Turkey,,Turkey tour,No,Yes,,2020-03-18,,,isolated
+82,female,Over 20,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-18,,,isolated
+83,female,Over 40,Taiwan,identified as a contact,imported case,Turkey,,Turkey tour,No,Yes,,2020-03-18,,,isolated
+84,male,Over 20,France,hospitalized,imported case,France,,,Yes,Yes,,2020-03-18,,,isolated
+85,female,Over 30,Taiwan,hospitalized,imported case,USA,,,Yes,Yes,,2020-03-18,,,isolated
+86,male,Over 20,Taiwan,filtered at airport,imported case,USA,,,Yes,Yes,,2020-03-18,,,isolated
+87,male,Over 30,Taiwan,filtered at airport,imported case,U.K/Italy/France,,,Yes,Yes,,2020-03-18,,,isolated
+88,female,Over 20,Taiwan,filtered at airport,imported case,Spain,,,Yes,Yes,,2020-03-18,,,isolated
+89,female,Over 30,Taiwan,filtered at airport,imported case,USA,,,Yes,Yes,,2020-03-18,,,isolated
+90,male,Over 30,Taiwan,filtered at airport,imported case,Spain,,,Yes,Yes,,2020-03-18,,,isolated
+91,male,Over 30,Taiwan,filtered at airport,imported case,U.K/Spain/France,,,Yes,Yes,,2020-03-18,,,isolated
+92,male,Over 20,Taiwan,identified as a contact,indigenous case,,patient#71,Egypt tour,No,No,,2020-03-18,,,isolated
+93,female,Over 30,Taiwan,filtered at airport,imported case,Qatar,,,Yes,Yes,,2020-03-18,,,isolated
+94,male,Over 30,Taiwan,hospitalized,imported case,Turkey,,Turkey tour,Yes,Yes,,2020-03-18,,,isolated
+95,female,Over 20,Taiwan,hospitalized,imported case,Indonesia,,,Yes,Yes,,2020-03-18,,,isolated
+96,female,Over 20,Taiwan,filtered at airport,imported case,U.K,,,Yes,Yes,,2020-03-18,,,isolated
+97,male,Over 20,Taiwan,filtered at airport,imported case,Switzerland,,,Yes,Yes,,2020-03-18,,,isolated
+98,female,Over 20,Taiwan,filtered at airport,imported case,France,,,Yes,Yes,,2020-03-18,,,isolated
+99,female,Over 20,Taiwan,filtered at airport,imported case,Philippines,,,Yes,Yes,,2020-03-18,,,isolated
+100,female,Over 20,Taiwan,hospitalized,indigenous case,,unknown,,Yes,No,,2020-03-18,,,isolated
+101,male,Over 70,Taiwan,hospitalized,imported case,Egypt,,Egypt tour,Yes,Yes,,2020-03-19,,,isolated
+102,female,Over 50,Taiwan,hospitalized,imported case,USA,,,Yes,Yes,,2020-03-19,,,isolated
+103,male,Over 10,Taiwan,hospitalized,indigenous case,,patient#59,,Yes,No,,2020-03-19,,,isolated
+104,female,Over 40,Taiwan,hospitalized,imported case,Austria/Czech Republic,,Austria/Czech Republic tour,Yes,Yes,,2020-03-19,,,isolated
+105,male,Over 20,Taiwan,filtered at airport,imported case,France,,,Yes,Yes,,2020-03-19,,,isolated
+106,male,Over 20,Taiwan,filtered at airport,imported case,Spain,,,Yes,Yes,,2020-03-19,,,isolated
+107,male,Over 50,France,hospitalized,imported case,France,,,Yes,Yes,,2020-03-19,,,isolated
+108,male,Over 40,Taiwan,hospitalized,imported case,Austria/Czech Republic,,Austria/Czech Republic tour,Yes,Yes,,2020-03-19,,,isolated
