@@ -6,6 +6,9 @@
 		* filtered at airport 機場採檢
 		* hospitalized 就醫
 		* identified as a contact 和確診者有接觸
+		* home isolation 居家隔離，14 天內禁止外出，也不可搭乘大眾運輸工具，衛生主管機關每天兩次追蹤健康情況
+		* home quarantine 居家檢疫，14 天內禁止外出，也不可搭乘大眾運輸工具，里長或里幹事每天兩次追蹤健康情況
+		* stringent self-health management 加強自主健康管理，自主管理者每天量體溫並通報，有症狀就要回報，若有違反檢疫規定就會重罰
 	* case_type 個案類型
 		* imported case 境外移入
 		* indigenous case 本土感染
