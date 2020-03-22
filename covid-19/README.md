@@ -15,7 +15,9 @@
 	* imported_country：個案在哪個國家感染
 	* contact_with：個案與誰接觸
 	* group 案例群組：指標個案導致的群聚感染，以及隸屬同一個旅行團的個案，會被囊括在同一個群組裡
-	* symptom 有無症狀
+	* symptoms 症狀
+	* show_symptoms 發病日期
+	* reported_date 通報日期
 	* tourism_history 有無旅遊史
 	* medical_history 有無慢性病史
 	* confirmed_date 確診日期
