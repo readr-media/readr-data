@@ -153,13 +153,13 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 151,male,Over 30,Taiwan,hospitalized,imported case,Netherlands,,,cough/chest tightness/slight fever/itchy throat,2020-03-18,2020-03-19,Yes,,2020-03-21,,,isolated
 152,female,Over 20,Taiwan,home quarantine,imported case,France,,,sore throat ,2020-03-15,2020-03-19,Yes,,2020-03-21,,,isolated
 153,female,Over 20,Taiwan,home quarantine,imported case,United Kingdom,,,fever,2020-03-18,2020-03-19,Yes,,2020-03-21,,,isolated
-154,male,Over 30,Taiwan,hospitalized,imported case,United States,,US tour,myalgia/headache/sore throat ,2020-03-16,2020-03-17,Yes,,2020-03-22,,,isolated
+154,male,Over 30,Taiwan,hospitalized,imported case,US,,US tour,myalgia/headache/sore throat ,2020-03-16,2020-03-17,Yes,,2020-03-22,,,isolated
 155,male,Over 70,Taiwan,home quarantine,imported case,Denmark,,,myalgia/fever/fatigue/chest x-ray showing pneumonia,2020-03-20,2020-03-20,Yes,,2020-03-22,,,isolated
 156,female,Over 20,Taiwan,hospitalized,indigenous case,,unknown,,fever/fatigue/dizziness,2020-03-12,2020-03-20,No,,2020-03-22,,,isolated
 157,male,Over 20,Taiwan,hospitalized,imported case,New Zealand,,,fatigue/chest pain/difficulty breathing,2020-03-18,2020-03-20,Yes,,2020-03-22,,,isolated
-158,female,Over 10,Taiwan,hospitalized,imported case,United States,,,cough/sputum production/slight fever/headache/myalgia/chest x-ray showing pneumonia,2020-03-18,2020-03-19,Yes,,2020-03-22,,,isolated
-159,male,Over 60,Taiwan,hospitalized,imported case,United States,,,myalgia/chest x-ray showing pneumonia/runny nose,2020-03-18,2020-03-20,Yes,,2020-03-22,,,isolated
-160,male,Over 50,Taiwan,home isolation,imported case,United States,,,headache/itchy throat/dry cough/chest tightness,2020-03-14,2020-03-20,Yes,,2020-03-22,,,isolated
+158,female,Over 10,Taiwan,hospitalized,imported case,US,,,cough/sputum production/slight fever/headache/myalgia/chest x-ray showing pneumonia,2020-03-18,2020-03-19,Yes,,2020-03-22,,,isolated
+159,male,Over 60,Taiwan,hospitalized,imported case,US,,,myalgia/chest x-ray showing pneumonia/runny nose,2020-03-18,2020-03-20,Yes,,2020-03-22,,,isolated
+160,male,Over 50,Taiwan,home isolation,imported case,US,,,headache/itchy throat/dry cough/chest tightness,2020-03-14,2020-03-20,Yes,,2020-03-22,,,isolated
 161,male,Over 60,Taiwan,home isolation,imported case,Egypt,,Egypt tour,asymptomatic case/chest x-ray showing pneumonia,2020-03-20,2020-03-20,Yes,,2020-03-22,,,isolated
 162,female,Over 60,Taiwan,home isolation,imported case,Egypt,,Egypt tour,asymptomatic case/chest x-ray showing pneumonia,2020-03-20,2020-03-20,Yes,,2020-03-22,,,isolated
 163,female,Over 20,Taiwan,home quarantine,imported case,Frence,,,cough/sore throat,2020-03-17,2020-03-20,Yes,,2020-03-22,,,isolated
