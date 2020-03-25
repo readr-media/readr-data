@@ -23,7 +23,7 @@
 	* confirmed_date 確診日期
 	* released_date 解除隔離日期
 	* deceased_date 死亡日期
-	* State 狀態
+	* State 狀態 （疾管署回應，為了保護隱私，不再公布3/10之後解除隔離之個案）
 		* released 解除隔離
 		* isolated 隔離中
 		* deceased 死亡
