@@ -18,22 +18,22 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16,female,Above 40,Taiwan,hospitalized,imported case,Macau,,,fever/chills/sore throat/runny nose/shortness of breath on exertion ,2020-02-01,2020-02-05,Yes,,2020-02-06,2020-02-29,,released,Yes,,
 17,male,Above 20,Taiwan,identified as a contact,imported case,Italy,,Italy tour,cough,2020-01-27,2020-02-07,Yes,,2020-02-08,2020-02-27,,released,Yes,,
 18,male,Above 20,Taiwan,identified as a contact,imported case,Italy,,Italy tour,asymptomatic case,,,Yes,,2020-02-09,2020-03-08,,released,No,,
-19,male,Above 20,Taiwan,hospitalized,indigenous case,,carrier,patient#19,cough/shortness of breath/pneumonia,2020-01-27,2020-02-03,No,hepatitis B and diabete,2020-02-16,,2020-02-15,deceased,Yes,,
+19,male,Above 20,Taiwan,hospitalized,indigenous case,,carrier,patient#19,cough/shortness of breath/pneumonia,2020-01-27,2020-02-03,No,hepatitis B/diabete,2020-02-16,,2020-02-15,deceased,Yes,,
 20,male,Above 50,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,asymptomatic case,,,No,,2020-02-16,,,isolated,No,,
 21,female,Above 80,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,,2020-02-06,2020-02-06,No,,2020-02-17,,,isolated,Yes,,
 22,male,Above 30,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,fever/cough,2020-01-28,,No,,2020-02-17,,,isolated,Yes,,
 23,female,Above 60,Taiwan,identified as a contact,indigenous case,,patient#19,patient#19,,,,No,,2020-02-19,,,isolated,Yes,,
-24,female,Above 60,Taiwan,hospitalized,indigenous case,,unknown,patient#24,cough/shortness of breath/pneumonia,2020-01-22,2020-02-17,No,hypertension and gout,2020-02-19,,,isolated,Yes,,
+24,female,Above 60,Taiwan,hospitalized,indigenous case,,unknown,patient#24,cough/shortness of breath/pneumonia,2020-01-22,2020-02-17,No,hypertension/gout,2020-02-19,,,isolated,Yes,,
 25,female,Above 20,Taiwan,identified as a contact,indigenous case,,patient#24,patient#24,fever/cough,2020-01-28,,No,,2020-02-21,,,isolated,Yes,,
 26,female,Above 40,Taiwan,identified as a contact,indigenous case,,patient#24,patient#24,asymptomatic case,2020-02-09,,No,,2020-02-21,2020-03-08,,released,No,,
-27,male,Above 80,Taiwan,hospitalized,indigenous case,,unknown,patient#27,shortness of breath,2020-02-16,2020-02-21,No,hypertension and diabete\dialysis treatment,2020-02-23,,2020-03-20,deceased,Yes,,
+27,male,Above 80,Taiwan,hospitalized,indigenous case,,unknown,patient#27,shortness of breath,2020-02-16,2020-02-21,No,hypertension/diabete/dialysis treatment,2020-02-23,,2020-03-20,deceased,Yes,,
 28,male,Above 50,Taiwan,hospitalized,indigenous case,,patient#27,patient#27,fever/runny nose/sore throat,2020-01-31,2020-02-21,No,,2020-02-23,,,isolated,Yes,,
 29,male,Above 40,Taiwan,identified as a contact,indigenous case,,patient#27,patient#27,mild throat discomfort,2020-01-29,,Yes,,2020-02-24,2020-03-08,,released,Yes,,
 30,female,Above 70,Taiwan,identified as a contact,indigenous case,,patient#27,patient#27,acute pharyngitis/respiratory symptoms,2020-02-06,,No,,2020-02-24,,,isolated,Yes,,
 31,male,Above 10,Taiwan,identified as a contact,indigenous case,,patient#27,patient#27,asymptomatic case,,,No,,2020-02-25,,,isolated,No,,
 32,female,Above 30,Indonesia,identified as a contact,indigenous case,,patient#27,patient#27,mild throat discomfort,,,No,,2020-02-26,,,isolated,Yes,,
 33,male,Above 30,Taiwan,hospitalized,imported case,Japan,,,cough/itchy throat,2020-02-25,2020-02-27,Yes,,2020-02-28,2020-03-10,,released,Yes,,
-34,female,Above 50,Taiwan,hospitalized,indigenous case,,unknown,patient#34,fever/cough/sore throat/pneumonia,2020-02-14,,No,diabete and cardiovascular disease,2020-02-28,,,isolated,Yes,,
+34,female,Above 50,Taiwan,hospitalized,indigenous case,,unknown,patient#34,fever/cough/sore throat/pneumonia,2020-02-14,,No,diabete/cardiovascular disease,2020-02-28,,,isolated,Yes,,
 35,female,Above 50,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,cough/runny nose/fever,2020-02-18,,No,,2020-02-29,2020-03-10,,released,Yes,,
 36,female,Above 20,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,cough/runny nose/fever,2020-02-18,,No,,2020-02-29,,,isolated,Yes,,
 37,female,Above 20,Taiwan,identified as a contact,indigenous case,,patient#34,patient#34,cough/runny nose/fever,2020-02-18,,No,,2020-02-29,,,isolated,Yes,,
@@ -249,7 +249,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 247,female,Above 40,Taiwan,home isolation,indigenous case,,patient#228,,fever/cough/fatigue,2020-03-23,2020-03-24,No,,2020-03-26,,,isolated,Yes,,
 248,male,Above 20,Taiwan,home isolation,imported case,Spain,,patient#170,asymptomatic case,No,2020-03-24,Yes,,2020-03-26,,,isolated,No,,
 249,male,Above 60,Taiwan,hospitalized,imported case,Malaysia/Philippines,,,fatigue/cough/fever/myalgia/pneumonia,2020-03-16,2020-03-24,Yes,,2020-03-26,,,isolated,Yes,,
-250,female,Above 30,Taiwan,home quarantine,imported case,Morocco,,,lose their ability to smell/slight fever,2020-03-20,2020-03-22,Yes,,2020-03-26,,,isolated,Yes,,
+250,female,Above 30,Taiwan,home quarantine,imported case,Morocco,,Morocco tour,lose their ability to smell/slight fever,2020-03-20,2020-03-22,Yes,,2020-03-26,,,isolated,Yes,,
 251,male,Above 60,Taiwan,home quarantine,imported case,Australia/Mexico,,,sore throat/fever,2020-03-23,2020-03-24,Yes,,2020-03-26,,,isolated,Yes,,
 252,male,Above 20,Taiwan,filtered at airport,imported case,United Kingdom,,,cough/runny nose/sore throat/nasal congestion,2020-03-19,2020-03-22,Yes,,2020-03-26,,,isolated,Yes,,
 253,female,Above 50,Taiwan,filtered at airport,imported case,US,,,fever/diarrhea/itchy eyes/chest pain,2020-03-14,2020-03-24,Yes,,2020-03-27,,,isolated,Yes,2020-02-18,2020-03-24
@@ -267,8 +267,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 265,female,Above 10,Taiwan,home quarantine,imported case,US,,,fever,2020-03-12,2020-03-24,Yes,,2020-03-27,,,isolated,Yes,2019-09-02,2020-03-15
 266,male,Above 30,Taiwan,home quarantine,imported case,United Kingdom,,,fever/fatigue,2020-03-24,2020-03-25,Yes,,2020-03-27,,,isolated,Yes,2020-01-18,2020-03-21
 267,male,Above 50,Taiwan,filtered at airport,imported case,United Kingdom,,,dry cough/runny nose,2020-03-20,2020-03-25,Yes,,2020-03-27,,,isolated,Yes,2020-03-08,2020-03-25
-268,male,Above 50,Taiwan,hospitalized,indigenous case,,unknown,,cough/sore throat/headache/fever/shortness of breath/diarrhea/pneumonia,2020-02-28,2020-03-26,No,,2020-03-28,,,isolated,Yes,,
-269,male,Above 30,Taiwan,hospitalized,indigenous case,,unknown,,myalgia/diarrhea/fever,2020-03-23,2020-03-25,No,,2020-03-28,,,isolated,Yes,,
+268,male,Above 50,Taiwan,hospitalized,indigenous case,,unknown,,cough/sore throat/headache/fever/shortness of breath/diarrhea/pneumonia,2020-02-28,2020-03-26,No,hypertension/Coronary Syndrome,2020-03-28,,,isolated,Yes,,
+269,male,Above 30,Taiwan,hospitalized,indigenous case,,patient#277,,myalgia/diarrhea/fever,2020-03-23,2020-03-25,No,,2020-03-28,,,isolated,Yes,,
 270,female,Above 20,Taiwan,filtered at airport,imported case,United Kingdom,,,sputum production/runny nose,2020-03-25,2020-03-25,Yes,,2020-03-28,,,isolated,Yes,2020-01-02,2020-03-25
 271,female,Above 20,Taiwan,filtered at airport,imported case,United Kingdom,,,fatigue/cough/dry throat/lose their ability to smell and taste/runny nose,2020-03-12,2020-03-25,Yes,,2020-03-28,,,isolated,Yes,2019-07-05,2020-03-25
 272,male,Above 20,Taiwan,filtered at airport,imported case,United Kingdom,,UK school,fever/cough/lose their ability to smell/fatigue/nasal congestion/myalgia/arthralgia/sore throat,2020-03-19,2020-03-25,Yes,,2020-03-28,,,isolated,Yes,2020-01-06,2020-03-25
@@ -283,3 +283,18 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 281,female,Above 10,Taiwan,filtered at airport,imported case,US,,,fever/sputum production,2020-03-20,2020-03-26,Yes,,2020-03-28,,,isolated,Yes,2020-01-31,2020-03-26
 282,female,Above 20,Taiwan,filtered at airport,imported case,Ireland,,,fever/nasal congestion/cough/lose their ability to taste,2020-03-20,2020-03-26,Yes,,2020-03-28,,,isolated,Yes,2020-02-01,2020-03-26
 283,female,Above 20,Taiwan,home quarantine,imported case,US,,,lose their ability to smell and taste,2020-03-24,2020-03-26,Yes,,2020-03-28,,,isolated,Yes,2020-03-04,2020-03-23
+284,male,Above 20,Taiwan,home quarantine,imported case,Philippines,,,myalgia/fever/sore throat/sputum production,2020-03-25,2020-03-26,Yes,,2020-03-29,,,isolated,Yes,2020-01-31,2020-03-20
+285,male,Above 30,Taiwan,hospitalized,imported case,US,,,myalgia/cough/diarrhea,2020-03-19,2020-03-27,Yes,,2020-03-29,,,isolated,Yes,2020-03-09,2020-03-16
+286,female,Above 30,Taiwan,home quarantine,imported case,Turkey,,,cough/fever/fatigue,2020-03-23,2020-03-26,Yes,,2020-03-29,,,isolated,Yes,2020-03-08,2020-03-17
+287,male,Above 30,Taiwan,filtered at airport,imported case,United Kingdom,,,fever/fatigue,2020-03-19,2020-03-27,Yes,,2020-03-29,,,isolated,Yes,2019-12-19,2020-03-26
+288,male,Above 20,Taiwan,home quarantine,imported case,Morocco,,Morocco tour,cough/fever,2020-03-10,2020-03-22,Yes,,2020-03-29,,,isolated,Yes,2020-03-10,2020-03-22
+289,female,Above 40,Taiwan,hospitalized,indigenous case,,patient#293,,rhinitis/fever,2020-03-22,2020-03-27,No,,2020-03-29,,,isolated,Yes,,
+290,female,Above 50,Taiwan,hospitalized,imported case,Indonesia ,,patient#290,lose their ability to smell,2020-03-22,2020-03-26,Yes,,2020-03-29,,,isolated,Yes,2020-03-10,2020-03-14
+291,male,Above 60,Taiwan,hospitalized,imported case,Indonesia ,,patient#290,cough/myalgia/arthralgia/fatigue,2020-03-22,2020-03-26,Yes,,2020-03-29,,,isolated,Yes,2020-03-10,2020-03-14
+292,female,Above 10,Taiwan,home quarantine,imported case,US,,,cough/fever/headache/cold sweat,2020-03-22,2020-03-23,Yes,,2020-03-29,,,isolated,Yes,2020-01-31,2020-03-19
+293,male,Above 40,Taiwan,identified as a contact,imported case,Spain/Portugal,,,cough,2020-03-23,2020-03-27,Yes,,2020-03-29,,,isolated,Yes,2020-03-07,2020-03-16
+294,female,Above 20,Taiwan,home quarantine,imported case,Switzerland,,,nasal congestion/sore throat,2020-03-25,2020-03-28,Yes,,2020-03-29,,,isolated,Yes,2020-02-09,2020-03-20
+295,male,Above 60,Taiwan,home quarantine,imported case,United Kingdom,,,cough/sore throat/fever,2020-03-22,2020-03-26,Yes,,2020-03-29,,,isolated,Yes,2020-03-14,2020-03-19
+296,female,Above 20,Taiwan,filtered at airport,imported case,France/Spain/Tunisia,,,cough/sore throat/fever/abdominal pain/vomiting,2020-03-08,2020-03-28,Yes,,2020-03-29,,,isolated,Yes,2019-12-30,2020-03-27
+297,male,Above 10,Taiwan,filtered at airport,imported case,France,,,cough/sore throat/fever/fatigue/myalgia/nasal congestion/runny nose/headache,2020-03-23,2020-03-27,Yes,,2020-03-29,,,isolated,Yes,2019-09-01,2020-03-27
+298,male,Above 30,Taiwan,filtered at airport,imported case,France,,,fatigue/headache/fever/conjunctival congestion/nasal congestion/runny nose/chest pain/myalgia/diarrhea/lose their ability to smell/lose their ability to taste,2020-03-18,2020-03-28,Yes,,2020-03-29,,,isolated,Yes,2020-03-07,2020-03-27
