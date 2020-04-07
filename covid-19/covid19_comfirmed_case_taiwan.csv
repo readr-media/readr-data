@@ -324,11 +324,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 322,male,Above 20,Taiwan,hospitalized,indigenous case,,unknown,,fever/cough/vomiting/fatigue/pneumonia,2020-03-26,2020-03-30,No,,2020-03-31,,,isolated,Yes,,
 323,male,Above 20,Taiwan,home quarantine,imported case,United Kingdom,,,sore throat/itchy throat,2020-03-23,2020-03-26,Yes,,2020-04-01,,,isolated,Yes,2020-01-06,2020-03-19
 324,female,Above 20,Taiwan,home quarantine,imported case,US,,,nasal congestion/runny nose/lose their ability to smell,2020-03-27,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2019-09-16,2020-03-25
-325,female,Above 20,Taiwan,filtered at airport,imported case,US,,US_individual_tour_2/airplane_from_NY_CI011,lose their ability to smell,2020-03-23,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2020-02-06,2020-03-30
+325,female,Above 20,Taiwan,filtered at airport,imported case,US,,airplane_from_NY_CI011,lose their ability to smell,2020-03-23,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2020-02-06,2020-03-30
 326,female,Above 30,Taiwan,filtered at airport,imported case,US,,airplane_from_NY_CI011,fever,2020-03-29,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2020-01-19,2020-03-30
 327,male,Above 30,Taiwan,filtered at airport,imported case,US,,airplane_from_NY_CI011,fever/sore throat/nasal congestion/myalgia,2020-03-22,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2019-05-07,2020-03-30
 328,male,Above 70,Taiwan,filtered at airport,imported case,US,,airplane_from_NY_CI011,fever,2020-03-21,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2019-12-31,2020-03-30
-329,female,Above 20,Taiwan,filtered at airport,imported case,US,,US_individual_tour_2/airplane_from_NY_CI011,lose their ability to smell and taste/sputum production,2020-03-24,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2020-02-06,2020-03-30
+329,female,Above 20,Taiwan,filtered at airport,imported case,US,,airplane_from_NY_CI011,lose their ability to smell and taste/sputum production,2020-03-24,2020-03-30,Yes,,2020-04-01,,,isolated,Yes,2020-02-06,2020-03-30
 330,male,Above 20,Taiwan,home quarantine,imported case,US,,,fever/myalgia/sore throat/cough,2020-03-28,2020-03-30,Yes,,2020-04-02,,,isolated,Yes,2020-03-14,2020-03-18
 331,male,Above 60,Taiwan,home isolation,imported case,Peru/Argentina/Chile/Brazil/Bolivia,,South America tour,dry throat/fatigue,2020-03-28,2020-03-30,Yes,,2020-04-02,,,isolated,Yes,2020-02-27,2020-03-23
 332,male,Above 10,Taiwan,filtered at airport,imported case,United Kingdom,,,slight fever/lose their ability to smell and taste,2020-03-25,2020-03-31,Yes,,2020-04-02,,,isolated,Yes,2020-03-06,2020-03-30
@@ -373,3 +373,6 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 371,male,Above 20,Taiwan,home isolation,imported case,US,,airplane_from_NY_CI011,sore throat/lose their ability to taste,2020-04-02,2020-04-04,Yes,,2020-04-06,,,isolated,Yes,2020-01-20,2020-03-30
 372,male,Above 30,Taiwan,home quarantine,imported case,United Kingdom/Iceland,,Iceland_trip,runny nose/nasal congestion/lose their ability to smell and taste,2020-04-01,2020-04-04,Yes,,2020-04-06,,,isolated,Yes,2020-03-06,2020-03-21
 373,female,Above 30,Taiwan,home quarantine,imported case,United Kingdom/Iceland,,Iceland_trip,runny nose/nasal congestion/lose their ability to smell,2020-04-03,2020-04-04,Yes,,2020-04-06,,,isolated,Yes,2020-03-06,2020-03-21
+374,male,Above 20,Taiwan,home quarantine,imported case,United Kingdom,,,runny nose/nasal congestion/lose their ability to smell/cough/diarrhea,2020-04-04,2020-04-07,Yes,,2020-04-07,,,isolated,Yes,2019-09-11,2020-03-29
+375,female,Above 20,Taiwan,home quarantine,imported case,United Kingdom/Netherlands/Belgium/France,,,throat discomfort/nasal congestion/lose their ability to smell/fever/diarrhea/shortness of breath,2020-03-30,2020-04-07,Yes,,2020-04-07,,,isolated,Yes,2020-02-25,2020-03-27
+376,female,Above 20,Taiwan,home isolation,imported case,US,,airplane_from_NY_CI011,runny nose/nasal congestion/nausea/cough,2020-04-02,2020-04-07,Yes,,2020-04-07,,,isolated,Yes,2019-08-21,2020-03-30
