@@ -100,7 +100,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 98,female,Above 20,Taiwan,filtered at airport,imported case,France,,,fatigue/fever/sore throat/sputum production,2020-03-13,2020-03-16,Yes,,2020-03-18,,,isolated,Yes,,
 99,female,Above 20,Taiwan,filtered at airport,imported case,Philippines,,,runny nose/fatigue/sore throat/cough/diarrhea/nasal congestion,2020-03-08,2020-03-16,Yes,,2020-03-18,,,isolated,Yes,,
 100,female,Above 20,Taiwan,hospitalized,indigenous case,,unknown,,cough/fever/sore throat,2020-03-12,2020-03-17,No,,2020-03-18,,,isolated,Yes,,
-101,male,Above 70,Taiwan,hospitalized,imported case,Egypt,,Egypt tour,fever/runny nose/myalgia,2020-03-17,2020-03-17,Yes,,2020-03-19,,,isolated,Yes,,
+101,male,Above 70,Taiwan,hospitalized,imported case,Egypt,,Egypt tour,fever/runny nose/myalgia,2020-03-17,2020-03-17,Yes,,2020-03-19,,2020-04-09,deceased,Yes,,
 102,female,Above 50,Taiwan,hospitalized,imported case,US,,,fever/mild cough,2020-03-11,2020-03-16,Yes,,2020-03-19,,,isolated,Yes,,
 103,male,Above 10,Taiwan,hospitalized,indigenous case,,patient#59,patient#59,fever/itchy throat,2020-03-15,2020-03-16,No,,2020-03-19,,,isolated,Yes,,
 104,female,Above 40,Taiwan,hospitalized,imported case,Austria/Czechia,,Austria_Czechia_tour,cough/runny nose/chest tightness,2020-03-16,,Yes,,2020-03-19,,,isolated,Yes,,
@@ -380,3 +380,5 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 378,female,Above 60,Taiwan,home quarantine,imported case,Indonesia,,,chest x-ray showing pneumonia/fever/cough/shortness of breath/fatigue,2020-04-01,2020-04-05,Yes,,2020-04-08,,,isolated,Yes,2020-02-16,2020-03-29
 379,female,Above 30,Taiwan,hospitalized,indigenous case,,,,slight fever/runny nose,2020-04-04,2020-04-04,No,,2020-04-08,,,isolated,Yes,,
 380,male,Above 20,Taiwan,home isolation,indigenous case,,patient#322,,asymptomatic case,,2020-04-06,No,,2020-04-09,,,isolated,No,,
+381,female,Above 20,Taiwan,home isolation,imported case,US,,airplane_from_NY_CI011,runny nose/nasal congestion/lose their ability to smell,2020-04-05,2020-04-07,Yes,,2020-04-10,,,isolated,Yes,,2020-03-30
+382,male,Above 60,Taiwan,home isolation,imported case,Indonesia,,,asymptomatic case,,2020-04-07,Yes,,2020-04-10,,,isolated,No,2020-02-16,2020-03-29
