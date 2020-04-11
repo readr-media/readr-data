@@ -382,3 +382,6 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 380,male,Above 20,Taiwan,home isolation,indigenous case,,patient#322,,asymptomatic case,,2020-04-06,No,,2020-04-09,,,isolated,No,,
 381,female,Above 20,Taiwan,home isolation,imported case,US,,airplane_from_NY_CI011,runny nose/nasal congestion/lose their ability to smell,2020-04-05,2020-04-07,Yes,,2020-04-10,,,isolated,Yes,,2020-03-30
 382,male,Above 60,Taiwan,home isolation,imported case,Indonesia,,,asymptomatic case,,2020-04-07,Yes,,2020-04-10,,,isolated,No,2020-02-16,2020-03-29
+383,male,Above 60,Taiwan,filtered at airport,imported case,US,,,fever/stomach upset,2020-03-31,2020-04-10,Yes,,2020-04-11,,,isolated,Yes,,2020-04-10
+384,male,Above 70,Taiwan,filtered at airport,imported case,US,,,cough,2020-04-03,2020-04-10,Yes,,2020-04-11,,,isolated,Yes,,2020-04-10
+385,female,Above 20,Taiwan,home quarantine,imported case,France,,,runny nose/nasal congestion,2020-04-04,2020-04-07,Yes,,2020-04-11,,,isolated,Yes,,2020-04-03
