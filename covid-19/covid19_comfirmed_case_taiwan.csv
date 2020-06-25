@@ -446,3 +446,4 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 444,male,Above 50,Taiwan,filtered at airport,imported case,Bangladesh,,,fever/cough/sore throat/lose their ability to taste/myalgia,2020-05-23,2020-06-15,Yes,,2020-06-15,,,isolated,Yes,2020-01,2020-06-13,
 445,female,Above 40,Taiwan,filtered at airport,imported case,Bangladesh,,,fever,2020-05-25,2020-06-15,Yes,,2020-06-15,,,isolated,Yes,2020-01,2020-06-13,
 446,male,Above 60,Taiwan,identified as a contact,imported case,Bangladesh,"patient#444, patient#445",,asymptomatic case,,2020-06-15,Yes,,2020-06-18,,,isolated,No,2020-01,2020-06-13,
+447,male,Above 60,Taiwan,identified as a contact,imported case,Guatemala,,,cough/shortness of breath/myalgia,2020-06-01,2020-06-24,Yes,,2020-06-25,,,isolated,Yes,2020-04,2020-06-24,
