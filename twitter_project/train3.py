@@ -15,13 +15,14 @@ from datetime import datetime
 pd.options.mode.chained_assignment = None
 xgbc = XGBClassifier()
 
-zonble = pd.read_csv("./users_train1.csv")
+zonble = pd.read_csv("./11_users_train2.csv")
 zonble = zonble.dropna(subset=['corpus'])
 zonble.head()
 
 print(zonble.groupby("corpus").count())
 x = zonble[[
-    "user_reported_location","follower_count","following_count","account_creation_date","account_language","tweet_language","tweet_text","tweet_time","tweet_client_name","in_reply_to_userid","in_reply_to_tweetid","quoted_tweet_tweetid","is_retweet","retweet_userid","retweet_tweetid","latitude","longitude","quote_count","reply_count","like_count","retweet_count","hashtags","urls","user_mentions"
+    "follower_count","following_count","account_language","tweet_count","mention","0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","tweet_ratio"
+    #"user_reported_location","follower_count","following_count","account_creation_date","account_language","tweet_language","tweet_text","tweet_time","tweet_client_name","in_reply_to_userid","in_reply_to_tweetid","quoted_tweet_tweetid","is_retweet","retweet_userid","retweet_tweetid","latitude","longitude","quote_count","reply_count","like_count","retweet_count","hashtags","urls","user_mentions"
 ]].values
     #"user_reported_location","follower_count","following_count","is_retweet","account_language","tweet_language","tweet_client_name"
 y = zonble["corpus"].values
