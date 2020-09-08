@@ -1,0 +1,69 @@
+---
+title: "fruit_Notebook"
+output: html_notebook
+---
+
+
+# dataset list
+01:水果產量變化
+02:影響水果的天氣變化
+03:作物主要產地的冬季溫度
+04:作物主要產地的雨量變化
+05:歷年農損情況
+06:2020 年農委會預算分配
+
+
+# dataset
+* id:01
+* name:fruit_production_change
+* format: csv
+* content: 2009-2019，農委會 50 種水果產量變化
+* source:農委會
+* limitation:
+
+
+
+* id:02
+* name:fruit_weather_reason
+* format: csv
+* content:減幅最高的10種水果＋社團票選10種水果的天氣變因
+* source:中央氣象局 https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp
+* limitation: 各測站設立的時間不一，有些作物的主產地測站時間不夠久，因此只能找鄰近的測站資料
+
+
+
+* id:03
+* name:main_place_winter_temperture
+* format: csv
+* content:1918-2018，水果主要三大產區的平均溫度與距平溫差
+* source:臺灣氣候變遷推估資訊與調適知識平台
+* limitation:
+
+
+
+* id:04
+* name:main_place_rain_change
+* format: csv
+* content:1918-2018，水果主要三大產區的小雨日日數
+* source:臺灣氣候變遷推估資訊與調適知識平台
+* limitation:
+
+
+
+* id:05
+* name:agriculture_damage_money
+* format: csv
+* content:2009-2019，臺灣農業天然災害損失金額比例
+* source:農委會農業統計年報 https://agrstat.coa.gov.tw/sdweb/public/book/Book.aspx
+* limitation:
+
+
+
+* id:06
+* name:2020_gov_money
+* format: csv
+* content:2020 年農委會預算分配的比例
+* source:農委會 109 年度法定預算 https://www.coa.gov.tw/ws.php?id=2510043
+* limitation:
+
+
