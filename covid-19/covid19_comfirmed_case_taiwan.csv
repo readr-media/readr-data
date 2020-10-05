@@ -1,4 +1,3 @@
-covid19_comfirmed_case_taiwan
 covid19_comfirmed_case_taiwan,,,,,,,,,,,,,,,,,,,,,
 patient_id,gender,age,country,report_reason,case_type,imported_country,contact_with,group,symptoms,show_symptoms,reported_date,tourism_history,medical_history,"confirmed_date
 ",released_date,deceased_date,state,have symptoms,departure_date,arrival_date,remarks
@@ -519,4 +518,4 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 515,Male,Above 40,Taiwan,filtered at airport,imported case,Indonesia,,,sore throat/dry cough,2020/9/29,2020/9/29,Yes,,2020/10/1,,,isolated,Yes,Jun-19,2020/9/29,
 516,male,Above 30,Taiwan,home quarantine,imported case,US,,,fever/lose their ability to smell and taste/dry cough,2020/8/28,2020/9/20,Yes,,2020/10/2,,,isolated,Yes,,2020/9/20,
 517,male,Above 40,Taiwan,filtered at airport,imported case,Japan,,,diarrhea/myalgia/nasal congestion/fever/dry cough/lose their ability to smell and taste,2020/9/15,2020/9/30,Yes,,2020/10/2,,,isolated,Yes,Jan-20,2020/9/30,
-518,female,Above 30,Taiwan,self-financed testing,imported case,Philippines,,,fever/lose their ability to smell/diarrhea,2020/6/19,2020/06,Yes,,2020/10/5,,,isolated,Yes,Jan-20,2020/9/18,"The case went to a doctor in the Philippines on June, 2020, and was positive result of covid19. After the local hospital treated, the case immigrated in Sep,18,2020, and was isolated for 14 days. However, the case was weak positive result by self-financed testing.    "
+518,female,Above 30,Taiwan,self-financed testing,imported case,Philippines,,,fever/lose their ability to smell/diarrhea,2020/6/19,2020/06,Yes,,2020/10/5,,,isolated,Yes,Jan-20,2020/9/18,"The case went to a doctor in the Philippines on June, 2020, and was positive result of covid19. After the local hospital treated, the case immigrated in Sep.18,2020, and was isolated for 14 days. However, the case was weak positive result by self-financed testing."
