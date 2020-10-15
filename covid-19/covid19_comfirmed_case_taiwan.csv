@@ -498,15 +498,15 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 496,male,Above 60,Taiwan,home quarantine,imported case,Indonesia,,,fever/runny nose,2020-09-07,2020-09-08,Yes,,2020-09-10,,,isolated,Yes,2020-02,2020-09-04,
 497,female,Above 30,Philippines,group quarantine,imported case,Philippines/Hong Kong,,,asymptomatic case,,2020-09-10,Yes,,2020-09-11,,,isolated,No,,2020-08-30,
 498,male,Above 60,Taiwan,filtered at airport,imported case,Philippines,,,fever/dry cough/back pain,2020-07-14,2020-09-09,Yes,,2020-09-11,,,isolated,Yes,2020-01,2020-09-09,
-499,female,Above 20,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,2020-09-10,No,,2020-09-14,,,isolated,Yes,,2020-09-10,
-500,female,Above 30,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,2020-09-13,No,,2020-09-16,,,isolated,Yes,,2020-09-13,
-501,female,Above 40,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,2020-09-13,No,,2020-09-17,,,isolated,Yes,2020-02,2020-09-13,
+499,female,Above 20,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,2020-09-10,Yes,,2020-09-14,,,isolated,Yes,,2020-09-10,
+500,female,Above 30,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,2020-09-13,Yes,,2020-09-16,,,isolated,Yes,,2020-09-13,
+501,female,Above 40,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,2020-09-13,Yes,,2020-09-17,,,isolated,Yes,2020-02,2020-09-13,
 502,female,Above 20,Taiwan,home quarantine,imported case,United Kingdom,,,sore throat/diarrhea/abdominal pain/runny nose/nasal congestion,2020-09-10,2020-09-15,Yes,,2020-09-17,,,isolated,Yes,2019-02,2020-09-06,
 503,male,Above 30,Taiwan,group quarantine,imported case,Philippines,patient#500,,nasal congestion/runny nose/itchy throat/cough/lose their ability to smell/chest tightness,2020-09-10,2020-09-13,Yes,,2020-09-17,,,isolated,Yes,2020-03,2020-09-13,
 504,male,Above 20,Philippines,group quarantine,imported case,Philippines,,,sputum production,2020-09-18,2020-09-18,Yes,,2020-09-19,,,isolated,Yes,,2020-09-17,
 505,male,Above 30,Taiwan,group quarantine,imported case,Myanmar,,,sore throat/itchy throat/cough/nasal congestion,2020-09-17,2020-09-17,Yes,,2020-09-19,,,isolated,Yes,2020-02,2020-09-17,
 506,female,Above 50,Taiwan,self-financed testing,imported case,Japan,,,sore throat/cough,2020-08-28,2020-09-18,Yes,,2020-09-19,,,isolated,Yes,,2020-09-11,
-507,female,Above 30,Philippines,group quarantine,imported case,Philippines,,,asymptomatic case,,2020-09-18,No,,2020-09-20,,,isolated,Yes,,2020-09-18,
+507,female,Above 30,Philippines,group quarantine,imported case,Philippines,,,asymptomatic case,,2020-09-18,Yes,,2020-09-20,,,isolated,Yes,,2020-09-18,
 508,male,Above 20,Taiwan,filtered at airport,imported case,Indonesia,,,fever/lose their ability to smell,2020-09-17,2020-09-19,Yes,,2020-09-21,,,isolated,Yes,2020-06,2020-09-19,
 509,male,Above 30,Taiwan,home quarantine,imported case,Myanmar,patient#505,,cough/fever/lose their ability to smell,2020-09-17,2020-09-18,Yes,,2020-09-21,,,isolated,Yes,2019-04,2020-09-17,
 510,male,Above 30,Philippines,group quarantine,imported case,Philippines,,,diarrhea,2020-09-21,2020-09-24,Yes,,2020-09-25,,,isolated,Yes,,2020-09-10,"The case had diarrhea during quarantine, but he did not report it because he thought he had a bad stomach. This case confirmed after the routine inspection at the end of the group quarantine."
@@ -531,3 +531,4 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 529,female,Above 20,Taiwan,home quarantine,imported case,Dubai,,,lose their ability to smell,2020-10-10,2020-10-10,Yes,,2020-10-12,,,isolated,Yes,2020-01,2020-09-30,"The case has been working in Dubai and other countries for a long time.
 "
 530,male,Above 40,Taiwan,filtered at airport,imported case,China,,,sputum production/cough/runny nose/nasal congestion,2020-10-01,2020-10-11,Yes,,2020-10-13,,,isolated,Yes,2020-02,2020-10-11,
+531,male,Above 30,Philippines,self-financed testing,imported case,Philippines,,,asymptomatic case,,2020-10-13,Yes,,2020-10-15,,,isolated,No,,2020-09-17,
