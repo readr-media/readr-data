@@ -541,3 +541,6 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 538,male,Above 30,Philippines,group quarantine,imported case,Philippines,,,asymptomatic case,,,Yes,,2020-10-19,,,isolated,No,,2020-10-04,
 539,female,Above 10,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,,Yes,,2020-10-19,,,isolated,No,,2020-10-03,
 540,female,Above 10,Russia,home quarantine,imported case,Russia,,,lose their ability to taste,,2020-10-16,Yes,,2020-10-19,,,isolated,Yes,,2020-10-09,
+541,female,Above 20,Philippines,group quarantine,imported case,Philippines,,,asymptomatic case,,2020-10-18,Yes,,2020-10-20,,,isolated,No,,2020-10-05,This case confirmed after the routine inspection at the end of the group quarantine.
+542,male,Above 20,Philippines,group quarantine,imported case,Philippines,,,asymptomatic case,,2020-10-18,Yes,,2020-10-20,,,isolated,No,,2020-10-05,This case confirmed after the routine inspection at the end of the group quarantine.
+543,male,Above 50,Taiwan,filtered at airport,imported case,Philippines,,,fever/myalgia/cough/breathing difficulties,2020-10-05,2020-10-18,Yes,,2020-10-20,,,isolated,Yes,2020-01,2020-10-18,This case was diagnosed with pneumonia in the Philippines and returned to Taiwan before the test result (positive) came out.
