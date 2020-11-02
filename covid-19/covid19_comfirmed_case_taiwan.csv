@@ -530,7 +530,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 528,female,Above 20,Taiwan,home quarantine,imported case,France,,,runny nose/itchy throat,2020-10-07,2020-10-09,Yes,,2020-10-12,,,isolated,Yes,2020-01,2020-10-04,
 529,female,Above 20,Taiwan,home quarantine,imported case,Dubai,,,lose their ability to smell,2020-10-10,2020-10-10,Yes,,2020-10-12,,,isolated,Yes,2020-01,2020-09-30,"The case has been working in Dubai and other countries for a long time.
 "
-530,male,Above 40,Taiwan,filtered at airport,imported case,China,,,sputum production/cough/runny nose/nasal congestion,2020-10-01,2020-10-11,Yes,,2020-10-13,,,isolated,Yes,2020-02,2020-10-11,
+530,N/A,,,,,,,,,,,,,,,,,,,,"Due to specimen misplacement #536
+"
 531,male,Above 30,Philippines,self-financed testing,imported case,Philippines,,,asymptomatic case,,2020-10-13,Yes,,2020-10-15,,,isolated,No,,2020-09-17,
 532,female,Above 10,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2020-10-15,Yes,,2020-10-16,,,isolated,No,,2020-09-30,
 533,female,Above 10,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2020-10-15,Yes,,2020-10-16,,,isolated,No,,2020-09-30,
@@ -560,3 +561,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 557,female,Above 10,Indonesia,filtered at airport,imported case,Indonesia,,,lose their ability to smell and taste,2020-10-07,2020-10-29,Yes,,2020-11-01,,,isolated,Yes,,2020-10-29,
 558,male,Above 30,Indonesia,hospitalized,imported case,Indonesia,,,runny nose,2020-10-14,2020-10-29,Yes,,2020-11-01,,,isolated,Yes,,2020-10-14,
 559,male,Above 50,Taiwan,filtered at airport,imported case,US,,,fever/myalgia/arthragia/dry cough/fever,2020-10-26,2020-10-30,Yes,,2020-11-01,,,isolated,Yes,2020-02,2020-10-30,
+560,male,Above 30,India,self-financed testing,imported case,India,,,asymptomatic case,,2020-10-31,Yes,,2020-11-02,,,isolated,No,,2020-10-15,
+561,female,Above 30,Indonesia,self-financed testing,imported case,Indonesia,,,asymptomatic case,,2020-10-31,Yes,,2020-11-02,,,isolated,No,,2020-10-18,
+562,female,Above 30,Indonesia,self-financed testing,imported case,Indonesia,,,asymptomatic case,,2020-10-30,Yes,,2020-11-02,,,isolated,No,,2020-10-10,
+563,male,Above 20,Indonesia,home quarantine ,imported case,Indonesia,patient#558,,cough/sore throat,2020-10-30,2020-10-30,Yes,,2020-11-02,,,isolated,Yes,,2020-10-14,
+564,female,Above 20,Philippines,self-financed testing,imported case,Philippines,,,asymptomatic case,,2020-11-01,Yes,,2020-11-02,,,isolated,No,,2020/10/19,
