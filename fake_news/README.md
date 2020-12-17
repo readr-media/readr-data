@@ -1,6 +1,6 @@
 fake_news_all 司法院法學資料檢索系統資料說明
 ====
->我們以爬蟲的方式，於11月20日抓取司法院法學資料檢索系統的資料（網址：https://law.judicial.gov.tw/FJUD/defaulte.aspx）並整理法院審理涉嫌違反社維法的假訊息案件內容，提供大眾參考。
+>我們以爬蟲的方式，於11月20日抓取司法院法學資料檢索系統的資料（網址：https://law.judicial.gov.tw/FJUD/defaulte.aspx） 並整理法院審理涉嫌違反社維法的假訊息案件內容，提供大眾參考。
 
 * judge_number 裁判案號
 * judge_date 裁判日期
