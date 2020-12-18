@@ -754,7 +754,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 752,male,Above 70,Taiwan,hospitalized,imported case,US,,,cough/sore throat/lose their ability to smell,2020-12-05,2020-12-15,Yes,,2020-12-17,,,isolated,Yes,2020-03,2020-12-02,
 753,female,Above 60,Taiwan,hospitalized,imported case,US,,,throat discomfort/cough/lack of appetite,2020-12-10,2020-12-15,Yes,,2020-12-17,,,isolated,Yes,2019-06,2020-12-09,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.
 754,male,Above 50,US,self-financed testing,imported case,US,,,asymptomatic case,,2020-12-15,Yes,,2020-12-17,,,isolated,No,2019-12,2020-11-29,
-755,,,Russia,home isolation,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
-756,,,Russia,home isolation,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
-757,,,Russia,home isolation,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
-758,,,Russia,home isolation,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
+755,,,Russia,self-health management,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
+756,,,Russia,self-health management,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
+757,,,Russia,self-health management,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
+758,,,Russia,self-health management,imported case,Russia,,Russia_performance_troupe,asymptomatic case,,2020-12-16,Yes,,2020-12-17,,,isolated,No,,2020-11-29,
+759,female,Above 50,Taiwan,home quarantine,imported case,US,patient#752,,sputum production/itchy throat,2020-12-04,2020-12-16,Yes,,2020-12-18,,,isolated,Yes,,2020-12-02,
+760,female,Above 30,Taiwan,home quarantine,imported case,US,,,cough/runny nose/myalgia/fever,2020-12-16,2020-12-16,Yes,,2020-12-18,,,isolated,Yes,2020-12-12,2020-12-16,
