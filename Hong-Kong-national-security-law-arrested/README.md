@@ -2,7 +2,7 @@
 
 * hongkong_arrest 因香港國安法被拘捕人員名單
   * 資料來源：立場新聞
-  * 資料來源2： [網友整理資料]("https://docs.google.com/spreadsheets/u/1/d/1fdD1kyaeKqzJ7cKyxxPhqMfu0E_zIhIX-PuAB9h7rhs/edit?fbclid=IwAR3hF5FIltXkWTRmZFtCzVLEH-8ntgSA2-81Fz3wvQzAFKmEzvxeiO_3KmE#gid=0")
+  * 資料來源2： [網友整理資料](https://docs.google.com/spreadsheets/u/1/d/1fdD1kyaeKqzJ7cKyxxPhqMfu0E_zIhIX-PuAB9h7rhs/edit?fbclid=IwAR3hF5FIltXkWTRmZFtCzVLEH-8ntgSA2-81Fz3wvQzAFKmEzvxeiO_3KmE#gid=0 "網友整理資")
 
   * name 姓名
   * name2 又名
