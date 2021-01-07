@@ -31,6 +31,7 @@
 		* released 解除隔離
 		* isolated 隔離中
 		* deceased 死亡
+	* VOC 該病例為英國變種新冠病毒（英國變異株 VOC 202012/01）
 
 * country_epid_level_taiwan 臺灣旅遊疫情建議分級地區
 	* 資料來源：衛生福利部疾管署
