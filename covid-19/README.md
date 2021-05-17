@@ -1,6 +1,6 @@
 # README
 * covid19_comfirmed_case_taiwan 臺灣武漢肺炎確診病例資料說明
-	* 資料來源：衛生福利部疾管署
+	* 資料來源：衛生福利部疾管署（自 2021-05-15 起，疾管署不再公布詳細個案疫調，故此文件案號跟疾管署內部資料案號可能會不同，但若資料有公佈 READr 就會配合修改。）
 	* patient_id 病例案號
 	* report_reason 通報原因
 		* filtered at airport 機場採檢
