@@ -53,5 +53,7 @@
 		* 2：第一級，警示（Alert），提醒民眾對當地採取加強防護
 		* 3：第三級，警告（Warning），民眾應避免所有非必要旅遊，從 3 月 16 日起，若執意去已公布第三級地區旅遊，回台確診武漢肺炎者，不得領取隔離補償，需自費相關防疫費用，且會被公布姓名
 	* coordinate 座標是 infogram.com 的地圖系統
+* indigenous_case_county
+    * 資料來源：https://nidss.cdc.gov.tw/nndss/DiseaseMap?id=19CoV
 
 License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
