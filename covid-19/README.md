@@ -1,6 +1,6 @@
 # README
 * covid19_comfirmed_case_taiwan 臺灣武漢肺炎確診病例資料說明
-	* 資料來源：衛生福利部疾管署（自 2021-05-15 起，疾管署不再公布詳細個案疫調，故此文件案號跟疾管署內部資料案號可能會不同，但若資料有公佈 READr 就會配合修改。）
+	* 資料來源：衛生福利部疾管署
 	* patient_id 病例案號
 	* report_reason 通報原因
 		* filtered at airport 機場採檢
@@ -32,7 +32,9 @@
 		* isolated 隔離中
 		* deceased 死亡
 	* VOC 該病例為英國變種新冠病毒（英國變異株 VOC 202012/01）
-
+	* mock_case_number 統計用模擬案號：自 2021-05-15 起，疾管署不再公布詳細個案疫調，改授權地方政府公布。但為計算指標群聚案數量（group），故會先編號，待地方政府公布詳細疫調資訊後配合修改。意即，若 mock_case_number 欄位內容為 y，表示政府未公布該個案的資料；若 mock_case_number 欄位內容為空白，則該個案的案號跟內容是政府公佈過或 READr 詢問過主管機關的
+	* city_of_residence 個案居住地：個案所在縣市，但僅有被地方政府公佈足跡的個案會有此資料。若要查詢縣市病例數，請以資料 indigenous_case_county.csv 為主
+ 
 * risk_categories_for_countries_regions
 	* 資料來源：衛生福利部疾管署（自 2021-04-28 開始更新）
 	* 感染風險國家名單：疾管署公布，自 2020-06-22 起若從中、低感染風險國家入境，並符合特殊條件者，可以縮短居家檢疫的時間。條件為：
