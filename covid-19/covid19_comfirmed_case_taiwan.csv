@@ -2350,7 +2350,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2349,,,,,indigenous case,,,tea_house,,,,,,2021-05-19,,,isolated,,,,,,y,
 2350,,,,,indigenous case,,,tea_house,,,,,,2021-05-19,,,isolated,,,,,,y,
 2351,male,Above 30,Taiwan,identified as a contact,indigenous case,,,"Wanhua, fruits_seller",,,,,,2021-05-19,,,isolated,,,,,,,Changhua County
-2352,female,Above 10,Taiwan,hospitalized,indigenous case,,,Wanhua,sore throat,2021-05-17,2021-05-17,No,,2021-05-19,,,isolated,Yes,,,,,,Kaohsiung City
+2352,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
 2353,female,Above 70,Taiwan,hospitalized,indigenous case,,,,fever,2021-05-15,,No,,2021-05-19,,,isolated,Yes,,,,,,Taichung City
 2354,,,,,indigenous case,,,tea_house,,,,,,2021-05-19,,,isolated,,,,,,y,
 2355,,,,,indigenous case,,,tea_house,,,,,,2021-05-19,,,isolated,,,,,,y,
@@ -2530,7 +2530,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2529,male,Above 50,Taiwan,hospitalized,indigenous case,,unknown,,itchy throat/fever/diarrhea,2021-05-14,2021-05-17,No,,2021-05-19,,,isolated,Yes,,,,,,Kaohsiung City
 2530,male,Above 30,Taiwan,hospitalized,indigenous case,,unknown,,fever,2021-05-15,2021-05-17,No,,2021-05-19,,,isolated,Yes,,,,,,Kaohsiung City
 2531,male,Above 30,Taiwan,identified as a contact,indigenous case,,,Wanhua,asymptomatic case,,2021-05-18,No,,2021-05-19,,,isolated,No,,,This case is the son of the 183rd confirmed case in Kaohsiung City (case number unknown).,,,Kaohsiung City
-2532,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
+2532,female,Above 10,Taiwan,hospitalized,indigenous case,,,Wanhua,sore throat,2021-05-17,2021-05-17,No,,2021-05-19,,,isolated,Yes,,,,,,Kaohsiung City
 2533,,,Taiwan,filtered at quarantine station,imported case,India,,,,,,,,2021-05-19,,,isolated,,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 2534,,,Taiwan,filtered at quarantine station,imported case,India,,,,,,,,2021-05-19,,,isolated,,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 2535,,,Taiwan,filtered at quarantine station,imported case,India,,,,,,,,2021-05-19,,,isolated,,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
