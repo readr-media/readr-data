@@ -15,19 +15,19 @@
 		* indigenous case 本土感染
 	* imported_country：個案在哪個國家感染
 	* contact_with：個案與誰接觸
-	* group 案例群組：指標個案導致的群聚感染，以及隸屬同一個旅行團的個案，會被囊括在同一個群組裡
+	* group 案例群組：指標個案導致的群聚感染，以及隸屬同一個旅行團的個案，會被囊括在同一個群組裡。自 2021-05-14 後，政府每日僅公佈群組統計。故此資料只會留下該案號資料被公開後的確認群組。若要統計 2021-05-14 後的群組案例數變化，請至檔案 "indigenous_case_group_after0514"
 	* symptoms 症狀
 	* show_symptoms 發病日期
 	* reported_date 通報日期
 	* tourism_history 有無旅遊史
 	* medical_history 有無慢性病史
-	* confirmed_date 確診日期
+	* confirmed_date 確診日期：自 2021-05-22 後，政府開始公佈因為延遲通報而漏算的病例。但僅公佈「增加數」，未公佈增減細節（在統整地方政府公佈案例時，發現確診時間有不一致狀況）。2021-05-14 之後的案例，若「mock_case_number」欄位值為空白，則該案例的確診日期是準確的。若想確認 2021-05-14 每日本土確診案例的數量，請至檔案 "indigenous_case_group_after0514"
 	* released_date 解除隔離日期
 	* deceased_date 死亡日期
 	* departure_date 出國日期
 	* arrival_date 回國日期
 	* deceased_date 死亡日期
-	* State 狀態 （疾管署回應，為了保護隱私，不再公布3/10之後解除隔離之個案）
+	* State 狀態：疾管署表示為了保護隱私，3/10 之後解除隔離之個案不再公佈。
 		* released 解除隔離
 		* isolated 隔離中
 		* deceased 死亡
@@ -64,4 +64,9 @@
 	* 資料來源：https://nidss.cdc.gov.tw/nndss/DiseaseMap?id=19CoV
 * risk_level_county
 	* 各縣市疫情警戒等級
+* indigenous_case_group_after0514
+	* indigenous case 每日新增本土確診案例（校正後）
+	* group_ 當日公布之新增案例群聚關係分佈
+	* group_numbers_contain_backlog 若值 =y 表示該日公佈的群聚關係分佈包含校正回歸
+
 License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
