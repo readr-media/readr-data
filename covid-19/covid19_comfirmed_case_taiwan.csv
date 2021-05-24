@@ -3031,11 +3031,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3030,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3031,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3032,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
-3033,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
+3033,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,,New Taipei City
 3034,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,,Taoyuan City
 3035,female,Above 40,Taiwan,identified as a contact,indigenous case,,patient #2514,,fever/headache,2021-05-19,2021-05-19,No,,2021-05-21,,,isolated,Yes,,,Her daughter’s roommate went to KTV with case 2514.,,,Taichung City
 3036,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
-3037,male,,Taiwan,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,,Pingtung County
+3037,male,,Taiwan,,indigenous case,,,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-21,,,isolated,,,,,,,Pingtung County
 3038,male,Above 30,Philippines,self-financed testing,imported case,Philippines,,,asymptomatic case,,2021-05-20,Yes,,2021-05-21,,,isolated,No,,2021-05-05,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 3039,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3040,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
@@ -3455,8 +3455,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3454,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
 3455,male,Above 50,Taiwan,filtered at quarantine station,indigenous case,,,Wanhua,asymptomatic case,,,No,,2021-05-22,,,isolated,No,,,,,,Taipei City
 3456,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
-3457,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
-3458,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
+3457,female,Above 50,Taiwan,,indigenous case,,patient #3458,Wanhua,,,,,,2021-05-22,,,isolated,,,,The case live with case 3458.,,,Pingtung County
+3458,male,Above 60,Taiwan,,indigenous case,,patient #3457,Wanhua,,,,,,2021-05-22,,,isolated,,,,The case live with case 3457.,,,Pingtung County
 3459,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
 3460,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
 3461,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
@@ -3477,7 +3477,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3476,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
 3477,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
 3478,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
-3479,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
+3479,,,Taiwan,,indigenous case,,,,diarrhea,2021-05-14,,No,,2021-05-16,,,isolated,,,,"The case returned to his hometown in Pingtung on May 14, and went travel to Taitung with case 4465 and case 4755 on May 15 and May 16.",,,Taipei City
 3480,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
 3481,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
 3482,,,,,indigenous case,,,,,,,,,2021-05-16,,,isolated,,,,,,y,
@@ -3833,7 +3833,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3832,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,
 3833,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,
 3834,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
-3835,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
+3835,female,Above 40,Taiwan,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,The case work at a eatery named 小姑娘小吃店.,,,Keelung City
 3836,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3837,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3838,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
@@ -3867,7 +3867,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3866,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3867,male,Above 30,UK,self-financed testing,imported case,UK,,,asymptomatic case,,2021-05-21,Yes,,2021-05-22,,,isolated,,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 3868,male,,,,indigenous case,,,Wanhua,,,,,,2021-05-21,,,isolated,,,,,,,Yunlin County
-3869,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
+3869,male,Above 60,Taiwan,,indigenous case,,patient #3037,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-21,,,isolated,,,,"The case is the husband of case 4225, and he often plays mahjong with 3037.",,,Pingtung County
 3870,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3871,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 3872,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
@@ -4017,10 +4017,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4016,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4017,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4018,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
-4019,male,Above 20,Taiwan,identified as a contact,indigenous case,,patient #3868,Wanhua,,,,,,2021-05-23,,,isolated,,,,The case is the son of 4019.,,,Yunlin County
+4019,male,Above 20,Taiwan,identified as a contact,indigenous case,,patient #3868,Wanhua,,,,,,2021-05-23,,,isolated,,,,The case is the son of 3868.,,,Yunlin County
 4020,male,Above 60,Taiwan,identified as a contact,indigenous case,,patient #3615,,,,,,,2021-05-23,,,isolated,,,,,,,Chiayi City
-4021,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
-4022,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
+4021,male,Above 30,Taiwan,,indigenous case,,patient #3869,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-23,,,isolated,,,,The case is the family member of case 3869 and they lived together.,,,Pingtung County
+4022,female,Above 35,Taiwan,,indigenous case,,patient #3869,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-23,,,isolated,,,,The case is the family member of case 3869 and they lived together.,,,Pingtung County
 4023,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-05-21,Yes,,2021-05-23,,,isolated,No,,2021-05-08,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 4024,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4025,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
@@ -4088,7 +4088,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4087,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4088,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4089,female,Above 70,Taiwan,identified as a contact,indigenous case,,patient #3517,,diarrhea,,,No,,2021-05-23,,,isolated,Yes,,,The case is the wife of case 3517.,,,Yilan County
-4090,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
+4090,female,Above 60,Taiwan,,indigenous case,,patient #3688,,,,,,,2021-05-23,,,isolated,,,,The case is the mother of case 3688.,,,Keelung City
 4091,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4092,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4093,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
@@ -4205,9 +4205,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4204,,,,identified as a contact,indigenous case,,"patient #4203, patient 4204",,,,,,,2021-05-17,,,isolated,,,,The case is the family member of case 4202 and case 4203.,,,Taoyuan City
 4205,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,,Taoyuan City
 4206,,,,,indigenous case,,,Wanhua,,,,,,2021-05-17,,,isolated,,,,,,,Taoyuan City
-4207,,,,,indigenous case,,,night_club_Taoyuan,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City
-4208,,,,,indigenous case,,,night_club_Taoyuan,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City
-4209,,,,,indigenous case,,,night_club_Taoyuan,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City
+4207,,,,identified as a contact,indigenous case,,,night_club_Taoyuan,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City
+4208,,,,identified as a contact,indigenous case,,,night_club_Taoyuan,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City
+4209,,,,identified as a contact,indigenous case,,,night_club_Taoyuan,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City
 4210,,,,identified as a contact,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,The case is the husband of case 4211.,,,Taoyuan City
 4211,,,,identified as a contact,indigenous case,,patient #4210,,,,,,,2021-05-18,,,isolated,,,,The case is the wife of case 4210.,,,Taoyuan City
 4212,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
@@ -4221,10 +4221,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4220,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
 4221,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
 4222,female,Above 80,Taiwan,identified as a contact,indigenous case,,patient #3937,,,,,,,2021-05-18,,,isolated,,,,The case is the mother of case 3937.,,,Yunlin County
-4223,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4224,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4225,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4226,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
+4223,female,Above 20,Vietnam,,indigenous case,,"patient #3457, patient #3458",,,,,,,2021-05-18,,,isolated,,,,The case is a friend of case 3457 and case 3458.,,,Pingtung County
+4224,male,Above 66,Taiwan,,indigenous case,,patient #3869,,,,,,,2021-05-18,,,isolated,,,,The case is the relative of case 3869.,,,Pingtung County
+4225,female,Above 40,Taiwan,,indigenous case,,patient #3037,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-18,,,isolated,,,,"The case is the wife of case 3869, and she often plays mahjong with 3037.",,,Pingtung County
+4226,female,Above 50,Taiwan,,indigenous case,,patient #3458,Wanhua,,,,,,2021-05-18,,,isolated,,,,The case is a masseur.,,,Pingtung County
 4227,male,Above 40,Taiwan,self-financed testing,imported case,Philippines,,,asymptomatic case,,2021-05-22,Yes,,2021-05-23,,,isolated,No,,2021-05-07,,,,
 4228,male,Above 40,Taiwan,self-financed testing,imported case,Denmark,,,asymptomatic case,,2021-05-22,Yes,,2021-05-23,,,isolated,No,,2021-04-17,,,,
 4229,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
@@ -4325,18 +4325,18 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4324,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City
 4325,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City
 4326,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City
-4327,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
-4328,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,
+4327,female,Under 5,Taiwan,,indigenous case,,patient #3869,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-22,,,isolated,,,,The case is the family member of case 3869 and they lived together. He is 1 year old.,,,Pingtung County
+4328,female,Above 50,Taiwan,,indigenous case,,patient #3869,"Wanhua, Pingtung_Chaozhou",,,,,,2021-05-22,,,isolated,,,,The case is the family member of case 3869 and they lived together.,,,Pingtung County
 4329,female,Above 50,Taiwan,,indigenous case,,patient #3464,,,,,,,2021-05-22,,,isolated,,,,The case is the wife of case 3464.,,,Yilan County
 4330,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City
 4331,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City
 4332,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4333,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4334,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4335,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4336,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
+4334,female,Above 50,Taiwan,hospitalized,indigenous case,,patient #4335,,throat discomfort/dry nose,2021-05-18,2021-05-22,No,,2021-05-24,,,isolated,Yes,,,The case is the mother of case 4335.,,,Hsinchu County
+4335,female,,Taiwan,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,,Taipei City
+4336,female,,Taiwan,identified as a contact,indigenous case,,,"Wanhua, fruits_seller",fever,2021-05-22,,No,,2021-05-24,,,isolated,Yes,,,個案的公婆是彰化歌唱班成員，10個月大女兒由公婆照顧，個案先生與女兒都已確診。,,,Taichung City
 4337,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4338,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
+4338,male,Above 40,Taiwan,hospitalized,indigenous case,,,,cough/fever/diarrhea,2021-05-20,2021-05-22,No,,2021-05-24,,,isolated,Yes,,,,,,Chiayi County
 4339,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4340,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4341,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
@@ -4367,7 +4367,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4366,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4367,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4368,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4369,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
+4369,,Under 1,Taiwan,,indigenous case,,patient #3519,,,,,,,2021-05-24,,,isolated,,,,The case is the family member of case 3519. The case is 2 months old.,,,Keelung City
 4370,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4371,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4372,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
@@ -4460,10 +4460,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4459,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4460,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4461,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4462,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4463,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
+4462,female,Above 40,Taiwan,filtered at quarantine station,indigenous case,,,Wanhua,,,,,,2021-05-24,,,isolated,,,,The case is the mother of case 4463. They went to visit a friend who lived in Wanhua Dist. on May 8 to May 15.,,,Tainan City
+4463,female,Under 10,Taiwan,filtered at quarantine station,indigenous case,,patient #4462,Wanhua,,,,,,2021-05-24,,,isolated,,,,The case is the daughter of case 4462.,,,Tainan City
 4464,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
-4465,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
+4465,male,Above 62,Taiwan,,indigenous case,,patient #3479,,,,,,,2021-05-24,,,isolated,,,,The case travel to Taitung City with case 4755 and case 3479.,,,Pingtung County
 4466,male,Above 30,Philippines,group quarantine,imported case,Philippines,,,asymptomatic case,,2021-05-23,Yes,,2021-05-24,,,isolated,No,,2021-05-09,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 4467,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
 4468,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,
@@ -4738,11 +4738,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4737,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
 4738,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
 4739,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4740,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4741,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4742,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4743,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
-4744,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
+4740,male,Above 50,Taiwan,,indigenous case,,patient #3869,"Wanhua, Pingtung_Chaozhou",,,,No,,2021-05-18,,,isolated,,,,The case is a friend of case 3869.,,,Pingtung County
+4741,male,Under 5,Taiwan,,indigenous case,,patient #4743,"Wanhua, Pingtung_Chaozhou",,,,No,,2021-05-18,,,isolated,,,,The case is the grandson of case 4742 and 4743.,,,Kaohsiung City
+4742,male,Above 50,Taiwan,,indigenous case,,patient #3037,"Wanhua, Pingtung_Chaozhou",,,,No,,2021-05-18,,,isolated,,,,"The case is the husband of case 4743, and he often plays mahjong with 3037.",,,Kaohsiung City
+4743,female,Above 50,Taiwan,,indigenous case,,patient #3037,"Wanhua, Pingtung_Chaozhou",,,,No,,2021-05-18,,,isolated,,,,"The case is the wife of case 4742, and she often plays mahjong with 3037.",,,Kaohsiung City
+4744,male,Above 20,Taiwan,,indigenous case,,patient #4743,"Wanhua, Pingtung_Chaozhou",,,,No,,2021-05-18,,,isolated,,,,The case is the son of case 4742 and 4743.,,,Kaohsiung City
 4745,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
 4746,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
 4747,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,
@@ -4753,7 +4753,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4752,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
 4753,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
 4754,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
-4755,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
+4755,male,Above 60,Taiwan,,indigenous case,,patient #3479,,,,,,,2021-05-19,,,isolated,,,,The case travel to Taitung City with case 4465 and case 3479.,,,Pingtung County
 4756,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
 4757,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
 4758,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,
@@ -4824,7 +4824,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4823,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 4824,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 4825,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
-4826,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
+4826,female,,Taiwan,,indigenous case,,patient #4744,"Wanhua, Pingtung_Chaozhou",,,,No,,2021-05-21,,,isolated,,,,The case is the girlfriend of case 4744.,,,Kaohsiung City
 4827,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 4828,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
 4829,,,,,indigenous case,,,,,,,,,2021-05-21,,,isolated,,,,,,y,
@@ -4903,8 +4903,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4902,male,Above 20,Taiwan,group quarantine,imported case,India,,,asymptomatic case,,2021-05-23,Yes,,2021-05-24,,,isolated,No,,2021-05-10,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,
 4903,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4904,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
-4905,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
-4906,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
+4905,male,Above 50,Taiwan,hospitalized,indigenous case,,,,,2021-05-20,2021-05-22,No,,2021-05-23,,,isolated,Yes,,,,,,Miaoli County
+4906,male,Above 60,Taiwan,hospitalized,indigenous case,,,Wanhua,,2021-05-21,2021-05-21,No,,2021-05-23,,,isolated,Yes,,,,,,Miaoli County
 4907,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4908,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4909,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
@@ -4924,4 +4924,4 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4923,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4924,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
 4925,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
-4926,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,
+4926,male,Above 50,Taiwan,hospitalized,indigenous case,,patient #3033,,,2021-05-23,2021-05-23,No,,2021-05-23,,,isolated,,,,The case is a friend of case 3033.,,,Tainan City
