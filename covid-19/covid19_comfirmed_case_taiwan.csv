@@ -2579,7 +2579,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2578,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
 2579,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
 2580,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
-2581,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
+2581,male,Above 60,Taiwan,,indigenous case,,,,,,2021-05-15,No,,2021-05-20,,,isolated,,,,個案因北部醫院擠滿要採檢的民眾，於15日搭高鐵南下嘉義市某醫院採檢。,,,New Taipei City,
 2582,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
 2583,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
 2584,,,,,indigenous case,,,,,,,,,2021-05-20,,,isolated,,,,,,y,,
@@ -3435,10 +3435,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3434,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,,
 3435,male,Above 60,Taiwan,filtered at quarantine station,indigenous case,,,Wanhua,,2021-05-16,2021-05-20,No,,2021-05-22,,,isolated,Yes,,,該名個案工作是松山機場排班計程車司機，5月16日身體不適，自行前往台北某醫院排隊快篩，但未排到採檢，20日在後龍快篩站篩檢陽性。,,,Miaoli County,Taipei City
 3436,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City,
-3437,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,Taoyuan City,
+3437,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City,
 3438,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,,
 3439,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,,Taoyuan City,
-3440,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,,
+3440,male,Above 30,Taiwan,identified as a contact,indigenous case,,"patient #2349, patient #2011",hotel_of_Taoyuan,,,2021-05-17,No,,2021-05-22,,,isolated,,,,曾與案2349、2011到桃園金沙酒店。,,,Hsinchu City,Taoyuan City
 3441,male,Above 20,Taiwan,hospitalized,indigenous case,,,,,2021-05-19,2021-05-21,,,2021-05-22,,,isolated,Yes,,,,,,Taichung City,
 3442,female,Above 30,Taiwan,identified as a contact,indigenous case,,patient #3443,,runny nose/headache,2021-05-17,2021-05-19,,,2021-05-22,,,isolated,Yes,,,5月14日至5月15日至台北老家共聚，5月16日返回台中，當日接獲大姑來電確診即在家隔離，未再回職場上班，案為台中市第140例太太，5月17日與案夫前往慈濟醫院採檢，案有輕微流鼻涕及頭痛症狀，故於5月19月再前往2採，與案夫皆確診為陽性,,,Taichung City,Taipei City
 3443,male,Above 30,Taiwan,home isolation,indigenous case,,patient #3442,,fever,2021-05-16,2021-05-19,,,2021-05-22,,,isolated,Yes,,,案3443為本國籍35歲男性，為台中市高科技廠工程師，近日無出國史，於5月14日至5月15日至台北老家共聚，5月16日返回上班，上班間接獲案姊)來電確診即返家隔離，返家前曾前往全聯旅順店，5月17日與案妻及案子前往慈濟醫院採檢，5月18日約傍晚開始發燒，故於5月19日再前往2採，與案妻皆確診為陽性,,,Taichung City,Taipei City
@@ -3459,7 +3459,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3458,male,Above 60,Taiwan,,indigenous case,,patient #3457,Wanhua,,,,,,2021-05-22,,,isolated,,,,The case live with case 3457.,,,Pingtung County,Taipei City
 3459,N/A,,,,N/A,,,,,,,,,,,,,,,,"After the case was examined three times, the suspected infection was eliminated.",,,,
 3460,male,Above 40,Taiwan,identified as a contact,indigenous case,,patient #2715,,throat discomfort,2021-05-18,2021-05-20,,,2021-05-22,,,isolated,Yes,,,,,,Kaohsiung City,
-3461,,,,,indigenous case,,,,,,,,,2021-05-22,,,isolated,,,,,,y,,
+3461,female,Above 20,Taiwan,,indigenous case,,,,cough,2021-05-16,,No,,2021-05-22,,,isolated,Yes,,,個案曾於北部餐飲業工作，18日回到高雄。,,,Kaohsiung City,unknown
 3462,male,Above 30,Taiwan,self-financed testing,imported case,Philippines,,,runny nose,2021-01,2021-05-19,Yes,,2021-05-22,,,isolated,Yes,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight. 今年1月初在菲律賓曾有流鼻水等症狀，1月13日、20日於當地檢驗陽性，未接受治療，後續分別於2月至4月間取得4次陰性證明，4月8日自菲律賓入境，在臺期間均無症狀，4月23日採檢結果亦為陰性。個案因工作需求，於5月19日自費採檢，於今日確診。,,,,
 3463,male,Above 30,Taiwan,identified as a contact,indigenous case,,,,throat discomfort/diarrhea,2021-05-20,2021-05-20,,,2021-05-22,,,isolated,Yes,,,,,,Kaohsiung City,
 3464,male,Above 50,Taiwan,identified as a contact,indigenous case,,,,,,2021-05-20,,,2021-05-22,,,isolated,,,,個案 15 日同事確診，就應被匡列、隔離，卻沒收到通知，當天搭車返回花蓮，4 天後才收到匡列通知。,,,Hualien County,New Taipei City
@@ -3734,8 +3734,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3733,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 3734,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 3735,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
-3736,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
-3737,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
+3736,,,,,indigenous case,,,,,,,,,,,,isolated,,,,個案為新北市案例，一家六口皆確診。,,,New Taipei City,
+3737,,,,,indigenous case,,,,,,,,,,,,isolated,,,,個案為新北市案例，一家六口皆確診。,,,New Taipei City,
 3738,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 3739,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 3740,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
@@ -3861,8 +3861,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 3860,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,,Taoyuan City,
 3861,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,,Taoyuan City,
 3862,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
-3863,male,,Taiwan,,indigenous case,,patient #3340,,,,,No,,2021-05-21,,,isolated,,,,The case is the father of case 3340.,,,Hsinchu City,
-3864,female,,Taiwan,,indigenous case,,patient #3340,,,,,No,,2021-05-21,,,isolated,,,,The case is the mother of case 3340.,,,Hsinchu City,
+3863,male,Above 40,Taiwan,,indigenous case,,patient #3340,,,,,No,,2021-05-21,,,isolated,,,,The case is the father of case 3340.,,,Hsinchu City,
+3864,female,Above 60,Taiwan,,indigenous case,,patient #3340,,,,,No,,2021-05-21,,,isolated,,,,The case is the mother of case 3340.,,,Hsinchu City,
 3865,male,Above 60,Taiwan,,indigenous case,,,Wanhua,fever,2021-05-19,2021-05-20,No,,2021-05-22,,,isolated,,,,個案有萬華區活動史。,,,Hsinchu City,Taipei City
 3866,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 3867,male,Above 30,UK,self-financed testing,imported case,UK,,,asymptomatic case,,2021-05-21,Yes,,2021-05-22,,,isolated,,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
@@ -4580,7 +4580,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4579,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4580,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4581,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
-4582,male,Above 60,Taiwan,,indigenous case,,,Wanhua,fever/感冒症狀,2021-05-22,2021-05-19,No,diabete,2021-05-24,,2021-05-22,deceased,,,,,,,,
+4582,male,Above 60,Taiwan,,indigenous case,,,Wanhua,fever/感冒症狀,2021-05-22,2021-05-19,No,diabete,2021-05-24,,2021-05-22,isolated,,,,,,,,
 4583,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4584,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4585,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
@@ -4589,8 +4589,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4588,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4589,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4590,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
-4591,male,Above 60,Taiwan,hospitalized ,indigenous case,,,Wanhua,,,,,,2021-05-24,,,isolated,,,,編號案4591男性63歲及案4592女性59歲，二案為夫妻，5/15一同從萬華住家至褒忠鄉新湖村，分別於5/17及5/18開始出現身體不適，5/23因症狀持續未改善，故自行開車至醫院就醫、採檢，同日5/23報告結果呈陽性,,,Taipei City,
-4592,female,Above 50,Taiwan,hospitalized ,indigenous case,,,Wanhua,,,,,,2021-05-24,,,isolated,,,,編號案4591男性63歲及案4592女性59歲，二案為夫妻，5/15一同從萬華住家至褒忠鄉新湖村，分別於5/17及5/18開始出現身體不適，5/23因症狀持續未改善，故自行開車至醫院就醫、採檢，同日5/23報告結果呈陽性,,,Taipei City,
+4591,male,Above 60,Taiwan,hospitalized ,indigenous case,,,Wanhua,,,,,,2021-05-24,,,isolated,,,,編號案4591男性63歲及案4592女性59歲，二案為夫妻，5/15一同從萬華住家至雲林縣褒忠鄉新湖村，分別於5/17及5/18開始出現身體不適，5/23因症狀持續未改善，故自行開車至醫院就醫、採檢，同日5/23報告結果呈陽性（個案歸為台北案例）,,,Yunlin County,Taipei City
+4592,female,Above 50,Taiwan,hospitalized ,indigenous case,,,Wanhua,,,,,,2021-05-24,,,isolated,,,,編號案4591男性63歲及案4592女性59歲，二案為夫妻，5/15一同從萬華住家至雲林縣褒忠鄉新湖村，分別於5/17及5/18開始出現身體不適，5/23因症狀持續未改善，故自行開車至醫院就醫、採檢，同日5/23報告結果呈陽性（個案歸為台北案例）,,,Yunlin County,Taipei City
 4593,male,Above 60,Taiwan,,indigenous case,,,tea_house,,,,,,2021-05-24,,,isolated,,,,個案為榮民，女性友人在萬華茶藝館工作。,,,Keelung City,Taipei City
 4594,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
 4595,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,
@@ -5969,7 +5969,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 5968,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 5969,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 5970,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
-5791,male,Above 30,Taiwan,identified as a contact,indigenous case,,,,cough/itchy throat/lose their ability to smell and taste,2021-05-21,2021-05-24,No,,2021-05-26,,2021-05-27,deceased,Yes,,,,,,,
+5971,male,Above 30,Taiwan,identified as a contact,indigenous case,,,,cough/itchy throat/lose their ability to smell and taste,2021-05-21,2021-05-24,No,,2021-05-26,,2021-05-27,deceased,Yes,,,,,,,
 5972,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 5973,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 5974,female,Above 50,Taiwan,identified as a contact,indigenous case,,patient #4990,,,,,,,2021-05-26,,,isolated,,,,The case is the mother of case 4990.,,,Yilan County,
@@ -6440,7 +6440,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 6439,male,Above 50,Taiwan,,indigenous case,,patient #6440,Wanhua,,,,,,2021-05-27,,,isolated,,,,The case is the husband of case 6440. They sell fruits at a park in Wanhua Dist..,,,Keelung City,Taipei City
 6440,female,Above 30,Taiwan,,indigenous case,,patient #6439,Wanhua,,,,,,2021-05-27,,,isolated,,,,The case is the wife of case 6439. They sell fruits at a park in Wanhua Dist..,,,Keelung City,Taipei City
 6441,male,Above 10,Taiwan,,indigenous case,,patient #5774,,,,,,,2021-05-27,,,isolated,,,,,,,Lianjiang County,
-6442,female,Above 30,Taiwan,,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,個案於5/7搭機返台，5/26搭機回連江縣。,,,Lianjiang County,unknown
+6442,female,Above 30,Taiwan,,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,個案於5/7搭機返台，5/26搭機回連江縣。個案是台南個案7007、7008 的家人，他們曾經一起前往板橋，24日開始出現症狀，26日一起採檢後確診。經疫調後，將居住縣市由新北市改判為連江縣。,,,Lianjiang County,
 6443,,,,,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,,,y,,
 6444,,,,,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,,,y,,
 6445,,,,,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,,,y,,
@@ -6539,7 +6539,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 6538,,,,identified as a contact,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,,,,Taoyuan City,
 6539,,,,identified as a contact,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,,,,Taoyuan City,
 6540,,,,identified as a contact,indigenous case,,,,,,,,,2021-05-27,,,isolated,,,,,,,Taoyuan City,
-6541,female,Above 30,Taiwan,hospitalized,indigenous case,,,,,2021-05-24,2021-05-26,,,2021-05-27,,,isolated,Yes,,,此案為工廠女包裝員， 4/30-5/1 曾至板橋旅遊,,,Taichung City,New Taipei City
+6541,female,Above 30,Taiwan,hospitalized,indigenous case,,,,,2021-05-24,2021-05-26,,,2021-05-27,,,isolated,Yes,,,此案為工廠女包裝員， 4/30-5/1 曾至板橋旅遊，後來他們全家9人都染疫。,,,Taichung City,New Taipei City
 6542,female,Above 60,Taiwan,hospitalized,indigenous case,,,Wanhua,,2021-05-19,2021-05-26,,,2021-05-27,,,isolated,Yes,,,此案為女性家管，原居萬華，5/17 南下回台中居住,,,Taichung City,Taipei City
 6543,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 6544,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
@@ -6766,8 +6766,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 6765,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 6766,female,Above 30,Taiwan,hospitalized,indigenous case,,"patient #2355, patient #2428",,cough/fever,2021-05-26,,,,2021-05-26,,,isolated,,,,個案5月18日因照顧案2355而被匡列為居家隔離並經採檢為陰性，5月26日因咳嗽、發燒而安排至醫院採檢確診。,,,Tainan City,
 6767,female,Above 50,Taiwan,,indigenous case,,patient #5888,patient #5888,upper respiratory infection,2021-05-17,2021-05-25,No,,2021-05-26,,,isolated,,,,The case is the colleague of case 5888.,,,Kaohsiung City,
-6768,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
-6769,female,Above 40,Taiwan,identified as a contact,indigenous case,,patient #5644,patient #5463,,2021-05-21,2021-05-26,No,,2021-05-27,,,isolated,,,,,,,Kaohsiung City,Tainan City
+6768,male,Above 60,Taiwan,identified as a contact,indigenous case,,,,,,,No,,2021-05-27,,,isolated,,,,個案曾與屏東確診者接觸。,,,Kaohsiung City,Pingtung County
+6769,female,Above 40,Taiwan,identified as a contact,indigenous case,,patient #5644,patient #5463,,2021-05-21,2021-05-26,No,,2021-05-27,,,isolated,,,,個案是台南確診個案5644接觸者。,,,Kaohsiung City,Tainan City
 6770,female,Above 60,Taiwan,identified as a contact,indigenous case,,patient #5888,patient #5888,asymptomatic case,,2021-05-25,No,hypertension,2021-05-27,,,isolated,,,,,,,Kaohsiung City,
 6771,male,Above 70,Taiwan,identified as a contact,indigenous case,,patient #5888,patient #5888,cough/itchy throat,2021-05-25,2021-05-26,No,,2021-05-27,,,isolated,,,,,,,Kaohsiung City,
 6772,female,Above 40,Taiwan,identified as a contact,indigenous case,,patient #6553,patient #5888,,,,,,2021-05-27,,,isolated,,,,The case is the wife of case 6553.,,,Kaohsiung City,
