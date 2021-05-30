@@ -1887,7 +1887,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 1886,N/A,,,,N/A,,,,,,,,,,,,,,,,"After the case was examined three times, the suspected infection was eliminated.",,,,
 1887,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,y,,
 1888,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,y,,
-1889,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,y,,
+1889,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,,Taipei City,
 1890,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,y,,
 1891,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,y,,
 1892,,,,,indigenous case,,,,,,,,,2021-05-17,,,isolated,,,,,,y,,
@@ -2180,7 +2180,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2179,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2180,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2181,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
-2182,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
+2182,male,Above 50,Taiwan,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,個案曾於12日與妻子、友人3人開車造訪屏東。,,,Taipei City,
 2183,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2184,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2185,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
@@ -2249,7 +2249,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2248,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2249,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2250,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
-2251,female,Above 60,Taiwan,,indigenous case,,,pilgrimage,,,,,,2021-05-18,,,isolated,,,,,,,Pingtung County,unknown
+2251,female,Above 60,Taiwan,,indigenous case,,,pilgrimage,,,,,,2021-05-18,,,isolated,,,,個案5/12搭乘遊覽車至屏東進香，一團約30人，,,,New Taipei City,
 2252,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,y,,
 2253,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City,
 2254,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City,
@@ -2347,14 +2347,14 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2346,,,,,indigenous case,,,Wanhua,,,,,,2021-05-19,,,isolated,,,,,,,Taoyuan City,
 2347,,,,,indigenous case,,,Wanhua,,,,,,2021-05-19,,,isolated,,,,,,,Taoyuan City,
 2348,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,,Taoyuan City,
-2349,,,,,indigenous case,,patient #2011,hotel_of_Taoyuan,,,,,,2021-05-19,,,isolated,,,,,,,Hsinchu City,Taoyuan City
-2350,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
+2349,male,Above 30,Taiwan,identified as a contact,indigenous case,,patient #2011,hotel_of_Taoyuan,,,,,,2021-05-19,,,isolated,,,,,,,Hsinchu City,Taoyuan City
+2350,female,Above 50,Taiwan,identified as a contact,indigenous case,,patient #2256,,,,,,,2021-05-19,,,isolated,,,,個案為2256同住家人。,,,Hsinchu City,
 2351,male,Above 30,Taiwan,identified as a contact,indigenous case,,,"Wanhua, fruits_seller",,,,,,2021-05-19,,,isolated,,,,此案居住地為台中沙鹿，同住者為妻子1人，個案女兒由住在彰化的父母照顧，5月17日接獲彰化縣政府通知個案女兒為彰化歌唱班相關接觸者，與妻子、女兒、父母前往彰化基督教醫院採檢，檢驗結果個案、女兒及父母皆為陽性；5月18日由救護車載送至部立台中醫院隔離治療。個案女兒及父母主要居住地為彰化，已轉請彰化縣政府衛生局協助疫調。,,,Taichung City,Changhua County
 2352,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
 2353,female,Above 70,Taiwan,hospitalized,indigenous case,,,,cough/sore throat,2021-05-15,,No,,2021-05-19,,,isolated,Yes,,,,,,Taichung City,
 2354,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
 2355,female,,Taiwan,hospitalized,indigenous case,,patient #2428,,fever/cough/sputum production,2021-05-14,2021-05-17,No,,2021-05-18,,,isolated,Yes,,,The case is the mother of case 2428.,,,Tainan City,Taipei City
-2356,male,Above 70,Taiwan,hospitalized,indigenous case,,patient #1889,Wanhua,fever,2021-05-15,2021-05-15,No,,2021-05-19,,,isolated,Yes,,,,,,Kaohsiung City,Tapei City
+2356,male,Above 70,Taiwan,hospitalized,indigenous case,,patient #1889,Wanhua,fever,2021-05-15,2021-05-15,No,,2021-05-19,,,isolated,Yes,,,個案與台北個案1889有密切接觸。,,,Kaohsiung City,Tapei City
 2357,female,Above 40,Taiwan,identified as a contact,indigenous case,,patient #2069,,asymptomatic case,,2021-05-17,No,,2021-05-19,,,isolated,No,,,,,,Kaohsiung City,
 2358,male,Above 20,Taiwan,self-financed testing,imported case,Japan,,,asymptomatic case,,2021-05-17,Yes,,2021-05-19,,,isolated,No,,2021-04-25,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
 2359,male,Above 20,Philippines,self-financed testing,imported case,Philippines,,,asymptomatic case,,,Yes,,2021-05-19,,,isolated,No,,,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
@@ -2505,7 +2505,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2504,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
 2505,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
 2506,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
-2507,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,y,,
+2507,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,個案原為桃園市個案，後來轉到新北市。,,,New Taipei City,
 2508,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,,Taoyuan City,
 2509,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,,Taoyuan City,
 2510,,,,,indigenous case,,,,,,,,,2021-05-19,,,isolated,,,,,,,Taoyuan City,
@@ -4850,7 +4850,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4849,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 4850,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 4851,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
-4852,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
+4852,female,Above 50,Taiwan,filtered at quarantine station,indigenous case,,,Wanhua,throat discomfort,2021-05-14,2021-05-15,No,,2021-05-24,,,isolated,,,,個案居住萬華區。,,,Taipei City,
 4853,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 4854,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 4855,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
