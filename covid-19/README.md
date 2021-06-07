@@ -20,7 +20,7 @@
 	* show_symptoms 發病日期
 	* reported_date 通報日期
 	* tourism_history 有無旅遊史
-	* medical_history 有無慢性病史
+	* medical_history 有無慢性病史：自 2021-06-04 後，指揮中心僅公佈「有」或「無」，不再公布詳細資訊
 	* confirmed_date 確診日期：自 2021-05-22 後，政府開始公佈因為延遲通報而漏算的病例。但僅公佈「增加數」，未公佈增減細節（在統整地方政府公佈案例時，發現確診時間有不一致狀況）。2021-05-14 之後的案例，若「mock_case_number」欄位值為空白，則該案例的確診日期是準確的。若想確認 2021-05-14 每日本土確診案例的數量，請至檔案 "indigenous_case_group_after0514"
 	* released_date 解除隔離日期
 	* deceased_date 死亡日期
