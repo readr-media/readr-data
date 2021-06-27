@@ -933,7 +933,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 932,female,Above 20,Taiwan,home quarantine,imported case,Belgium/France,931,,sore throat/runny nose/nasal congestion/lose their ability to smell/diarrhea,2021-01-30,2021-02-05,Yes,,2021-02-09,,,isolated,Yes,2019,2021-01-28,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
 933,female,Above 50,Taiwan,home quarantine,imported case,US,,,throat discomfort/cough,2021-02-04,2021-02-06,Yes,,2021-02-09,,,isolated,Yes,2020-12,2021-01-29,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
 934,female,Above 50,Taiwan,identified as a contact,indigenous case,,907,patient #863,fever/postnasal drip,2021-02-07,2021-02-08,No,,2021-02-09,,,isolated,Yes,,,,,,,
-935,male,Above 60,Taiwan,filtered at airport,imported case,Myanmar,,,fever/cough/breathing difficulties,2020-12-24,2021-02-07,Yes,diabete/hypertension,2021-02-10,,2020-03-05,deceased,Yes,2020-01,2021-02-07,"The case tested positive for COVID-19 in Myanmar on December 29. He took an international air ambulance back to Taiwan on February 7, 2021.",,,,
+935,male,Above 60,Taiwan,filtered at airport,imported case,Myanmar,,,fever/cough/breathing difficulties,2020-12-24,2021-02-07,Yes,diabete/hypertension,2021-02-10,,2021-03-05,deceased,Yes,2020-01,2021-02-07,"The case tested positive for COVID-19 in Myanmar on December 29. He took an international air ambulance back to Taiwan on February 7, 2021.",,,,
 936,male,Above 40,Indonesia,self-financed testing,imported case,Indonesia,,,asymptomatic case,,2021-02-08,Yes,,2021-02-10,,,isolated,No,,2021-01-24,,,,,
 937,male,Above 20,Taiwan,home quarantine,imported case,France,,,nausea/vomiting/runny nose/cough,2021-02-09,2021-02-09,Yes,,2021-02-11,,,isolated,Yes,2020-09,2021-01-29,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
 938,male,Above 50,US,self-financed testing,imported case,US,,,asymptomatic case,,2021-02-10,Yes,,2021-02-12,,,isolated,No,,2021-01-26,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
@@ -1360,7 +1360,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 1359,,,,,indigenous case,,,,,,,,,2021-05-15,,,isolated,,,,,,y,,
 1360,,,,,indigenous case,,,,,,,,,2021-05-15,,,isolated,,,,,,y,,
 1361,,,,,indigenous case,,,,,,,,,2021-05-15,,,isolated,,,,,,y,,
-1362,male,Above 70,Taiwan,,indigenous case,,,Wanhua,dizziness/cough/headache,2021-05-13,2021-05-13,,no,2021-05-15,,2020-05-28,deceased,Yes,,,,,y,,
+1362,male,Above 70,Taiwan,,indigenous case,,,Wanhua,dizziness/cough/headache,2021-05-13,2021-05-13,,no,2021-05-15,,2021-05-28,deceased,Yes,,,,,y,,
 1363,,,,,indigenous case,,,,,,,,,2021-05-15,,,isolated,,,,,,y,,
 1364,,,,,indigenous case,,,,,,,,,2021-05-15,,,isolated,,,,,,y,,
 1365,male,,Taiwan,,indigenous case,,,tea_house,,,,,,2021-05-15,,,isolated,,,,個案居住於新北市，曾至萬華阿公店消費，後回到基隆與家人一起過母親節。,,,Keelung City,Taipei City
@@ -2067,7 +2067,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 2066,,,,,indigenous case,,,,,,,,,2021-05-18,,,isolated,,,,,,,Taoyuan City,
 2067,N/A,,,,N/A,,,,,,,,,,,,,,,,"After the case was examined three times, the suspected infection was eliminated.",,,,
 2068,N/A,,,,N/A,,,,,,,,,,,,,,,,"After the case was examined three times, the suspected infection was eliminated.",,,,
-2069,male,Above 60,Taiwan,hospitalized,indigenous case,,,Wanhua,sore throat,2021-05-10,2021-05-17,No,,2021-05-18,,2021–06-13,deceased,Yes,,,He works at a hospital named 仁惠. 個案於5/8曾至萬華活動。,,,Kaohsiung City,Taipei City
+2069,male,Above 60,Taiwan,hospitalized,indigenous case,,,Wanhua,sore throat,2021-05-10,2021-05-17,No,,2021-05-18,,2021-06-13,deceased,Yes,,,He works at a hospital named 仁惠. 個案於5/8曾至萬華活動。,,,Kaohsiung City,Taipei City
 2070,,,Taiwan,,indigenous case,,1751,,cough,2021-05-13,2021-05-16,No,,2021-05-17,,,isolated,,,,,,,Kaohsiung City,
 2071,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-05-16,Yes,,2021-05-18,,,isolated,No,,2021-05-03,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
 2072,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-05-16,Yes,,2021-05-18,,,isolated,No,,2021-05-03,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,
@@ -4132,7 +4132,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4131,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,,
 4132,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,,
 4133,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,,
-4134,female,Above 80,Taiwan,identified as a contact,indigenous case,,,,diarrhea,2021-05-21,2021-05-21,,yes,2021-05-23,,,deceased,,,,,,y,,
+4134,female,Above 80,Taiwan,identified as a contact,indigenous case,,,,diarrhea,2021-05-21,2021-05-21,,yes,2021-05-23,,2021-06-03,deceased,,,,,,y,,
 4135,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,,
 4136,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,,
 4137,,,,,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,,,y,,
