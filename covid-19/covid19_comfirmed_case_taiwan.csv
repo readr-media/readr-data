@@ -7319,7 +7319,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 7317,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 7318,male,Above 70,Taiwan,filtered at quarantine station,indigenous case,,6643,,,2021-05-25,2021-05-27,,,2021-05-28,,,isolated,Yes,,,此案與新北市確診者6643是親友，在5/23曾經接觸。,,,Tainan City,New Taipei City
 7319,,Above 20,Taiwan,filtered at quarantine station,indigenous case,,7318; 7320,,,,,,,2021-05-28,,,isolated,,,,個案為 7318、7320 的孫子。,,,Tainan City,New Taipei City
-7320,female,Above 70,Taiwan,filtered at quarantine station,indigenous case,,6643,,,2021-05-25,2021-05-27,,,2021-05-28,,,isolated,Yes,,,此案與新北市確診者6643是親友，在5/23曾經接觸。,,,Tainan City,New Taipei City
+7320,female,Above 70,Taiwan,filtered at quarantine station,indigenous case,,6643,,,2021-05-25,2021-05-27,,,2021-05-28,,2021-07-31,deceased,Yes,,,此案與新北市確診者6643是親友，在5/23曾經接觸。,,,Tainan City,New Taipei City
 7321,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,
 7322,female,Above 50,Taiwan,,indigenous case,,1473,,asymptomatic case,,2021-05-15,No,,2021-05-28,,,isolated,No,,,"The case is the sister of the case 7323, and also a friend of case 1473.",,,Chiayi City,Changhua County
 7323,female,Above 60,Taiwan,,indigenous case,,1473,,asymptomatic case,,2021-05-15,No,,2021-05-28,,,isolated,No,,,"The case is the sister of the case 7322, and also a friend of case 1473.",,,Chiayi City,Changhua County
@@ -14257,7 +14257,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 14255,,,,,indigenous case,,,,,,,,,2021-06-22,,,isolated,,,,,,y,,
 14256,,,,,indigenous case,,,,,,,,,2021-06-22,,,isolated,,,,,,y,,
 14257,male,Above 50,Taiwan,,imported case,Indonesia,,,throat discomfort,2021-06-21,,,,2021-06-22,,,isolated,,,,,,y,,
-14258,,,,,indigenous case,,,,,,,,,2021-06-23,,,isolated,,,,,,y,,
+14258,male,Above 80,Taiwan,,indigenous case,,,,,,,,,2021-06-23,,2021-07-28,deceased,,,,,,y,,
 14259,,,,,indigenous case,,,,,,,,,2021-06-23,,,isolated,,,,,,y,,
 14260,,,,,indigenous case,,,,,,,,,2021-06-23,,,isolated,,,,,,y,,
 14261,,,,,indigenous case,,,,,,,,,2021-06-23,,,isolated,,,,,,y,,
@@ -15810,3 +15810,22 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15808,,,,,indigenous case,,,,,,,,,2021-08-02,,,isolated,,,,,,,,
 15809,,,,,indigenous case,,,,,,,,,2021-08-02,,,isolated,,,,,,,,
 15810,,,,,indigenous case,,,,,,,,,2021-08-02,,,isolated,,,,,,,,
+15811,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15812,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15813,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15814,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15815,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15816,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15817,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15818,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15819,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15820,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15821,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15822,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15823,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15824,male,Above 30,Philippines,,imported case,Philippines,,,fever/headache,2021-08-01,,,,2021-08-03,,,isolated,,,,,,,,
+15825,male,Above 50,Taiwan,,imported case,Malaysia,,,fever/cough/diarrhea,2021-07-19,,,,2021-08-03,,,isolated,,,,,,,,
+15826,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15827,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15828,,,,,indigenous case,,,,,,,,,2021-08-03,,,isolated,,,,,,,,
+15829,male,Above 40,Taiwan,,imported case,Russia,,,,,,,,2021-08-03,,,isolated,,,,,,,,
