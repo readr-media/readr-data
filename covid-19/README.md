@@ -38,6 +38,7 @@
 		* 巴西變異病毒：p.1
 	* mock_case_number 統計用模擬案號：自 2021-05-15 起，疾管署不再公布詳細個案疫調，改授權地方政府公布。但為計算指標群聚案數量（group），故會先編號，待地方政府公布詳細疫調資訊後配合修改。意即，若 mock_case_number 欄位內容為 y，表示政府未公布該個案的資料；若 mock_case_number 欄位內容為空白，則該個案的案號跟內容是政府公佈過或 READr 詢問過主管機關的
 	* city_of_residence 個案居住地：個案所在縣市，但僅有被地方政府公佈足跡的個案會有此資料。若要查詢縣市病例數，請以資料 indigenous_case_county.csv 為主
+	* vaccine 是否有注射疫苗。指揮中心有時候會公佈此資料，若原始資料有公佈，就會在此欄位註記
  
 * risk_categories_for_countries_regions
 	* 資料來源：衛生福利部疾管署（自 2021-04-28 開始更新）
