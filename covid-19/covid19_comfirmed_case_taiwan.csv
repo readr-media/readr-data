@@ -13567,7 +13567,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 13565,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,,,y,,,
 13566,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,,,y,,,
 13567,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,,,y,,,
-13568,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,,,y,,,
+13568,female,Above 50,Taiwan,identified as a contact,indigenous case,,,,fever/shortness of breath,2021-06-14,2021-06-14,no,yes,2021-06-17,,2021-08-06,deceased,,,,,,,,,
 13569,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,案13569、13570皆與案13195家族群聚有關。案13569 Ct值35，公共足跡包括6月2至12日在宗檳榔攤、阿弟檳榔攤、崇宏商號，6月13日在崇德集會所篩檢陰性，6月14日因孫女(案13304)列隔離，6月15日經部立花蓮醫院PCR採檢及複驗後，採檢結果為PCR陽性。案13569與桃園觀音工班案12668不僅住在同一村隔壁鄰，依據分析13195家族群聚與日前桃園觀音工地案有關。,,,Hualien County,,
 13570,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,案13570 Ct34.6自5月20日至6月3日在自宅遠距視訊課程，在6月3日晚間與堂妹案13304及嬸嬸案13368在家中共餐，6月4至12日自宅遠距視訊課程，6月13日在崇德集會所篩檢陰性，6月14日因堂妹案13304列隔離，6月15日部立花蓮醫院PCR採檢及複驗後，採檢結果呈PCR陽性確診。,,,Hualien County,,
 13571,,,,,indigenous case,,,,,,,,,2021-06-17,,,isolated,,,,,,y,,,
@@ -15640,7 +15640,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15638,,,,,indigenous case,,,,,,,,,2021-07-23,,,isolated,,,,,,,,,
 15639,,,,,indigenous case,,,,,,,,,2021-07-23,,,isolated,,,,,,,,,
 15640,,,,,indigenous case,,,,,,,,,2021-07-23,,,isolated,,,,,,,,,
-15641,male,Under 10,Croatia,home isolation,indigenous case,Croatia,patient 15370,,asymptomatic case,,2021-07-22,Yes,,2021-07-23,,,isolated,,,2021-06-28,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,,
+15641,male,Under 10,Croatia,home isolation,indigenous case,Croatia,15370,,asymptomatic case,,2021-07-22,Yes,,2021-07-23,,,isolated,,,2021-06-28,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,,
 15642,,,,,indigenous case,,,,,,,,,2021-07-24,,,isolated,,,,,,,,,
 15643,,,,,indigenous case,,,,,,,,,2021-07-24,,,isolated,,,,,,,,,
 15644,,,,,indigenous case,,,,,,,,,2021-07-24,,,isolated,,,,,,,,,
@@ -15672,7 +15672,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15670,,,,,indigenous case,,,,,,,,,2021-07-25,,,isolated,,,,,,,,,
 15671,,,,,indigenous case,,,,,,,,,2021-07-25,,,isolated,,,,,,,,,
 15672,,,,,indigenous case,,,,,,,,,2021-07-25,,,isolated,,,,,,,,,
-15673,female,Above 60,Taiwan,home isolation,imported case,Myanmar,patient 15408,,asymptomatic case,,2021-07-23,Yes,,2021-07-25,,,isolated,No,,2021-07-11,,,,,,
+15673,female,Above 60,Taiwan,home isolation,imported case,Myanmar,15408,,asymptomatic case,,2021-07-23,Yes,,2021-07-25,,,isolated,No,,2021-07-11,,,,,,
 15674,,,,,indigenous case,,,,,,,,,2021-07-25,,,isolated,,,,,,,,,
 15675,,,,,indigenous case,,,,,,,,,2021-07-25,,,isolated,,,,,,,,,
 15676,,,,,indigenous case,,,,,,,,,2021-07-25,,,isolated,,,,,,,,,
@@ -15687,7 +15687,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15686,,,,,indigenous case,,,,,,,,,2021-07-26,,,isolated,,,,,,,,,
 15687,,,,,indigenous case,,,,,,,,,2021-07-26,,,isolated,,,,,,,,,
 15687,,,,,indigenous case,,,,,,,,,2021-07-26,,,isolated,,,,,,,,,
-15688,male,Above 50,Taiwan,identified as a contact,imported case,,"patient #15576,patient #15577,patient #15578,patient #15579,patient #15580,patient #15581",,itchy throat,2021-07-25,,,,2021-07-26,,,isolated,,,,6/22 出船作業，7/20 靠港採檢，同船人員（案 15576-15581 確診）安排至集中檢疫所隔離。,,,,,
+15688,male,Above 50,Taiwan,identified as a contact,imported case,,15576;15577;15578;15579;15580;15581,,itchy throat,2021-07-25,,,,2021-07-26,,,isolated,,,,6/22 出船作業，7/20 靠港採檢，同船人員（案 15576-15581 確診）安排至集中檢疫所隔離。,,,,,
 15689,,,,,indigenous case,,,,,,,,,2021-07-26,,,isolated,,,,,,,,,
 15690,,,,,indigenous case,,,,,,,,,2021-07-26,,,isolated,,,,,,,,,
 15691,,,,,indigenous case,,,,,,,,,2021-07-27,,,isolated,,,,,,,,,
@@ -15742,7 +15742,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15740,,,,,indigenous case,,,,,,,,,2021-07-29,,,isolated,,,,,,,,,
 15741,,,,,indigenous case,,,,,,,,,2021-07-29,,,isolated,,,,,,,,,
 15742,,,,,indigenous case,,,,,,,,,2021-07-29,,,isolated,,,,,,,,,
-15743,,,,,indigenous case,,Chiayi_workplace,,,,,,,2021-07-29,,,isolated,,,,嘉義某職場群聚（指標個案）,,,,,
+15743,,,,,indigenous case,,,Chiayi_workplace,,,,,,2021-07-29,,,isolated,,,,嘉義某職場群聚（指標個案）,,,,,
 15744,,,,,indigenous case,,,,,,,,,2021-07-29,,,isolated,,,,,,,,,
 15745,male,Above 70,Taiwan,hospitalized,imported case,Cambodia,,,fever/breathing difficulties,2021-07-19,,,,2021-07-29,,,isolated,,,2021-07-28,7月9日出現發燒及呼吸困難症狀，當日就醫檢查發現有肺炎情形，7月19日於柬埔寨當地住院治療， 7月28日搭乘國際緊急醫療專機返臺，入境後即收治住院隔離及採檢,,,,,
 15746,,,,,indigenous case,,,,,,,,,2021-07-30,,,isolated,,,,,,,,,
@@ -15898,3 +15898,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15896,,,,,indigenous case,,,,,,,,,2021-08-09,,,isolated,,,,,,y,,,
 15897,,,,,indigenous case,,,,,,,,,2021-08-09,,,isolated,,,,,,y,,,
 15898,male,Above 40,US,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-07,Yes,,2021-08-09,,,isolated,No,,2021-08-07,,,,,,yes
+15899,female,Above 10,Taiwan,filtered at airport,imported case,France,,,asymptomatic case,,2021-08-07,Yes,,2021-08-10,,,isolated,No,,2021-08-07,,,,,,no
+15900,female,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-08,Yes,,2021-08-10,,,isolated,No,,2021-08-08,個案在 6/9、7/1 在美國接種 2 劑輝瑞疫苗。,,,,,yes
+15901,male,Above 60,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-08-08,Yes,,2021-08-10,,,isolated,No,,2021-07-27,個案 6/25 於美國 PCR 檢驗陽性，入境時無症狀即採檢陰性。是在防疫旅館檢疫，期滿前採檢確診。6/12、7/9 各接種一劑輝瑞、BNT 疫苗。,,,,,yes
+15902,,,,,indigenous case,,,,,,,,,2021-08-10,,,isolated,,,,,,,New Taipei City,,
+15903,,,,,indigenous case,,,,,,,,,2021-08-10,,,isolated,,,,,,,New Taipei City,,
+15904,male,Above 50,Taiwan,filtered at airport,imported case,Indonesia,,,fatigue/lose their ability to smell and taste,2021-06-30,2021-08-09,Yes,,2021-08-10,,,isolated,Yes,,2021-07-26,個案 7/2 於印尼確診，7/26 搭乘就醫專機抵臺，入境後即送醫隔離，入院後首次採檢陰性，8/9 個期期滿採檢確診。,,,,,no
+15905,,,,,indigenous case,,,,,,,,,2021-08-10,,,isolated,,,,,,,New Taipei City,,
+15906,female,Above 30,Taiwan,identified as a contact,imported case,Switzerland,15370;15641,,asymptomatic case,,2021-08-09,Yes,,2021-08-10,,,isolated,No,,2021-06-28,個案為境外移入案 15370、案15641 的母親，陪同 2 位確診個案於醫院隔離治療，8/9 配合確診個案預計解除隔離治療，安排採檢後確診。,,,,,no
