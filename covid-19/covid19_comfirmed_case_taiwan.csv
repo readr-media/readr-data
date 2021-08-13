@@ -8851,7 +8851,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 8849,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,,Taoyuan City,,
 8850,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,,Taoyuan City,,
 8851,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,,Taoyuan City,,
-8852,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,,Taoyuan City,,
+8852,male,Above 80,Taiwan,hospitalized,indigenous case,,,,fever/shortness of breath,2021-05-28,2021-05-28,No,Yes,2021-06-01,2021-06-08,2021-07-05,deceased,Yes,,,個案5月28日因出現發燒、呼吸喘症狀就醫採檢並收治住院，6月1日確診，6月8日解除隔離，6月26日出院，7月5日因其他原因死亡,,,Taoyuan City,,
 8853,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,,Taoyuan City,,
 8854,male,Above 20,Philippines,self-financed testing,imported case,Philippines,,,asymptomatic case,,2021-05-31,Yes,,2021-06-01,,,isolated,No,,2021-04-27,The case has provided the certificate of a negative COVID-19 RT-PCR test result issued within three days prior to boarding the flight.,,,,,
 8855,female,Above 10,Taiwan,identified as a contact,indigenous case,,a confirmed case from Taipei City,,,2021-05-27,2021-05-31,No,,2021-06-01,,,isolated,Yes,,,個案5月20日北部男友至個案家同住，29日得知男友母親確診，31日至醫院採檢確診。,,,Taichung City,Taipei City,
@@ -14164,7 +14164,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 14162,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
 14163,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
 14164,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
-14165,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
+14165,male,Above 60,Taiwan,hospitalized,indigenous case,,,,fever,2021-06-17,2021-06-20,No,Yes,2021-06-21,,2021-08-04,deceased,,,,,,,,,
 14166,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
 14167,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
 14168,,,,,indigenous case,,,,,,,,,2021-06-21,,,isolated,,,,,,y,,,
@@ -15928,3 +15928,21 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15926,,,,,indigenous case,,,,,,,,,2021-08-12,,,isolated,,,,,,,,,
 15927,female,Above 20,US,home quarantine ,imported case,US,,,cough/lose their ability to smell and taste,2021-08-11,2021-08-11,Yes,,2021-08-12,,,isolated,Yes,,2021-08-04,,,,,,
 15928,male,Above 60,UK,home quarantine ,imported case,Russia,,,asymptomatic case,,2021-08-10,Yes,,2021-08-12,,,isolated,No,,2021-08-10,,,,,,
+15929,male,Above 30,Taiwan,home quarantine,imported case,United Arab Emirates,,,asymptomatic case,2021-07-05,2021-08-11,,,2021-08-13,,,isolated,,,2021-07-30,個案曾於 7/6 在杜拜確診，檢疫期滿前採檢確診。,,,,,No
+15930,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
+15931,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
+15932,male,Above 40,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,Yes
+15933,male,Above 20,Taiwan,home quarantine,imported case,Cambodia,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-07-30,,,,,,No
+15934,female,Above 20,Cambodia,home quarantine,imported case,Cambodia,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-07-30,,,,,,No
+15935,female,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,Yes
+15936,female,Above 40,Taiwan,home quarantine,imported case,China,,,headache/sore throat,2021-08-10,2021-08-11,,,2021-08-13,,,isolated,,,2021-07-30,,,,,,investigating
+15937,female,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,Yes
+15938,female,Above 40,Taiwan,filtered at airport,imported case,US,,,runny nose/myalgia,2021-08-10,2021-08-11,,,2021-08-13,,,isolated,,,2021-08-11,,,,,,Yes
+15939,male,Above 60,Taiwan,group quarantine,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,Yes
+15940,female,Above 20,Taiwan,filtered at airport,imported case,Vietnam,,,myalgia/sore throat/fever/headache/lose their ability to smell,2021-08-01,2021-08-11,,,2021-08-13,,,isolated,,,2021-08-11,個案曾於 8/1 在越南確診，8/11 搭乘醫療專機返臺，入境後即送醫隔離治療。,,,,,No
+15941,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
+15942,male,Above 20,Vietnam,filtered at harbor,imported case,Indonesia,,,cough/diarrhea/fatigue,2021-08-06,2021-08-11,,,2021-08-13,,,isolated,,,2021-08-11,個案為船員，8/11 該船向臺灣申請緊急就醫，並由衛生單位安排個案就醫採檢後確診。,,,,,No
+15943,female,Above 30,India,filtered at airport,imported case,India,,,asymptomatic case,,2021-08-10,,,2021-08-13,,,isolated,No,,2021-08-10,,,,,,investigating
+15944,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,investigating
+15945,male,Above 40,Taiwan,filtered at airport,imported case,Thailand,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,No
+15946,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
