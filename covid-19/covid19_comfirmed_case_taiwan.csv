@@ -4211,7 +4211,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4210,,,,identified as a contact,indigenous case,,,,,,,,,2021-05-23,,,isolated,,,,The case is the husband of case 4211.,,,Taoyuan City,,
 4211,,,,identified as a contact,indigenous case,,4210,,,,,,,2021-05-23,,,isolated,,,,The case is the wife of case 4210.,,,Taoyuan City,,
 4212,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
-4213,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
+4213,male,Above 50,Taiwan,hospitalized,indigenous case,,,,sputum production/chest pain/diarrhea,2021-05-17,2021-05-22,No,Yes,2021-05-23,2021-06-11,2021-06-21,deceased,Yes,,,個案6月11日解除隔離並出院，6月21日因其他原因死亡。,,,,,
 4214,male,Above 50,Taiwan,identified as a contact,indigenous case,,3614,,,,,,,2021-05-23,,,isolated,,,,The case is the family member of case 3614.,,,Nantou County,,
 4215,female,Above 20,Taiwan,identified as a contact,indigenous case,,3614,,,,,,,2021-05-23,,,isolated,,,,The case is a friend of case 3614.,,,Nantou County,,
 4216,,,Taiwan,,indigenous case,,,hostess_club_Nantou,,,,,,2021-05-23,,,isolated,,,,,,,Nantou County,,
@@ -11422,7 +11422,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 11420,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
 11421,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
 11422,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
-11423,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
+11423,female,Above 90,Taiwan,hospitalized,indigenous case,,,,fever/cough/vomiting,2021-06-03,2021-06-05,No,Yes,2021-06-07,2021-06-22,2021-07-12,deceased,Yes,,,個案6月22日解除隔離並出院，7月12日因其他原因死亡。,,,,,
 11424,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
 11425,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
 11426,,,,,indigenous case,,,,,,,,,2021-06-07,,,isolated,,,,,,y,,,
@@ -15507,7 +15507,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15505,,,,,indigenous case,,,,,,,,,2021-07-18,,,isolated,,,,,,y,,,
 15506,,,,,indigenous case,,,,,,,,,2021-07-18,,,isolated,,,,,,y,,,
 15507,male,Above 20,Taiwan,,imported case,Spain,,,,,,,,2021-07-18,,,isolated,,,,,,,,,
-15508,male,Above 20,UK,,imported case,UK,,,,,,,,2021-07-18,,,isolated,,,,,,,,,
+15508,male,Above 20,UK,,imported case,UK,,,,,,,,2021-07-18,,,isolated,,,,,Delta,,,,
 15509,,,,,indigenous case,,,,,,,,,2021-07-18,,,isolated,,,,,,y,,,
 15510,,,,,indigenous case,,,,,,,,,2021-07-18,,,isolated,,,,,,y,,,
 15511,,,,,indigenous case,,,,,,,,,2021-07-18,,,isolated,,,,,,y,,,
@@ -15857,7 +15857,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15855,male,Above 30,South Africa,,imported case,South Africa,,,,2021-08-03,2021-08-02,,,2021-08-05,,,isolated,,,,,,,,,
 15856,,,,,indigenous case,,,,,,,,,2021-08-05,,,isolated,,,,,,,,,
 15857,,,,,indigenous case,,,,,,,,,2021-08-05,,,isolated,,,,,,,,,
-15858,female,Above 60,Taiwan,,imported case,US,,,,,2021-08-03,,,2021-08-05,,,isolated,,,,,,,,,
+15858,female,Above 60,Taiwan,,imported case,US,,,,,2021-08-03,,,2021-08-05,,,isolated,,,,,b.1.621,,,,
 15859,male,Above 30,Taiwan,,imported case,US,,,headache,2021-08-04,2021-08-03,,,2021-08-05,,,isolated,,,,,,,,,
 15860,male,Above 20,Taiwan,,imported case,US,,,,,2021-08-04,,,2021-08-05,,,isolated,,,,,,,,,
 15861,,,,,indigenous case,,,,,,,,,2021-08-05,,,isolated,,,,,,,,,
@@ -15867,7 +15867,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15865,,,,,indigenous case,,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
 15866,,,,,indigenous case,,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
 15867,,,,,indigenous case,,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
-15868,male,Above 20,US,,imported case,US,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
+15868,male,Above 20,US,,imported case,US,,,,,,,,2021-08-06,,,isolated,,,,,Delta,,,,
 15869,,,,,indigenous case,,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
 15870,,,,,indigenous case,,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
 15871,,,,,indigenous case,,,,,,,,,2021-08-06,,,isolated,,,,,,,,,
@@ -15880,12 +15880,12 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15878,male,Above 40,Taiwan,,imported case,US,,,,2021-08-04,2021-08-04,,,2021-08-07,,,isolated,,,,,,,,,yes
 15879,female,Above 40,Taiwan,,imported case,Cambodia,,,,2021-08-04,2021-08-04,,,2021-08-07,,,isolated,,,,,,,,,no
 15880,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
-15881,female,Above 40,Taiwan,,imported case,China,,,,2021-08-04,2021-08-04,,,2021-08-07,,,isolated,,,,,,,,,no
+15881,female,Above 40,Taiwan,,imported case,China,,,,2021-08-04,2021-08-04,,,2021-08-07,,,isolated,,,,,Alpha,,,,no
 15882,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
 15883,male,Above 30,UK,,imported case,Spain,,,,2021-08-05,2021-08-05,,,2021-08-07,,,isolated,,,,,,,,,no
-15884,male,Above 30,Taiwan,,imported case,Malaysia,,,fever/headache,2021-08-06,2021-08-06,,,2021-08-08,,,isolated,,,,,,,,,no
+15884,male,Above 30,Taiwan,,imported case,Malaysia,,,fever/headache,2021-08-06,2021-08-06,,,2021-08-08,,,isolated,,,,,Delta,,,,no
 15885,,,,,indigenous case,,,,,,,,,2021-08-08,,,isolated,,,,,,,,,
-15886,female,Above 30,Taiwan,,imported case,Turkey,,,,2021-08-06,2021-08-06,,,2021-08-08,,,isolated,,,,,,,,,yes
+15886,female,Above 30,Taiwan,,imported case,Turkey,,,,2021-08-06,2021-08-06,,,2021-08-08,,,isolated,,,,,Delta,,,,yes
 15887,male,Above 20,Taiwan,,imported case,US,,,,2021-08-06,2021-08-06,,,2021-08-08,,,isolated,,,,,,,,,yes
 15888,,,,,indigenous case,,,,,,,,,2021-08-08,,,isolated,,,,,,,,,
 15889,,,,,indigenous case,,,,,,,,,2021-08-08,,,isolated,,,,,,,,,
@@ -15946,3 +15946,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15944,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,investigating
 15945,male,Above 40,Taiwan,filtered at airport,imported case,Thailand,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,No
 15946,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
+15947,,,,,indigenous case,,,,,,,,,2021-08-14,,,isolated,No,,2021-07-31,,,y,,,Yes
+15948,,,,,indigenous case,,,,,,,,,2021-08-14,,,isolated,,,,,,y,,,
+15949,,,,,indigenous case,,,,,,,,,2021-08-14,,,isolated,,,,,,y,,,
+15950,female,Above 40,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-08-12,Yes,,2021-08-14,,,isolated,,,,,,,,,
+15951,female,Above 20,Taiwan,home quarantine,imported case,Russia,,,asymptomatic case,,2021-08-13,Yes,,2021-08-14,,,isolated,No,,2021-07-30,,,,,,No
+15952,male,Above 50,Vietnam,filtered at harbor,imported case,Indonesia,,,fever/fatigue,2021-08-10,2021-08-13,Yes,,2021-08-14,,,isolated,Yes,,2021-08-13,個案為船員，8/13該船向臺灣申請緊急就醫。,,,,,No
+15953,male,Above 20,Taiwan,filtered at airport,imported case,Vietnam,,,fever/sore throat/lose their ability to smell and taste,2021-07-03,2021-08-13,Yes,,2021-08-14,,,isolated,Yes,,2021-08-12,個案7/6曾於越南確診。,,,,,No
