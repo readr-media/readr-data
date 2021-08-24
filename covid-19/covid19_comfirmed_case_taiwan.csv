@@ -15876,7 +15876,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15874,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
 15875,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
 15876,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
-15877,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
+15877,female,Above 80,Taiwan,,indigenous case,,,,,2021-07-27,,,,2021-08-07,,2021-07-27,deceased,,,,7月27日出現食慾不振症狀，並於同日死亡；後因同住家人確診(案15851)，故於8月5日進行採檢，8月6日確診(Ct值23.8)。,,,,,
 15878,male,Above 40,Taiwan,,imported case,US,,,,2021-08-04,2021-08-04,,,2021-08-07,,,isolated,,,,,,,,,yes
 15879,female,Above 40,Taiwan,,imported case,Cambodia,,,,2021-08-04,2021-08-04,,,2021-08-07,,,isolated,,,,,,,,,no
 15880,,,,,indigenous case,,,,,,,,,2021-08-07,,,isolated,,,,,,,,,
@@ -16042,3 +16042,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16040,,,,,indigenous case,,,,,,,,,2021-08-23,,,isolated,,,,,,y,,,
 16041,,,,,indigenous case,,,,,,,,,2021-08-23,,,isolated,,,,,,y,,,
 16042,,,,,indigenous case,,,,,,,,,2021-08-23,,,isolated,,,,,,y,,,
+16043,male,,Japan,home quarantine,imported case,Japan,,,headache/cough,2021-08-16,,,,2021-08-24,,,isolated,,,2021-08-14,,,,,,
+16044,male,Above 70,Japan,hospitalized,indigenous case,,,,,,,,,2021-08-24,,,isolated,,,,,,,,,
+16045,male,,Taiwan,home quarantine,imported case,Japan,,,headache/cough,2021-08-20,,,,2021-08-24,,,isolated,,,2021-08-17,,,,,,
+16046,male,,India,group quarantine,imported case,India,,,asymptomatic case,,,,,2021-08-24,,,isolated,,,2021-08-12,,,,,,
+16047,male,,Taiwan,home quarantine,imported case,Turkey,,,asymptomatic case,,,,,2021-08-24,,,isolated,,,2021-08-22,,,,,,
+16048,male,,Japan,home quarantine,imported case,Japan,,,cough,2021-08-22,,,,2021-08-24,,,isolated,,,2021-08-22,,,,,,
