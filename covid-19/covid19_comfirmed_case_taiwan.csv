@@ -16092,7 +16092,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16090,male,Above 30,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,,,,2021-08-29,,,isolated,,,2021-08-15,,,,,,Yes
 16091,male,Above 40,Taiwan,group quarantine,imported case,Myanmar,,,sore throat/chills/poor appetite,2021-07-20,,,,2021-08-29,,,isolated,,,2021-08-15,,,,,,No
 16092,male,Above 40,Taiwan,home quarantine,imported case,Pakistan,,,asymptomatic case,,,,,2021-08-29,,,isolated,,,2021-08-27,,,,,,No
-16093,male,Above 60,Taiwan,hospitalized,imported case,Vietnam,,,fever/cough/breathing difficulties,2021-08-04,,,,2021-08-29,,,isolated,,,2021-08-28,,,,,,Yes
+16093,male,Above 60,Taiwan,hospitalized,imported case,Vietnam,,,fever/cough/breathing difficulties,2021-08-04,,,,2021-08-29,,2021-08-30,deceased,,,2021-08-28,,,,,,Yes
 16094,,,,,indigenous case,,,,,,,,,2021-08-30,,,isolated,,,,,,,,,
 16095,,,,,indigenous case,,,,,,,,,2021-08-30,,,isolated,,,,,,,,,
 16096,male,Above 10,Denmark,group quarantine,imported case,Indonesia,,,,,2021-08-28,Yes,,2021-08-30,,,isolated,,,2021-08-27,,,,,,No
@@ -16101,3 +16101,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16099,male,Above 60,Taiwan,home quarantine,imported case,Philippines,,,,,2021-08-28,Yes,,2021-08-30,,,isolated,,,2021-08-28,,,,,,No
 16100,,,,,indigenous case,,,,,,,,,2021-08-30,,,isolated,,,,,,,,,
 16101,male,Above 10,Taiwan,group quarantine,imported case,Indonesia,,,,,2021-08-29,Yes,,2021-08-30,,,isolated,,,2021-08-27,,,,,,No
+16102,,,,,indigenous case,,,,,,,,,2021-08-31,,,isolated,,,,,,,,,
+16103,,,,,indigenous case,,,,,,,,,2021-08-31,,,isolated,,,,,,,,,
+16104,,,,,indigenous case,,,,,,,,,2021-08-31,,,isolated,,,,,,,,,
+16105,male,Above 30,UK,group quarantine,imported case,UK,,,,,2021-08-30,,,2021-08-31,,,isolated,,,,,,,,,No
