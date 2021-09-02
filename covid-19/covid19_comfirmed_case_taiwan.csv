@@ -9932,7 +9932,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 9930,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9931,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9932,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
-9933,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
+9933,male,Above 60,Taiwan,,indigenous case,,,,throat discomfort/cough,2021-05-21,2021-05-27,,,2021-06-03,,2021-06-27,deceased,,,,,,y,,,
 9934,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9935,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9936,female,Above 50,Taiwan,hospitalized,indigenous case,,,,,,,,,,,,isolated,,,,,,,Keelung City,,
@@ -16111,3 +16111,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16109,female,Above 50,Taiwan,home quarantine,imported case,Nicaragua,,,,,2021-08-30,Yes,,2021-09-01,,,isolated,,,2021-08-30,,,,,,Yes
 16110,female,Above 60,Taiwan,identified as a contact,indigenous case,,,,throat discomfort,2021-08-23,2021-08-31,,,2021-09-01,,,isolated,,,,,,,,,
 16111,female,Above 10,Taiwan,home quarantine,imported case,US,,,,,2021-08-30,Yes,,2021-09-01,,,isolated,,,2021-08-30,,,,,,
+16112,male,Above 30,Taiwan,,indigenous case,,,,,,,,,2021-09-02,,,isolated,,,,,,,,,
+16113,male,Above 60,Taiwan,home quarantine,imported case,US,,,,,2021-09-01,Yes,,2021-09-02,,,isolated,,,2021-08-26,,,,,,Yes
+16114,female,Above 40,Russia,home quarantine,imported case,Russia,,,,,2021-08-31,Yes,,2021-09-02,,,isolated,,,2021-08-19,,,,,,Yes
+16115,female,Above 10,Taiwan,home quarantine,imported case,US,,,,,2021-09-01,Yes,,2021-09-02,,,isolated,,,2021-08-19,,,,,,No
+16116,female,Above 30,South Africa,home quarantine,imported case,South Africa,,,,,2021-09-01,Yes,,2021-09-02,,,isolated,,,2021-08-27,7/28於南非確診,,,,,No
