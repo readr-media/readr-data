@@ -15943,7 +15943,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15941,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
 15942,male,Above 20,Vietnam,filtered at harbor,imported case,Indonesia,,,cough/diarrhea/fatigue,2021-08-06,2021-08-11,,,2021-08-13,,,isolated,,,2021-08-11,個案為船員，8/11 該船向臺灣申請緊急就醫，並由衛生單位安排個案就醫採檢後確診。,b.1.6172,,,,No
 15943,female,Above 30,India,filtered at airport,imported case,India,,,asymptomatic case,,2021-08-10,,,2021-08-13,,,isolated,No,,2021-08-10,,,,,,investigating
-15944,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,investigating
+15944,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,Delta,,,,investigating
 15945,male,Above 40,Taiwan,filtered at airport,imported case,Thailand,,,asymptomatic case,,2021-08-11,,,2021-08-13,,,isolated,No,,2021-08-11,,,,,,No
 15946,,,,,indigenous case,,,,,,,,,2021-08-13,,,isolated,,,,,,y,,,
 15947,,,,,indigenous case,,,,,,,,,2021-08-14,,,isolated,No,,2021-07-31,,,y,,,Yes
@@ -15961,7 +15961,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15959,female,Above 20,Taiwan,home quarantine,imported case,Poland,,,asymptomatic case,,2021-08-14,Yes,,2021-08-15,,,isolated,No,,2021-08-01,個案3月曾於波蘭確診，入境採檢陰性，8/14居家隔離期滿採檢確診。,,,,,Yes
 15960,female,Above 20,South Africa,filtered at airport,imported case,South Africa,,,asymptomatic case,,2021-08-13,Yes,,2021-08-15,,,isolated,No,,2021-08-13,,,,,,No
 15961,male,Above 20,Taiwan,filtered at airport,imported case,United Arab Emirates,,,cough,2021-08-03,2021-08-13,Yes,,2021-08-15,,,isolated,Yes,,2021-08-13,8/3於杜拜出現咳嗽症狀，PCR檢驗陽性未就醫，入境主動通報有症狀，採檢後確診。,,,,,No
-15962,male,Above 40,Lithuania,filtered at airport,imported case,Lithuania,,,asymptomatic case,,2021-08-13,Yes,,2021-08-15,,,isolated,No,,2021-08-13,,,,,,No
+15962,male,Above 40,Lithuania,filtered at airport,imported case,Lithuania,,,asymptomatic case,,2021-08-13,Yes,,2021-08-15,,,isolated,No,,2021-08-13,Delta,,,,,No
 15963,,,,,indigenous case,,,,,,,,,2021-08-16,,,isolated,,,,,,,,,
 15964,,,,,indigenous case,,,,,,,,,2021-08-16,,,isolated,,,,,,,,,
 15965,female,Above 10,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-08-14,Yes,,2021-08-16,,,isolated,No,,2021-08-02,,,,,,
@@ -15997,7 +15997,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15995,,,,,indigenous case,,,,,,,,,2021-08-18,,,isolated,,,,,,,,,
 15996,male,Above 20,Taiwan,home quarantine ,imported case,US,,,asymptomatic case,,2021-08-16,Yes,,2021-08-18,,,isolated,,,2021-08-04,,,,,,
 15997,female,Above 30,Taiwan,home quarantine ,imported case,Saudi Arabia,,,asymptomatic case,,2021-08-16,Yes,,2021-08-18,,,isolated,,,2021-08-04,,,,,,
-15998,female,Above 30,Saint Christopher and Nevis,home quarantine ,imported case,US,,,sore throat,,2021-08-15,Yes,,2021-08-18,,,isolated,,,2021-08-15,,,,,,
+15998,female,Above 30,Saint Christopher and Nevis,home quarantine ,imported case,US,,,sore throat,,2021-08-15,Yes,,2021-08-18,,,isolated,,,2021-08-15,,Delta,,,,
 15999,female,Above 40,Taiwan,group quarantine,imported case,India,,,asymptomatic case,,2021-08-17,Yes,,2021-08-18,,,isolated,,,2021-05-17,,,,,,
 16000,female,Above 20,Taiwan,home quarantine ,imported case,France,,,asymptomatic case,,2021-08-17,Yes,,2021-08-18,,,isolated,,,2021-08-14,,,,,,
 16001,,,,,indigenous case,,,,,,,,,2021-08-18,,,isolated,,,,,,,,,
@@ -16017,7 +16017,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16015,,,,,indigenous case,,,,cough,2021-08-19,2021-08-19,Yes,,2021-08-20,,,isolated,,,2021-08-06,,,,,,
 16016,,,,,indigenous case,,,,,,,,,2021-08-20,,,isolated,,,,,,,,,
 16017,,,,,indigenous case,,,,,,,,,2021-08-21,,,isolated,,,,,,,,,
-16018,male,Above 60,Taiwan,home quarantine ,imported case,US,,,asymptomatic case,,2021-08-18,Yes,,2021-08-21,,,isolated,,,2021-08-18,,,,,,
+16018,male,Above 60,Taiwan,home quarantine ,imported case,US,,,asymptomatic case,,2021-08-18,Yes,,2021-08-21,,,isolated,,,2021-08-18,,Delta,,,,
 16019,male,Above 20,India,group quarantine,imported case,India,,,asymptomatic case,,2021-08-19,Yes,,2021-08-21,,,isolated,,,2021-08-18,,,,,,
 16020,male,Above 30,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-08-19,Yes,,2021-08-21,,,isolated,,,2021-08-18,,,,,,
 16021,male,Above 40,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-08-19,Yes,,2021-08-21,,,isolated,,,2021-08-18,,,,,,
@@ -16042,22 +16042,22 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16040,,,,,indigenous case,,,,,,,,,2021-08-23,,,isolated,,,,,,y,,,
 16041,,,,,indigenous case,,,,,,,,,2021-08-23,,,isolated,,,,,,y,,,
 16042,,,,,indigenous case,,,,,,,,,2021-08-23,,,isolated,,,,,,y,,,
-16043,male,,Japan,home quarantine,imported case,Japan,,,headache/cough,2021-08-16,,,,2021-08-24,,,isolated,,,2021-08-14,,,,,,No
+16043,male,,Japan,home quarantine,imported case,Japan,,,headache/cough,2021-08-16,,,,2021-08-24,,,isolated,,,2021-08-14,,Delta,,,,No
 16044,male,Above 70,Japan,hospitalized,indigenous case,,,,,,,,,2021-08-24,,,isolated,,,,,,,,,
 16045,male,,Taiwan,home quarantine,imported case,Japan,,,headache/cough,2021-08-20,,,,2021-08-24,,,isolated,,,2021-08-17,,Delta,,,,No
-16046,male,,India,group quarantine,imported case,India,,,asymptomatic case,,,,,2021-08-24,,,isolated,,,2021-08-12,,,,,,investigating
+16046,male,,India,group quarantine,imported case,India,,,asymptomatic case,,,,,2021-08-24,,,isolated,,,2021-08-12,,Delta,,,,investigating
 16047,male,,Taiwan,home quarantine,imported case,Turkey,,,asymptomatic case,,,,,2021-08-24,,,isolated,,,2021-08-22,,,,,,No
-16048,male,,Japan,home quarantine,imported case,Japan,,,cough,2021-08-22,,,,2021-08-24,,,isolated,,,2021-08-22,,,,,,No
+16048,male,,Japan,home quarantine,imported case,Japan,,,cough,2021-08-22,,,,2021-08-24,,,isolated,,,2021-08-22,,Alpha,,,,No
 16049,male,Above 20,South Africa,filtered at airport,imported case,South Africa,,,asymptomatic case,,,,,2021-08-25,,,isolated,,,2021-08-22,,,,,,No
 16050,male,Above 50,Taiwan,home quarantine,imported case,US,,,runny nose,2021-07-13,,,,2021-08-26,,,isolated,,,2021-08-03,,,,,,Yes
 16051,female,Above 40,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,,,,2021-08-26,,,isolated,,,2021-08-02,,,,,,No
-16052,female,Above 10,US,filtered at airport,imported case,US,,,asymptomatic case,,,,,2021-08-26,,,isolated,,,2021-08-24,,,,,,No
-16053,male,Above 20,Taiwan,filtered at airport,imported case,Japan,,,muscle ache,2021-08-24,,,,2021-08-26,,,isolated,,,2021-08-24,,,,,,No
+16052,female,Above 10,US,filtered at airport,imported case,US,,,asymptomatic case,,,,,2021-08-26,,,isolated,,,2021-08-24,,Delta,,,,No
+16053,male,Above 20,Taiwan,filtered at airport,imported case,Japan,,,muscle ache,2021-08-24,,,,2021-08-26,,,isolated,,,2021-08-24,,Delta,,,,No
 16054,male,Above 50,Taiwan,filtered at airport,imported case,China,,,itchy throat,2021-08-12,,,,2021-08-26,,,isolated,,,2021-08-12,,,,,,Yes
 16055,male,Above 30,Vietnam,identified as a contact,indigenous case,,patient #16006,,sore throat/itchy throat/headache,2021-08-25,,,,2021-08-26,,,isolated,,,,,,y,,,
 16056,female,Above 20,Taiwan,identified as a contact,indigenous case,,Patient #16056,,itchy throat/cough,2021-08-17,,,,2021-08-26,,,isolated,,,,,,y,,,
 16057,female,Above 40,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,2021-08-13,,,,2021-08-26,,,isolated,,,2021-08-13,,,,,,investigating
-16058,female,Above 20,Taiwan,home quarantine,imported case,Sweden,,,fever/runny nose/sore throat,2021-08-16,,,,2021-08-27,,,isolated,,,2021-08-13,,,,,,No
+16058,female,Above 20,Taiwan,home quarantine,imported case,Sweden,,,fever/runny nose/sore throat,2021-08-16,,,,2021-08-27,,,isolated,,,2021-08-13,,Delta,,,,No
 16059,female,Above 40,Taiwan,filtered at airport,imported case,US,,,fever/runny nose/sore throat,2021-08-24,,,,2021-08-27,,,isolated,,,2021-08-24,,,,,,Yes
 16060,male,Above 40,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,,,,2021-08-27,,,isolated,,,2021-08-25,,,,,,investigating
 16061,male,Above 40,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,,,,2021-08-27,,,isolated,,,2021-08-25,,,,,,investigating
@@ -16065,12 +16065,12 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16063,female,Above 20,India,group quarantine,imported case,India,,,asymptomatic case,,,,,2021-08-27,,,isolated,,,2021-08-25,,,,,,Yes
 16064,female,Above 20,India,group quarantine,imported case,India,,,asymptomatic case,,,,,2021-08-27,,,isolated,,,2021-08-25,,,,,,Yes
 16065,female,Above 10,Taiwan,home quarantine,imported case,France,,,asymptomatic case,,,,,2021-08-28,,,isolated,,,2021-08-07,,,,,,investigating
-16066,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,,,,2021-08-28,,,isolated,,,2021-08-27,,,,,,Yes
-16067,male,Above 60,Philippines,hospitalized,imported case,Else,,,fever,2021-08-26,,,,2021-08-28,,2021-08-27,deceased,,,2021-08-27,8月26日出現發燒症狀，8月27日入境我國後即送醫採檢確診，並於同日死亡。,,,,,investigating
+16066,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,,,,2021-08-28,,,isolated,,,2021-08-27,機師感染群聚,Delta,,,,Yes
+16067,male,Above 60,Philippines,hospitalized,imported case,Else,,,fever,2021-08-26,,,,2021-08-28,,2021-08-27,deceased,,,2021-08-27,8月26日出現發燒症狀，8月27日入境我國後即送醫採檢確診，並於同日死亡。,Delta,,,,investigating
 16068,male,Above 50,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,,,,2021-08-28,,,isolated,,,2021-08-26,,,,,,Yes
 16069,female,Above 30,Pakistan,filtered at airport,imported case,Pakistan,,,asymptomatic case,,,,,2021-08-28,,,isolated,,,2021-08-26,,,,,,Yes
 16070,female,Above 20,Taiwan,home quarantine,imported case,Cambodia,,,asymptomatic case,,,,,2021-08-28,,,isolated,,,2021-08-15,,,,,,Yes
-16071,female,Above 50,Taiwan,home quarantine,imported case,China,,,muscle ache/sore throat/cough/diarrhea/headache/fever,2021-08-17,,,,2021-08-29,,,isolated,,,2021-08-17,,,,,,Yes
+16071,female,Above 50,Taiwan,home quarantine,imported case,China,,,muscle ache/sore throat/cough/diarrhea/headache/fever,2021-08-17,,,,2021-08-29,,,isolated,,,2021-08-17,,Delta,,,,Yes
 16072,,,,,indigenous case,,,,,,,,,2021-08-29,,,isolated,,,,,,y,,,
 16073,,,,,indigenous case,,,,,,,,,2021-08-29,,,isolated,,,,,,y,,,
 16074,male,Above 40,Taiwan,home quarantine,imported case,Cambodia,,,asymptomatic case,,,,,2021-08-29,,,isolated,,,2021-08-15,,,,,,Yes
@@ -16116,3 +16116,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16114,female,Above 40,Russia,home quarantine,imported case,Russia,,,,,2021-08-31,Yes,,2021-09-02,,,isolated,,,2021-08-19,,,,,,Yes
 16115,female,Above 10,Taiwan,home quarantine,imported case,US,,,,,2021-09-01,Yes,,2021-09-02,,,isolated,,,2021-08-19,,,,,,No
 16116,female,Above 30,South Africa,home quarantine,imported case,South Africa,,,,,2021-09-01,Yes,,2021-09-02,,,isolated,,,2021-08-27,7/28於南非確診,,,,,No
+16117,female,Above 50,Taiwan,home quarantine,imported case,US,,,,,2021-08-31,Yes,,2021-09-03,,,isolated,,,2021-08-31,,,,,,Yes
+16118,female,Above 30,Taiwan,home quarantine,imported case,Thailand,,,vomiting,2021-09-01,2021-09-01,Yes,,2021-09-03,,,isolated,,,2021-09-01,,,,,,No
+16119,male,Above 50,Taiwan,,imported case,Australia,,,throat discomfort,2021-08-31,2021-09-02,Yes,,2021-09-03,,,isolated,,,2021-08-31,機師感染群聚,,,,,Yes
+16120,male,Above 50,Taiwan,,imported case,US,,,throat discomfort,2021-08-28,2021-09-02,Yes,,2021-09-03,,,isolated,,,2021-08-31,機師感染群聚,,,,,Yes
+16121,female,Above 50,Taiwan,,indigenous case,,,,cough/fever/diarrhea,2021-08-26,2021-09-02,,,2021-09-03,,,isolated,,,,,,,,,
+16122,male,Above 10,Taiwan,,indigenous case,,,,throat discomfort,2021-09-01,2021-09-02,,,2021-09-03,,,isolated,,,,,,,,,
