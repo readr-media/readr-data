@@ -16123,3 +16123,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16121,female,Above 50,Taiwan,,indigenous case,,,,cough/fever/diarrhea,2021-08-26,2021-09-02,,,2021-09-03,,,isolated,,,,,,,,,
 16122,male,Above 10,Taiwan,,indigenous case,,,,throat discomfort,2021-09-01,2021-09-02,,,2021-09-03,,,isolated,,,,,,,,,
 16123,male,Above 30,US,home quarantine,imported case,US,,,,,,,,2021-09-04,,,isolated,,,,,,,,,Yes
+16124,male,Above 20,Serbia,home quarantine,imported case,Serbia,,,,,2021-09-02,Yes,,2021-09-05,,,isolated,,,2021-09-02,,,,,,No
+16125,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,2021-09-03,Yes,,2021-09-05,,,isolated,,,2021-09-03,,,,,,Yes
+16126,male,Above 20,Burkina Faso,home quarantine,imported case,Burkina Faso,,,,,2021-09-02,Yes,,2021-09-05,,,isolated,,,2021-09-02,,,,,,Yes
+16127,male,Above 20,Japan,home quarantine,imported case,Japan,,,,,2021-09-03,Yes,,2021-09-05,,,isolated,,,2021-09-03,,,,,,Yes
+16128,male,Above 40,Taiwan,,indigenous case,,,,,,,,,2021-09-05,,,isolated,,,,,,,,,
+16129,female,Above 30,Taiwan,,indigenous case,,,,,,,,,2021-09-05,,,isolated,,,,,,,,,
