@@ -16127,8 +16127,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16125,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,2021-09-03,Yes,,2021-09-05,,,isolated,,,2021-09-03,,,,,,Yes
 16126,male,Above 20,Burkina Faso,home quarantine,imported case,Burkina Faso,,,,,2021-09-02,Yes,,2021-09-05,,,isolated,,,2021-09-02,,,,,,Yes
 16127,male,Above 20,Japan,home quarantine,imported case,Japan,,,,,2021-09-03,Yes,,2021-09-05,,,isolated,,,2021-09-03,,,,,,Yes
-16128,male,Above 40,Taiwan,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-05,,,isolated,,,,個案為 16129 的丈夫。,,,New Taipei City,,
-16129,female,Above 30,Taiwan,,indigenous case,,#16128,kindergarten_NewTaipei,,,,,,2021-09-05,,,isolated,,,,個案為 16128 的妻子，為新北某幼兒園的老師。,,,New Taipei City,,
+16128,male,Above 40,Taiwan,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-01,,,,2021-09-05,,,isolated,,,,個案為 16129 的丈夫。,Delta,,New Taipei City,,
+16129,female,Above 30,Taiwan,,indigenous case,,#16128,kindergarten_NewTaipei,,2021-08-27,,,,2021-09-05,,,isolated,,,,個案為 16128 的妻子，為新北某幼兒園的老師。,Delta,,New Taipei City,,
 16130,male,Above 50,Taiwan,filtered at airport,imported case,Gambia,,,cough,2021-09-01,2021-09-01,Yes,,2021-09-06,,,isolated,Yes,,2021-09-03,,,,,,Yes
 16131,male,Above 20,Taiwan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-09-05,Yes,,2021-09-06,,,isolated,No,,2021-08-23,,,,,,Yes
 16132,male,Above 20,Taiwan,filtered at harbor,imported case,,,,fatigue/runny nose,2021-09-03,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,,,,,Yes
@@ -16136,24 +16136,33 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16134,male,Above 40,Philippines,filtered at harbor,imported case,,,,fever/sore throat/runny nose/cough/nasal congestion,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,,,,,investigating
 16135,male,Above 50,Philippines,filtered at harbor,imported case,,,,fever/sore throat/runny nose,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,,,,,investigating
 16136,male,Above 20,Taiwan,filtered at harbor,imported case,,,,fever/chills/cough,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,,,,,No
-16137,female,,,,indigenous case,,#16138,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,個案為 16138 的媽媽。,,y,New Taipei City,,
-16138,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16139,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16140,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16141,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16142,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16143,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16144,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
-16145,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
+16137,female,,,,indigenous case,,#16138,kindergarten_NewTaipei,,2021-08-30,,,,2021-09-06,,,isolated,,,,個案為 16138 的媽媽。,Delta,y,New Taipei City,,
+16138,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-08-28,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16139,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-05,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16140,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-08-28,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16141,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-01,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16142,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-05,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16143,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-08-29,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16144,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-04,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
+16145,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-08-25,,,,2021-09-06,,,isolated,,,,,,y,New Taipei City,,
 16146,,,,,indigenous case,,,,,,,,,2021-09-07,,,isolated,,,,,,,,,
 16147,male,Above 20,Taiwan,self-financed testing,imported case,India,,,asymptomatic case,,2021-09-06,Yes,,2021-09-07,,,isolated,No,,2021-08-13,個案入境及檢疫期滿採檢皆為陰性，9/6 因出境需求採檢。,,,,,Yes
 16148,male,Above 40,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-09-06,Yes,,2021-09-07,,,isolated,No,,2021-08-25,,,,,,investigating
 16149,female,Above 10,Malaysia,home quarantine,imported case,Malaysia,,,asymptomatic case,,2021-09-06,Yes,,2021-09-07,,,isolated,No,,2021-08-24,個案 7 月初曾於馬來西亞確診，入境採檢陰性，期滿採檢確診。,,,,,Yes
 16150,,,,,indigenous case,,,,,,,,,2021-09-07,,,isolated,,,,,,,,,
-16151,female,Under 5,,,indigenous case,,#16141,kindergarten_NewTaipei,,,,,,2021-09-07,,,isolated,,,,個案為 16141 的妹妹。,,,New Taipei City,,
-16152,female,,,,indigenous case,,#16141,kindergarten_NewTaipei,,,,,,2021-09-07,,,isolated,,,,個案為 16141 的媽媽。,,,New Taipei City,,
-16153,female,,,,indigenous case,,#16129,kindergarten_NewTaipei,,,,,,2021-09-07,,,isolated,,,,個案為 16154 的媽媽。,,,New Taipei City,,
-16154,,,,,indigenous case,,#16153,kindergarten_NewTaipei,,,,,,2021-09-07,,,isolated,,,,,,,New Taipei City,,
-16155,female,,,,indigenous case,,#16145,kindergarten_NewTaipei,,,,,,2021-09-07,,,isolated,,,,個案為 16145 的媽媽。,,,New Taipei City,,
+16151,female,Under 5,,,indigenous case,,#16141,kindergarten_NewTaipei,,2021-09-05,,,,2021-09-07,,,isolated,,,,個案為 16141 的妹妹。,,,New Taipei City,,
+16152,female,,,,indigenous case,,#16141,kindergarten_NewTaipei,,2021-09-01,,,,2021-09-07,,,isolated,,,,個案為 16141 的媽媽。,,,New Taipei City,,
+16153,female,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-06,,,,2021-09-07,,,isolated,,,,個案為 16154 的媽媽。,,,New Taipei City,,
+16154,,,,,indigenous case,,#16153,kindergarten_NewTaipei,,2021-09-06,,,,2021-09-07,,,isolated,,,,,,,New Taipei City,,
+16155,female,,,,indigenous case,,#16145,kindergarten_NewTaipei,,2021-08-25,,,,2021-09-07,,,isolated,,,,個案為 16145 的媽媽。,,,New Taipei City,,
 16156,male,Above 40,Taiwan,filtered at airport,imported case,Lesotho,,,investigating,investigating,2021-09-05,Yes,,2021-09-07,,,isolated,investigating,,2021-09-05,,,,,,investigating
-16157,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,,,,
+16157,,,,,indigenous case,,,,,,,,,2021-09-07,,,isolated,,,,,,,,,
+16158,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,2021-08-27,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者。,,,,,
+16159,male,Above 50,UK,group quarantine,imported case,UK,,,,,2021-09-05,Yes,,2021-09-08,,,isolated,,,2021-09-05,個案曾於英國檢驗陽性。入境時持搭機 3 日內檢驗陰性證明。,,,,,Yes
+16160,male,Above 30,Egypt,identified as a contact,imported case,Egypt,#16145,kindergarten_NewTaipei,asymptomatic case,,2021-09-06,Yes,,2021-09-08,,,isolated,,,2021-08-04,個案是 16145 的父親。8月4日自埃及來臺探親，持搭機3日內檢驗陰性證明，個案入境於機場採檢結果陰性，至防疫旅館檢疫，8月16日檢疫期滿前採檢結果亦為陰性。9月6日因曾接觸確診者，由衛生單位安排採檢確診。,,,,,No
+16161,,,,,indigenous case,,#16143,kindergarten_NewTaipei,,investigating,,,,2021-09-08,,,isolated,,,,,,,,,
+16162,,,,,indigenous case,,,,,,,,,2021-09-08,,,isolated,,,,,,,,,
+16163,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,investigating,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者。,,,,,
+16164,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,investigating,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者。,,,,,
+16165,,,,,indigenous case,,#16140,kindergarten_NewTaipei,,investigating,,,,2021-09-08,,,isolated,,,,個案是 16140 的奶奶，與個案有接觸史。,,,,,
+16166,,,,,indigenous case,,#16141,kindergarten_NewTaipei,,investigating,,,,2021-09-08,,,isolated,,,,個案是 16141 的奶奶，與個案有接觸史。,,,,,
