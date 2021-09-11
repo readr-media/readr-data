@@ -16166,11 +16166,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16164,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者。,,,New Taipei City,,
 16165,,,,,indigenous case,,#16141,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16141 的奶奶，與個案有接觸史。,Delta,,New Taipei City,,
 16166,,,,,indigenous case,,#16140,kindergarten_NewTaipei,,2021-09-03,,,,2021-09-08,,,isolated,,,,個案是 16140 的外婆，與個案有接觸史。,,,New Taipei City,,
-16167,,,,,indigenous case,,,,,,,,,2021-09-09,,,isolated,,,,個案為裝修工人。,,,Taipei City,,
+16167,,,,,indigenous case,,,,,,,,,2021-09-09,,,isolated,,,,個案為裝修工人。,Delta,,Taipei City,,
 16168,male,,,,indigenous case,,#16160,,,2021-09-01,,,,2021-09-09,,,isolated,,,,個案是 16160 的社區接觸者，16171 的丈夫。,,,New Taipei City,,
 16169,male,Above 30,Egypt,identified as a contact,imported case,Egypt,#16160,,,2021-09-09,2021-09-07,Yes,,2021-09-09,,,isolated,,,2021-08-04,個案持有搭機前3日內檢驗陰性證明且入境後採檢及檢疫期滿前採檢結果均為陰性；由於曾接觸確診個案，9月7日由衛生單位安排採檢，結果皆為陰性，9/9再次採檢並確診,,,,,
 16170,male,Above 40,Egypt,identified as a contact,imported case,Egypt,#16160,,,2021-09-09,2021-09-07,Yes,,2021-09-09,,,isolated,,,2021-08-04,個案持有搭機前3日內檢驗陰性證明且入境後採檢及檢疫期滿前採檢結果均為陰性；由於曾接觸確診個案，9月7日由衛生單位安排採檢，結果皆為陰性，9/9再次採檢並確診,,,,,
-16171,female,,,,indigenous case,,#16168,,,2021-09-06,,,,2021-09-09,,,isolated,,,,個案是 16168 的妻子。,,,New Taipei City,,
+16171,female,,,,indigenous case,,#16168,,,2021-09-06,,,,2021-09-09,,,isolated,,,,個案是 16168 的妻子。,Delta,,New Taipei City,,
 16172,,,,,indigenous case,,#16167,,,,,,,2021-09-09,,,isolated,,,,個案為裝修工人。,,,Taipei City,,
 16173,male,Above 60,Taiwan,filtered at hospital,indigenous case,,,,chest pain/nausea/myalgia,2021-09-07,2021-09-08,No,,2021-09-10,,,isolated,,,,,,,,,
 16174,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,2021-09-08,Yes,,2021-09-10,,,isolated,No,,2021-08-26,,,,,,Yes
@@ -16178,4 +16178,4 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16176,male,Above 30,Turkey,filtered at hospital,imported case,Turkey,,,,2021-09-08,2021-09-08,Yes,fever/cough,2021-09-10,,,isolated,Yes,,2021-09-08,,,,,,Yes
 16177,male,Above 10,Japan,home quarantine,imported case,Japan,,,,investigating,2021-09-09,Yes,investigating,2021-09-10,,,isolated,Yes,,2021-08-27,,,,,,investigating
 16178,male,Above 30,Russia,filtered at airport,imported case,Armenia,,,,investigating,2021-09-08,Yes,investigating,2021-09-10,,,isolated,Yes,,2021-09-08,,,,,,investigating
-16179,male,Above 10,Taiwan,filtered at hospital,indigenous case,,,,chest pain/breathing difficulties,2021-09-08,2021-09-09,No,,2021-09-10,,,isolated,,,,,,,,,
+16179,male,Above 10,Taiwan,filtered at hospital,indigenous case,,,,chest pain/breathing difficulties,2021-09-08,2021-09-09,No,,2021-09-10,,,isolated,,,,,Delta,,,,
