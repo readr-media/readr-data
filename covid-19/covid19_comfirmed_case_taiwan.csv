@@ -4164,7 +4164,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4163,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 4164,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 4165,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
-4166,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
+4166,N/A,,,,N/A,,,,,,,,,,,,,,,,"After the case was examined three times, the suspected infection was eliminated.",,,,,
 4167,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 4168,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 4169,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
@@ -9259,7 +9259,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 9257,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9258,male,Above 90,Taiwan,,indigenous case,,,,lack of appetite,2021-05-27,2021-06-01,,yes,2021-06-02,,2021-06-01,deceased,Yes,,,,,y,,,
 9259,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
-9260,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
+9260,N/A,,,,N/A,,,,,,,,,,,,,,,,"After the case was examined three times, the suspected infection was eliminated.",,,,,
 9261,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9262,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
 9263,,,,,indigenous case,,,,,,,,,,,,isolated,,,,,,y,,,
@@ -15424,7 +15424,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15422,male,Above 50,Taiwan,,imported case,Indonesia,,,,2021-07-13,2021-07-12,,,2021-07-14,,,isolated,,,,,b.1.6172,,,,
 15423,male,Above 70,Taiwan,,imported case,Mauritania,,,,,2021-07-11,,,2021-07-14,,,isolated,,,,,b.1.6172,,,,
 15424,,,,,indigenous case,,,,,,,,,2021-07-14,,,isolated,,,,,,y,,,
-15425,,,,,indigenous case,,,,,,,,,2021-07-14,,,isolated,,,,,b.1.6172,y,,,
+15425,,,US,,imported case,,,,,,,,,2021-07-14,,,isolated,,,,,b.1.6172,y,,,
 15426,,,,,indigenous case,,,,,,,,,2021-07-14,,,isolated,,,,,,y,,,
 15427,,,,,indigenous case,,,,,,,,,2021-07-14,,,isolated,,,,,,y,,,
 15428,,,,,indigenous case,,,,,,,,,2021-07-14,,,isolated,,,,,,y,,,
@@ -16086,7 +16086,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16084,,,,,indigenous case,,,,,,,,,2021-08-29,,,isolated,,,,,,y,,,
 16085,,,,,indigenous case,,,,,,,,,2021-08-29,,,isolated,,,,,,y,,,
 16086,,,,,indigenous case,,,,,,,,,2021-08-29,,,isolated,,,,,,y,,,
-16087,,,,,imported case,US,,,,,,,,2021-08-29,,,isolated,,,,,,y,,,
+16087,,,,,imported case,US,,,,,,,,2021-08-29,,,isolated,,,,原為本土病例，8月30日血清抗體檢驗結果顯示為非近期感染，改判為美國境外移入,,,,,
 16088,female,Above 10,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,,,,2021-08-29,,,isolated,,,2021-08-15,,,,,,No
 16089,male,Above 50,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,,,,2021-08-29,,,isolated,,,2021-08-15,,,,,,No
 16090,male,Above 30,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,,,,2021-08-29,,,isolated,,,2021-08-15,,,,,,Yes
@@ -16118,7 +16118,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16116,female,Above 30,South Africa,home quarantine,imported case,South Africa,,,,,2021-09-01,Yes,,2021-09-02,,,isolated,,,2021-08-27,7/28於南非確診,Delta,,,,No
 16117,female,Above 50,Taiwan,home quarantine,imported case,US,,,,,2021-08-31,Yes,,2021-09-03,,,isolated,,,2021-08-31,,,,,,Yes
 16118,female,Above 30,Taiwan,home quarantine,imported case,Thailand,,,vomiting,2021-09-01,2021-09-01,Yes,,2021-09-03,,,isolated,,,2021-09-01,,Delta,,,,No
-16119,male,Above 50,Taiwan,,imported case,Australia,,pilot_eva,throat discomfort,2021-08-31,2021-09-02,Yes,,2021-09-03,,,isolated,,,2021-08-31,個案與案 16120 同班機執勤。,Delta,,,,Yes
+16119,male,Above 50,Taiwan,,imported case,Australia,,pilot_eva,throat discomfort,2021-08-31,2021-09-02,Yes,,2021-09-03,,,isolated,,,2021-08-31,個案與案 16120 同班機執勤。指揮中心後判定為航空器感染。,Delta,,,,Yes
 16120,male,Above 50,Taiwan,,imported case,US,,pilot_eva,throat discomfort,2021-08-28,2021-09-02,Yes,,2021-09-03,,,isolated,,,2021-08-31,個案與案 16119 同班機執勤。,Delta,,,,Yes
 16121,female,Above 50,Taiwan,,indigenous case,,,,cough/fever/diarrhea,2021-08-26,2021-09-02,,,2021-09-03,,,isolated,,,,,,,,,
 16122,male,Above 10,Taiwan,,indigenous case,,#16120,pilot_eva,throat discomfort,2021-09-01,2021-09-02,,,2021-09-03,,,isolated,,,,個案是案 16120 的兒子。,Delta,,,,
@@ -16131,11 +16131,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16129,female,Above 30,Taiwan,,indigenous case,,#16128,kindergarten_NewTaipei,,2021-08-27,,,,2021-09-05,,,isolated,,,,個案為 16128 的妻子，為新北某幼兒園的老師。,Delta,,New Taipei City,,
 16130,male,Above 50,Taiwan,filtered at airport,imported case,Gambia,,,cough,2021-09-01,2021-09-03,Yes,,2021-09-06,,,isolated,Yes,,2021-09-03,,Delta,,,,Yes
 16131,male,Above 20,Taiwan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-09-05,Yes,,2021-09-06,,,isolated,No,,2021-08-23,,,,,,Yes
-16132,male,Above 20,Taiwan,filtered at harbor,imported case,,,,fatigue/runny nose,2021-09-03,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,Yes
-16133,male,Above 30,Taiwan,filtered at harbor,imported case,,,,fever/nasal congestion/fatigue,2021-09-04,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,No
-16134,male,Above 40,Philippines,filtered at harbor,imported case,,,,fever/sore throat/runny nose/cough/nasal congestion,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,,,,,investigating
-16135,male,Above 50,Philippines,filtered at harbor,imported case,,,,fever/sore throat/runny nose,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,investigating
-16136,male,Above 20,Taiwan,filtered at harbor,imported case,,,,fever/chills/cough,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,No
+16132,male,Above 20,Taiwan,filtered at harbor,imported case,Japan,,boat_from_Japan,fatigue/runny nose,2021-09-03,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,Yes
+16133,male,Above 30,Taiwan,filtered at harbor,imported case,Japan,,boat_from_Japan,fever/nasal congestion/fatigue,2021-09-04,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,No
+16134,male,Above 40,Philippines,filtered at harbor,imported case,Japan,,boat_from_Japan,fever/sore throat/runny nose/cough/nasal congestion,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,,,,,investigating
+16135,male,Above 50,Philippines,filtered at harbor,imported case,Japan,,boat_from_Japan,fever/sore throat/runny nose,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,investigating
+16136,male,Above 20,Taiwan,filtered at harbor,imported case,Japan,,boat_from_Japan,fever/chills/cough,2021-09-02,2021-09-05,Yes,,2021-09-06,,,isolated,Yes,,2021-09-05,,Delta,,,,No
 16137,female,,,,indigenous case,,#16138,kindergarten_NewTaipei,,2021-08-30,,,,2021-09-06,,,isolated,,,,個案為 16138 的媽媽。,Delta,y,New Taipei City,,
 16138,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-08-28,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
 16139,,,,,indigenous case,,#16129,kindergarten_NewTaipei,,2021-09-05,,,,2021-09-06,,,isolated,,,,,Delta,y,New Taipei City,,
@@ -16162,16 +16162,16 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16160,male,Above 30,Egypt,identified as a contact,imported case,Egypt,#16145,kindergarten_NewTaipei,asymptomatic case,2021-08-23,2021-09-06,Yes,,2021-09-08,,,isolated,,,2021-08-04,個案是 16145 的父親。8月4日自埃及來臺探親，持搭機3日內檢驗陰性證明，個案入境於機場採檢結果陰性，至防疫旅館檢疫，8月16日檢疫期滿前採檢結果亦為陰性。9月6日因曾接觸確診者，由衛生單位安排採檢確診。,,,New Taipei City,,No
 16161,,,,,indigenous case,,#16143,kindergarten_NewTaipei,,2021-09-05,,,,2021-09-08,,,isolated,,,,,,,,,
 16162,male,Above 70,Taiwan,filtered at hospital,indigenous case,,,,,,2021-09-07,No,Yes,2021-09-08,,2021-09-07,deceased,,,,個案9月3日至9月6日期間多次因其他原因就醫(9月4日就醫快篩陰性)，9月7日因身體不適送醫，到院前無生命跡象，於同日死亡。,,,,,
-16163,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者。,Delta,,New Taipei City,,
-16164,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者。,,,New Taipei City,,
+16163,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者（同棟大樓鄰居）。,Delta,,New Taipei City,,
+16164,,,,,indigenous case,,#16160,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16160 的社區接觸者（同棟樓鄰居）。,,,New Taipei City,,
 16165,,,,,indigenous case,,#16141,kindergarten_NewTaipei,,2021-09-07,,,,2021-09-08,,,isolated,,,,個案是 16141 的奶奶，與個案有接觸史。,Delta,,New Taipei City,,
 16166,,,,,indigenous case,,#16140,kindergarten_NewTaipei,,2021-09-03,,,,2021-09-08,,,isolated,,,,個案是 16140 的外婆，與個案有接觸史。,,,New Taipei City,,
-16167,,,,,indigenous case,,,,,,,,,2021-09-09,,,isolated,,,,個案為裝修工人。,Delta,,Taipei City,,
-16168,male,,,,indigenous case,,#16160,,,2021-09-01,,,,2021-09-09,,,isolated,,,,個案是 16160 的社區接觸者，16171 的丈夫。,,,New Taipei City,,
+16167,,,,,indigenous case,,,,,,,,,2021-09-09,,,isolated,,,,,,,Taipei City,,
+16168,male,,,,indigenous case,,#16160,,,2021-09-01,,,,2021-09-09,,,isolated,,,,個案是 16160 的社區接觸者（裝修工人），16171 的丈夫。,Delta,,New Taipei City,,
 16169,male,Above 30,Egypt,identified as a contact,imported case,Egypt,#16160,,,2021-09-09,2021-09-07,Yes,,2021-09-09,,,isolated,,,2021-08-04,個案持有搭機前3日內檢驗陰性證明且入境後採檢及檢疫期滿前採檢結果均為陰性；由於曾接觸確診個案，9月7日由衛生單位安排採檢，結果皆為陰性，9/9再次採檢並確診,,,,,
 16170,male,Above 40,Egypt,identified as a contact,imported case,Egypt,#16160,,,2021-09-09,2021-09-07,Yes,,2021-09-09,,,isolated,,,2021-08-04,個案持有搭機前3日內檢驗陰性證明且入境後採檢及檢疫期滿前採檢結果均為陰性；由於曾接觸確診個案，9月7日由衛生單位安排採檢，結果皆為陰性，9/9再次採檢並確診,,,,,
 16171,female,,,,indigenous case,,#16168,,,2021-09-06,,,,2021-09-09,,,isolated,,,,個案是 16168 的妻子。,Delta,,New Taipei City,,
-16172,,,,,indigenous case,,#16167,,,,,,,2021-09-09,,,isolated,,,,個案為裝修工人。,,,Taipei City,,
+16172,,,,,indigenous case,,#16167,,,,,,,2021-09-09,,,isolated,,,,,,,Taipei City,,
 16173,male,Above 60,Taiwan,filtered at hospital,indigenous case,,,,chest pain/nausea/myalgia,2021-09-07,2021-09-08,No,,2021-09-10,,,isolated,,,,,,,,,
 16174,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,2021-09-08,Yes,,2021-09-10,,,isolated,No,,2021-08-26,,,,,,Yes
 16175,male,Above 30,US,filtered at airport,imported case,US,,,,,2021-09-08,Yes,,2021-09-10,,,isolated,No,,2021-09-08,,,,,,Yes
@@ -16179,3 +16179,22 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16177,male,Above 10,Japan,home quarantine,imported case,Japan,,,,investigating,2021-09-09,Yes,investigating,2021-09-10,,,isolated,Yes,,2021-08-27,,,,,,investigating
 16178,male,Above 30,Russia,filtered at airport,imported case,Armenia,,,,investigating,2021-09-08,Yes,investigating,2021-09-10,,,isolated,Yes,,2021-09-08,,,,,,investigating
 16179,male,Above 10,Taiwan,filtered at hospital,indigenous case,,,,chest pain/breathing difficulties,2021-09-08,2021-09-09,No,,2021-09-10,,,isolated,,,,,Delta,,,,
+16180,female,Above 50,South Africa,home quarantine,imported case,South Africa,,,asymptomatic case,,2021-09-09,Yes,,2021-09-11,,,isolated,No,,2021-08-27,個案6/30曾在南非確診，檢疫期滿採檢確診。,,,,,Yes
+16181,male,Above 50,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-09-09,Yes,,2021-09-11,,,isolated,No,,2021-09-09,,,,,,No
+16182,female,Above 40,Taiwan,home quarantine,imported case,Vietnam,,,headache/runny nose/cough,2021-08-18,2021-09-10,Yes,,2021-09-11,,,isolated,Yes,,2021-09-08,個案8/18在越南發病，入境採檢陰性，因症狀持續，再次採檢確診。,,,,,Yes
+16183,female,Above 20,Vietnam,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-09-09,Yes,,2021-09-11,,,isolated,No,,2021-09-09,個案7/15曾在越南確診。,,,,,No
+16184,male,Above 30,Taiwan,identified as a contact,imported case,Japan,,boat_from_Japan,fever/chest tightness/myalgia/diarrhea,2021-09-08,2021-09-10,Yes,,2021-09-11,,,isolated,Yes,,2021-09-05,個案與9/6公布之案16132至16136為 同船船員，因曾接觸確診者，於原船隻 進行居家隔離，9/8出現症狀安排採檢 後確診。,,,,,investigating
+16185,female,,,,indigenous case,,,kindergarten_NewTaipei,asymptomatic case,,,No,,2021-09-12,,,isolated,No,,,個案為16141的爺爺。,,,,,
+16186,female,Above 60,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,Yes
+16187,female,Above 20,Indonesia,filtered at airport,imported case,Indonesia,#16188,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,個案6/27在印尼檢驗陽性，與16188為同班機乘客。,,,,,Yes
+16188,female,Above 20,Indonesia,filtered at airport,imported case,Indonesia,#16187,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,個案6月在印尼檢驗陽性，與16187為同班機乘客。,,,,,Yes
+16189,male,Above 20,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,No
+16190,male,Above 20,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,No
+16191,male,Above 30,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,No
+16192,female,Above 50,Taiwan,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-09-11,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,Yes
+16193,female,Above 20,Taiwan,filtered at airport,imported case,UK,,,asymptomatic case,,2021-09-11,Yes,,2021-09-12,,,isolated,No,,2021-09-10,個案8/7曾於英國確診。,,,,,Yes
+16194,male,Above 20,Malaysia,filtered at airport,imported case,Malaysia,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,investigating
+16195,female,Above 10,Taiwan,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-09-11,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,Yes
+16196,male,Above 30,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,No
+16197,,,,,indigenous case,,,kindergarten_NewTaipei,,2021-09-07,,No,,2021-09-12,,,isolated,Yes,,,,,,,,
+16198,,,,,indigenous case,,,,,,,No,,2021-09-12,,,isolated,,,,,,,,,
