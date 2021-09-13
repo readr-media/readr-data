@@ -16198,3 +16198,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16196,male,Above 30,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-09-10,Yes,,2021-09-12,,,isolated,No,,2021-09-10,,,,,,No
 16197,,,,,indigenous case,,,kindergarten_NewTaipei,,2021-09-07,,No,,2021-09-12,,,isolated,Yes,,,,,,,,
 16198,,,,,indigenous case,,,,,,,No,,2021-09-12,,,isolated,,,,,,,,,
+16199,female,Above 50,Taiwan,identified as a contact,indigenous case,,#16197,,itchy throat,2021-09-11,2021-09-11,No,,2021-09-13,,,isolated,Yes,,,,,,,,
+16200,male,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-09-10,Yes,,2021-09-13,,,isolated,,,2021-09-10,,,,,,Yes
+16201,female,Above 20,Taiwan,home quarantine,imported case,US,,,cough/runny nose/sore throat/fever,2021-09-11,2021-09-11,Yes,,2021-09-13,,,isolated,,,2021-09-10,,,,,,investigating
+16202,male,Above 20,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-09-12,Yes,,2021-09-13,,,isolated,,,2021-08-29,,,,,,No
+16203,female,Above 60,Taiwan,identified as a contact,indigenous case,,#16179,,,2021-09-11,2021-09-11,No,,2021-09-13,,,isolated,,,,,,,,,
