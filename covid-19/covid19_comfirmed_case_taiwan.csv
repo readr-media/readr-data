@@ -16203,3 +16203,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16201,female,Above 20,Taiwan,home quarantine,imported case,US,,,cough/runny nose/sore throat/fever,2021-09-11,2021-09-11,Yes,,2021-09-13,,,isolated,,,2021-09-10,,,,,,investigating
 16202,male,Above 20,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-09-12,Yes,,2021-09-13,,,isolated,,,2021-08-29,,,,,,No
 16203,female,Above 60,Taiwan,identified as a contact,indigenous case,,#16179,,,2021-09-11,2021-09-11,No,,2021-09-13,,,isolated,,,,,,,,,
+16204,male,Above 30,Taiwan,identified as a contact,indigenous case,,#16205,kindergarten_NewTaipei,fever,2021-09-12,,No,,2021-09-14,,,isolated,,,,,,,,,
+16205,female,Under 5,Taiwan,identified as a contact,indigenous case,,#16204,kindergarten_NewTaipei,,,,No,,2021-09-14,,,isolated,,,,,,,,,
+16206,male,Above 60,Taiwan,home quarantine,imported case,Cambodia,,,fever/cough,2021-07-17,2021-09-13,Yes,,2021-09-14,,,isolated,Yes,,2021-09-01,,,,,,
+16207,female,Above 30,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-09-13,Yes,,2021-09-14,,,isolated,No,,2021-09-01,,,,,,
+16208,female,Above 50,Taiwan,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-09-13,Yes,,2021-09-14,,,isolated,No,,2021-08-20,,,,,,
