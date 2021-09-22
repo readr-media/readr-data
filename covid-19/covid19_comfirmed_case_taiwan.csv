@@ -16003,7 +16003,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16001,,,,,indigenous case,,,,,,,,,2021-08-18,,,isolated,,,,,,,,,
 16002,female,Above 50,Taiwan,home quarantine ,imported case,US,,,asymptomatic case,,2021-08-17,Yes,,2021-08-19,,,isolated,,,2021-08-17,,Delta,,,,
 16003,male,Above 20,Lithuania,home quarantine ,imported case,Lithuania,,,chest pain/fever/cough,2021-08-17,2021-08-17,Yes,,2021-08-19,,,isolated,,,2021-08-13,,Delta,,,,
-16004,male,Above 50,Taiwan,home quarantine ,imported case,Vietnam,,,sore throat/fever,2021-08-16,2021-08-18,Yes,,2021-08-19,,,isolated,,,2021-08-06,,Delta,,,,
+16004,male,Above 50,Taiwan,home quarantine ,imported case,Vietnam,,,sore throat/fever,2021-08-16,2021-08-18,Yes,,2021-08-19,,2021-09-20,deceased,,,2021-08-06,,Delta,,,,
 16005,male,Above 20,Taiwan,home quarantine ,imported case,United Arab Emirates,,,asymptomatic case,,2021-08-17,Yes,,2021-08-19,,,isolated,,,2021-08-17,,,,,,
 16006,male,Above 50,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2021-08-18,No,,2021-08-19,,,isolated,,,,,,,,,
 16007,male,Above 30,Taiwan,home quarantine ,imported case,Iran,,,vomiting/fever/cough/headache/fatigue,2021-08-17,2021-08-18,Yes,,2021-08-19,,,isolated,,,2021-08-12,,Delta,,,,
@@ -16262,3 +16262,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16260,male,Above 20,South Africa,home isolation,imported case,South Africa,,,asymptomatic case,,,Yes,,2021-09-21,,,isolated,No,,2021-09-07,,,,,,Yes
 16261,female,Above 20,Kingdom of Eswatini,home isolation,imported case,Kingdom of Eswatini,,,asymptomatic case,,,Yes,,2021-09-21,,,isolated,No,,2021-09-08,,,,,,Yes
 16262,male,Above 30,Russia,home isolation,imported case,Russia,,,asymptomatic case,,,Yes,,2021-09-21,,,isolated,No,,2021-09-07,,,,,,Yes
+16263,female,Above 30,Taiwan,identified as a contact,indigenous case,,"#16146 , #16157",,asymptomatic case,,,No,,2021-09-22,,,isolated,No,,,個案曾接觸確診個案(案16146、案16157)，於今(2021)年9月7日匡列為居家隔離，9月20日進行隔離期滿前採檢,,,,,
+16264,Taiwan,Above 30,US,home quarantine,imported case,US,,,asymptomatic case,,,Yes,,2021-09-22,,,isolated,No,,2021-09-08,,,,,,
+16265,Taiwan,Above 50,Taiwan,home quarantine,imported case,Cambodia,,,cough/runny nose,2021-09-20,,Yes,,2021-09-22,,,isolated,Yes,,2021-09-01,個案入境及檢疫期滿前採檢陰性，期滿 後續於防疫旅館進行自主健康管理， 9/20因發病安排採檢後確診,,,,,
+16266,Taiwan,Above 40,Taiwan,filtered at airport,imported case,UK,#16267 #16268 ,,asymptomatic case,,,Yes,,2021-09-22,,,isolated,No,,2021-09-20,#16266 #16267 #16268 3名個案為同行家人，入境後採檢確診。,,,,,
+16267,male,Under 10,Taiwan,filtered at airport,imported case,UK,#16266 #16268 ,,asymptomatic case,,,Yes,,2021-09-22,,,isolated,No,,2021-09-20,#16266 #16267 #16268 3名個案為同行家人，入境後採檢確診。,,,,,
+16268,male,Under 5,Taiwan,filtered at airport,imported case,UK,#16266 #16267,,asymptomatic case,,,Yes,,2021-09-22,,,isolated,No,,2021-09-20,#16266 #16267 #16268 3名個案為同行家人，入境後採檢確診。,,,,,
+16269,female,Above 30,Taiwan,identified as a contact,imported case,Myanmar,#16088,,asymptomatic case,,,Yes,,2021-09-22,,,isolated,No,,2021-08-15,個案於8/15緬甸包機返臺，因同行家人(案16088)確診之共同照護需求陪同住院，於隔離期滿前採檢確診。,,,,,
