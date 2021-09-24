@@ -16238,10 +16238,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16236,male,Above 30,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-09-16,Yes,,2021-09-18,,,isolated,No,,2021-09-15,,,,,,Yes
 16237,male,Above 40,Bengal,filtered at airport,imported case,Bengal,,,asymptomatic case,,2021-09-16,Yes,,2021-09-18,,,isolated,No,,2021-09-15,,,,,,No
 16238,male,Above 50,Taiwan,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-09-16,Yes,,2021-09-18,,,isolated,No,,2021-09-04,,,,,,No
-16239,female,Above 20,Taiwan,filtered at airport,imported case,Philippines,,,asymptomatic case,,2021-09-16,Yes,,2021-09-18,,,isolated,No,,2021-09-16,,,,,,investigating
+16239,female,Above 20,Taiwan,filtered at airport,imported case,Philippines,,,asymptomatic case,,2021-09-16,Yes,,2021-09-18,,,isolated,No,,2021-09-16,,Delta,,,,investigating
 16240,female,Above 20,Russia,home quarantine,imported case,Russia,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-05,,,,,,Yes
 16241,female,Above 30,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-05,,,,,,Yes
-16242,female,Above 20,Honduras,filtered at airport,imported case,Honduras,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-17,,,,,,Yes
+16242,female,Above 20,Honduras,filtered at airport,imported case,Honduras,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-17,,Delta,,,,Yes
 16243,male,Above 30,US,home quarantine,imported case,US,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-05,,,,,,investigating
 16244,male,Above 20,Taiwan,home quarantine,imported case,South Africa,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-05,,,,,,investigating
 16245,male,Above 50,US,home quarantine,imported case,Canada,,,asymptomatic case,,2021-09-17,Yes,,2021-09-19,,,isolated,No,,2021-09-05,,,,,,investigating
@@ -16278,3 +16278,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16276,male,Above 20,India,group quarantine,imported case,India,,,fever,2021-09-22,,Yes,,2021-09-23,,,isolated,Yes,,2021-09-21,,,,,,investigating
 16277,male,Above 40,Taiwan,filtered at airport,imported case,Kenya,,,asymptomatic case,,,Yes,,2021-09-23,,,isolated,No,,2021-09-21,個案 8月中於肯亞檢驗陽性,,,,,Yes
 16278,female,Above 30,Indonesia,hospitalized,imported case,India,,,asymptomatic case,,,Yes,,2021-09-23,,,isolated,No,,2021-09-22,個案 8/22曾於印尼確診。,,,,,No
+16279,male,Above 60,Taiwan,filtered at airport,imported case,Belize,,,asymptomatic case,,2021-09-22,Yes,,2021-09-24,,,isolated,Yes,,2021-09-22,,,,,,Yes
+16280,female,Above 20,Taiwan,group quarantine,imported case,UK,,,cough,2021-08-23,2021-09-22,Yes,,2021-09-24,,,isolated,No,,2021-09-12,,,,,,Yes
+16281,male,Above 50,Philippines,hospitalized,imported case,Philippines,,,runny nose/cough,2021-09-21,2021-09-22,Yes,,2021-09-24,,,isolated,No,,2021-09-22,,,,,,investigating
+16282,male,Above 30,Philippines,hospitalized,imported case,Philippines,,,runny nose/cough,2021-09-20,2021-09-22,Yes,,2021-09-24,,,isolated,No,,2021-09-22,,,,,,investigating
+16283,male,Above 30,Philippines,hospitalized,imported case,Philippines,,,runny nose/cough/diarrhea,2021-09-20,2021-09-22,Yes,,2021-09-24,,,isolated,No,,2021-09-22,,,,,,investigating
+16284,male,Above 60,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-09-22,Yes,,2021-09-24,,,isolated,Yes,,2021-09-22,,,,,,Yes
+16285,female,Under 10,Taiwan,filtered at airport,imported case,Japan,,,asymptomatic case,,2021-09-22,Yes,,2021-09-24,,,isolated,No,,2021-09-22,,,,,,No
+16286,female,Above 20,Taiwan,,indigenous case,,,,fever,,,,,2021-09-24,,,isolated,Yes,,,,,,,,
