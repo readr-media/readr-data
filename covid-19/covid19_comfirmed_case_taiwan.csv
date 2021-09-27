@@ -14084,7 +14084,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 14082,,,,,indigenous case,,,,,,,,,2021-06-20,,,isolated,,,,,,y,,,
 14083,,,,,indigenous case,,,,,,,,,2021-06-20,,,isolated,,,,為60多歲男性，是昨(19)日在台北某醫院篩檢站採檢，PCR結果為陽性的確診個案。該案多年沒跟家人聯絡，也沒有常住在宜蘭，因戶籍地在宜蘭，故中央列為本縣確診個案，並於今(20)早通知縣府衛生局。但從昨(19)日至今(20)日中午，台北和縣府衛生單位一直聯絡不上個案，目前已請警政單位協尋這名確診者。該案是60多歲男性，為台北市社會局列冊的街友，平常在台北市工作。他曾於6月10日從北部騎機車回宜蘭家中拜拜，並且在當地處理私事後，獨自一人住在家裡。家中沒有其他的家屬與他同住，拜拜也在家裡，第二天再騎機車回台北。6月18日他再次騎機車返回宜蘭處理私事並祭祖，之後再騎機車返回台北。6月19日由台北市社會局帶著列冊街友至中興醫院篩檢站接受採檢，當時個案的快篩為陰性，但晚上PCR結果為陽性。,,,Yilan County,,
 14084,,,,,indigenous case,,,,,,,,,2021-06-20,,,isolated,,,,,,y,,,
-14085,,,,,indigenous case,,,,,,,,,2021-06-20,,,isolated,,,,,,y,,,
+14085,female,Above 80,Taiwan,filtered at hospital,indigenous case,,,,fever,2021-06-19,2021-06-19,No,Yes,2021-06-20,,2021-09-25,deceased,Yes,,,,,,,,
 14086,male,Above 30,Taiwan,identified as a contact,indigenous case,,,,dizziness/headache,2021-06-19,,,,2021-06-20,,2021-07-08,deceased,,,,,,,,,
 14087,,,,,indigenous case,,,,,,,,,2021-06-20,,,isolated,,,,,,y,,,
 14088,,,,,indigenous case,,,,,,,,,2021-06-20,,,isolated,,,,,,y,,,
@@ -16299,3 +16299,12 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16297,female,Above 20,Taiwan,filtered at airport,imported case,United Arab Emirates,,,cough,2021-09-07,2021-09-24,Yes,,2021-09-26,,,isolated,Yes,,2021-09-24,,,,,,Yes
 16298,female,Above 20,Myanmar,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-26,,,isolated,No,,2021-09-24,,,,,,Yes
 16299,female,Above 10,Myanmar,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-26,,,isolated,No,,2021-09-24,,,,,,investigating
+16300,male,Above 20,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,No
+16301,male,Above 40,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,Yes
+16302,male,Above 20,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,Yes
+16303,female,Above 20,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,Yes
+16304,female,Above 20,Myanmar,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,Yes
+16305,male,Above 10,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,Yes
+16306,female,Under 10,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,,,,,,No
+16307,female,Above 10,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-11,,,,,,Yes
+16308,female,Above 40,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-09-25,Yes,,2021-09-27,,,isolated,No,,2021-09-24,個案與案 16304、16305、16306 為同班機乘客。,,,,,Yes
