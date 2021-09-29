@@ -16315,3 +16315,14 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16313,female,Above 30,Taiwan,home quarantine,imported case,US,,,throat discomfort/cough/runny nose,2021-09-24,2021-09-27,Yes,,2021-09-28,,,isolated,Yes,,2021-09-26,,,,,,Yes
 16314,male,Above 50,Taiwan,filtered at airport,imported case,Singapore,,,Fever/cough,2021-09-23,2021-09-26,Yes,,2021-09-28,,,isolated,Yes,,2021-09-26,,,,,,Yes
 16315,male,Above 50,Taiwan,,indigenous case,,,,asymptomatic case,,2021-09-27,No,,2021-09-28,,,isolated,No,,,,,,,,No
+16316,male,Above 40,Taiwan,filtered at hospital,imported case,US,,,asymptomatic case,,2021-09-27,Yes,,2021-09-29,,,isolated,No,,2021-09-03,,,,,,Yes
+16317,male,Above 40,Taiwan,filtered at airport,imported case,Kazakhstan,,,asymptomatic case,,2021-09-26,Yes,,2021-09-29,,,isolated,No,,2021-09-26,,,,,,Yes
+16318,male,Above 40,Taiwan,filtered at airport,imported case,Kazakhstan,,,asymptomatic case,,2021-09-26,Yes,,2021-09-29,,,isolated,No,,2021-09-26,,,,,,Yes
+16319,male,Above 30,Pakistan,home quarantine,imported case,Pakistan,,,asymptomatic case,,2021-09-27,Yes,,2021-09-29,,,isolated,No,,2021-09-15,,,,,,Yes
+16320,female,Above 20,Taiwan,filtered at quarantine station,imported case,Cambodia,,,cough/runny nose,2021-09-22,2021-09-28,Yes,,2021-09-29,,,isolated,Yes,,2021-09-26,,,,,,Yes
+16321,male,Above 30,Philippines,filtered at harbor,imported case,Investigating,,,asymptomatic case,,2021-09-28,,,2021-09-29,,,isolated,No,,2021-09-28,,,,,,investigating
+16322,male,Above 40,Indonesia,filtered at harbor,imported case,Investigating,,,asymptomatic case,,2021-09-28,,,2021-09-29,,,isolated,No,,2021-09-28,,,,,,investigating
+16323,male,Above 40,Indonesia,filtered at harbor,imported case,Investigating,,,asymptomatic case,,2021-09-28,,,2021-09-29,,,isolated,No,,2021-09-28,,,,,,investigating
+16324,male,Above 20,Taiwan,filtered at airport,imported case,Russia,,,asymptomatic case,,2021-09-27,Yes,,2021-09-29,,,isolated,No,,2021-09-27,,,,,,investigating
+16325,male,Above 40,Taiwan,filtered at airport,imported case,Philippines,,,asymptomatic case,,2021-09-27,Yes,,2021-09-29,,,isolated,No,,2021-09-27,,,,,,Yes
+16326,female,Above 30,Indonesia,,indigenous case,,,,headache,2021-09-27,2021-09-28,No,,2021-09-29,,,isolated,Yes,,,,,,,,
