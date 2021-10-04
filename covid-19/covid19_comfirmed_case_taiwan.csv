@@ -15919,7 +15919,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 15917,,,,,indigenous case,,,,,,,,,2021-08-11,,,isolated,,,,,,y,,,
 15918,,,,,indigenous case,,,,,,,,,2021-08-11,,,isolated,,,,,,y,,,
 15919,,,,,indigenous case,,,,,,,,,2021-08-11,,,isolated,,,,,,y,,,
-15920,,,,,indigenous case,,,,,,,,,2021-08-11,,,isolated,,,,,,y,,,
+15920,male,Above 70,Taiwan,,indigenous case,,,,,,2021-08-10,,,2021-08-11,,2021-10-02,deceased,,,,因其他原因死亡,,y,,,
 15921,male,Above 40,UK,filtered at airport,imported case,UK,,,asymptomatic case,,2021-08-09,Yes,,2021-08-11,,,isolated,No,,2021-08-09,,,,,,yes
 15922,male,Above 20,UK,filtered at airport,imported case,UK,,,asymptomatic case,,2021-08-09,Yes,,2021-08-11,,,isolated,No,,2021-08-09,,,,,,investigating
 15923,,,,,indigenous case,,,,,,,,,2021-08-12,,,isolated,,,,,,,,,
@@ -16360,3 +16360,8 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16358,male,Above 10,UK,home quarantine,imported case,UK,,,asymptomatic case,,,Yes,,2021-10-03,,,isolated,No,,2021-09-19,,,,,,investigating
 16359,male,Above 30,Taiwan,group quarantine,imported case,Taiwan,,,asymptomatic case,,,Yes,,2021-10-03,,,isolated,No,,2021-10-01,,,,,,investigating
 16360,male,Above 20,Malaysia,home quarantine,imported case,Malaysia,,,investigating,,,Yes,,2021-10-03,,,isolated,,,2021-09-19,,,,,,investigating
+16361,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,stomach upset,2021-10-02,2021-10-02,Yes,,2021-10-04,,,isolated,Yes,,2021-10-01,,,,,,
+16362,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-02,Yes,,2021-10-04,,,isolated,No,,2021-10-01,,,,,,
+16363,male,Above 30,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-02,Yes,,2021-10-04,,,isolated,No,,2021-10-02,,,,,,
+16364,male,Above 20,Belize,home quarantine,imported case,Belize,,,cough/lose their ability to smell and taste,2021-09-22,2021-10-02,Yes,,2021-10-04,,,isolated,Yes,,2021-09-22,,,,,,
+16365,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-04,,,isolated,No,,2021-09-20,,,,,,
