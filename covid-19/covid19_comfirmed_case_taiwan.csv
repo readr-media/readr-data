@@ -16360,8 +16360,20 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16358,male,Above 10,UK,home quarantine,imported case,UK,,,asymptomatic case,,,Yes,,2021-10-03,,,isolated,No,,2021-09-19,,,,,,investigating
 16359,male,Above 30,Taiwan,group quarantine,imported case,Taiwan,,,asymptomatic case,,,Yes,,2021-10-03,,,isolated,No,,2021-10-01,,,,,,investigating
 16360,male,Above 20,Malaysia,home quarantine,imported case,Malaysia,,,investigating,,,Yes,,2021-10-03,,,isolated,,,2021-09-19,,,,,,investigating
-16361,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,stomach upset,2021-10-02,2021-10-02,Yes,,2021-10-04,,,isolated,Yes,,2021-10-01,,,,,,
-16362,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-02,Yes,,2021-10-04,,,isolated,No,,2021-10-01,,,,,,
-16363,male,Above 30,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-02,Yes,,2021-10-04,,,isolated,No,,2021-10-02,,,,,,
-16364,male,Above 20,Belize,home quarantine,imported case,Belize,,,cough/lose their ability to smell and taste,2021-09-22,2021-10-02,Yes,,2021-10-04,,,isolated,Yes,,2021-09-22,,,,,,
-16365,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-04,,,isolated,No,,2021-09-20,,,,,,
+16361,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,stomach upset,2021-10-02,2021-10-02,Yes,,2021-10-04,,,isolated,Yes,,2021-10-01,,,,,,Yes
+16362,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-02,Yes,,2021-10-04,,,isolated,No,,2021-10-01,,,,,,Yes
+16363,male,Above 30,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-02,Yes,,2021-10-04,,,isolated,No,,2021-10-02,,,,,,Yes
+16364,male,Above 20,Belize,home quarantine,imported case,Belize,,,cough/lose their ability to smell and taste,2021-09-22,2021-10-02,Yes,,2021-10-04,,,isolated,Yes,,2021-09-22,,,,,,Yes
+16365,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-04,,,isolated,No,,2021-09-20,,,,,,Yes
+16366,female,Above 30,Taiwan,group quarantine,imported case,US,,,cough/runny nose,2021-09-30,2021-10-03,Yes,,2021-10-05,,,isolated,Yes,,2021-10-03,,,,,,Yes
+16367,female,Above 20,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-05,,,isolated,No,,2021-10-03,,,,,,Yes
+16368,male,Above 40,Taiwan,home quarantine,imported case,Vietnam,,,asymptomatic case,,2021-10-01,Yes,,2021-10-05,,,isolated,No,,2021-10-01,,,,,,Yes
+16369,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-05,,,isolated,No,,2021-10-03,,,,,,Yes
+16370,male,Above 60,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-05,,,isolated,No,,2021-10-03,,,,,,Yes
+16371,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-03,Yes,,2021-10-05,,,isolated,No,,2021-09-21,,,,,,Yes
+16372,male,Above 10,Malaysia,home quarantine,imported case,Malaysia,,,investigating,,2021-10-03,Yes,,2021-10-05,,,isolated,,,2021-10-03,,,,,,investigating
+16373,female,Above 20,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-04,Yes,,2021-10-06,,,isolated,No,,2021-09-22,,,,,,Yes
+16374,female,Above 30,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-04,Yes,,2021-10-06,,,isolated,No,,2021-09-22,,,,,,Yes
+16375,male,Above 40,South Africa,home quarantine,imported case,South Africa,,,asymptomatic case,,2021-10-05,Yes,,2021-10-06,,,isolated,No,,2021-09-14,,,,,,No
+16376,female,Above 30,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-05,Yes,,2021-10-06,,,isolated,No,,2021-09-22,,,,,,investigating
+16377,female,Above 40,Taiwan,home quarantine,imported case,investigating,,,asymptomatic case,,2021-10-05,Yes,,2021-10-06,,,isolated,No,,2021-09-26,,,,,,Yes
