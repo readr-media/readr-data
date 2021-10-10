@@ -16396,4 +16396,11 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16394,female,Above 50,US,,imported case,US,,,asymptomatic case,,2021-10-06,Yes,,2021-10-09,,,isolated,,,2021-10-06,,,,,,Yes
 16395,male,Under 10,Taiwan,,imported case,Myanmar,,,asymptomatic case,,2021-10-07,Yes,,2021-10-09,,,isolated,,,2021-09-24,,,,,,No
 16396,female,Under 5,Taiwan,hospitalized,indigenous case,,,,fever/diarrhea,2021-10-05,2021-10-07,,,2021-10-09,,,isolated,Yes,,,,,,,,
-16397,female,Above 20,Taiwan,,imported case,US,,,palpitation/shortness of breath,2021-10-08,2021-10-08,Yes,,2021-10-09,,,isolated,,,2021-09-27,,,,,,Yes
+16397,female,Above 20,Taiwan,,imported case,US,,,palpitation/shortness of breath,2021-10-08,2021-10-08,Yes,,2021-10-09,,,isolated,Yes,,2021-09-27,,,,,,Yes
+16398,female,Above 10,Myanmar,group quarantine,imported case,Myanmar,,,asymptomatic case,,2021-10-08,Yes,,2021-10-10,,,isolated,No,,2021-10-07,,,,,,No
+16399,male,Above 20,Myanmar,group quarantine,imported case,Myanmar,,,asymptomatic case,,2021-10-08,Yes,,2021-10-10,,,isolated,No,,2021-10-07,,,,,,Yes
+16400,male,Above 10,Myanmar,group quarantine,imported case,Myanmar,,,asymptomatic case,,2021-10-08,Yes,,2021-10-10,,,isolated,No,,2021-10-07,,,,,,Yes
+16401,male,Above 10,Myanmar,group quarantine,imported case,Myanmar,,,asymptomatic case,,2021-10-08,Yes,,2021-10-10,,,isolated,No,,2021-10-07,,,,,,No
+16402,male,Above 30,Taiwan,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-09,Yes,,2021-10-10,,,isolated,No,,2021-10-08,,,,,,Yes
+16403,male,Above 30,Indonesia,home quarantine,imported case,Malaysia,,,asymptomatic case,,2021-10-09,Yes,,2021-10-10,,,isolated,No,,2021-09-27,,,,,,Yes
+16404,male,Above 40,Taiwan,home quarantine,imported case,Singapore,,,fever/cough,2021-10-08,2021-10-08,Yes,,2021-10-10,,,isolated,Yes,,2021-10-08,,,,,,Yes
