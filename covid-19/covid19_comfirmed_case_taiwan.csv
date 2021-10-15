@@ -16393,7 +16393,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16391,female,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-07,Yes,,2021-10-08,,,isolated,,,2021-10-06,,,,,,investigating
 16392,male,Above 50,Taiwan,group quarantine,imported case,Myanmar,,,lack of appetite/fever/lose their ability to smell and taste,2021-07-15,2021-10-07,Yes,,2021-10-08,,,isolated,,,2021-09-24,,,,,,No
 16393,female,Above 60,Taiwan,group quarantine,imported case,Myanmar,,,asymptomatic case,,2021-10-07,Yes,,2021-10-08,,,isolated,No,,2021-09-24,,,,,,No
-16394,female,Above 50,US,,imported case,US,,,asymptomatic case,,2021-10-06,Yes,,2021-10-09,,,isolated,,,2021-10-06,,,,,,Yes
+16394,female,Above 50,US,,imported case,US,,,asymptomatic case,,2021-10-06,Yes,,2021-10-09,,,isolated,,,2021-10-06,,Delta,,,,Yes
 16395,male,Under 10,Taiwan,,imported case,Myanmar,,,asymptomatic case,,2021-10-07,Yes,,2021-10-09,,,isolated,,,2021-09-24,,,,,,No
 16396,female,Under 5,Taiwan,hospitalized,indigenous case,,,,fever/diarrhea,2021-10-05,2021-10-07,,,2021-10-09,,,isolated,Yes,,,,,,,,
 16397,female,Above 20,Taiwan,,imported case,US,,,palpitation/shortness of breath,2021-10-08,2021-10-08,Yes,,2021-10-09,,,isolated,Yes,,2021-09-27,,,,,,Yes
@@ -16412,7 +16412,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16410,male,Above 50,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-10-09,Yes,,2021-10-11,,,isolated,No,,2021-09-27,,,,,,Yes
 16411,female,Above 40,Taiwan,filtered at hospital,indigenous case,,,,cough,2021-05,2021-10-09,No,,2021-10-11,,,isolated,Yes,,,個案為台北市內湖區幼兒園員工，因其他原因就醫採檢確診。個案表示五月曾有咳嗽症狀。指揮中心就其 CT 值及疫調研判其為舊案。個案二採為陰性。個案七月時有接種過一劑莫德納疫苗。,,,New Taipei City,,Yes
 16412,male,Above 40,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-10,Yes,,2021-10-11,,,isolated,No,,2021-09-28,,,,,,Yes
-16413,male,Above 30,Singapore,filtered at airport,imported case,Singapore,,,asymptomatic case,,2021-10-09,Yes,,2021-10-11,,,isolated,No,,2021-10-09,,,,,,investigating
+16413,male,Above 30,Singapore,filtered at airport,imported case,Singapore,,,asymptomatic case,,2021-10-09,Yes,,2021-10-11,,,isolated,No,,2021-10-09,,Delta,,,,investigating
 16414,female,Above 20,Mongolia,filtered at airport,imported case,Mongolia,#16415,,asymptomatic case,,2021-10-10,Yes,,2021-10-11,,,isolated,No,,2021-10-09,個案曾於 8 月在蒙古確診，與 16415 為同班機乘客。,,,,,Yes
 16415,female,Above 20,Mongolia,filtered at airport,imported case,Mongolia,#16414,,asymptomatic case,,2021-10-10,Yes,,2021-10-11,,,isolated,No,,2021-10-09,個案曾於 8 月在蒙古確診，與 16414 為同班機乘客。,,,,,Yes
 16416,male,Above 30,Bulgaria,home quarantine,imported case,Bulgaria,,,asymptomatic case,,2021-10-10,Yes,,2021-10-12,,,isolated,No,,2021-09-28,,,,,,No
@@ -16420,7 +16420,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16418,female,Above 20,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-10,Yes,,2021-10-12,,,isolated,No,,2021-09-28,7 月份接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
 16419,female,Above 20,Taiwan,home quarantine,imported case,US,,,investigating,investigating,2021-10-10,Yes,,2021-10-12,,,isolated,investigating,,2021-09-28,,,,,,investigating
 16420,male,Above 20,Taiwan,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-10-12,Yes,,2021-10-13,,,isolated,No,,2021-09-29,個案接種過一劑嬌生，屬於突破性感染。,,,,,Yes
-16421,male,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-10-11,Yes,,2021-10-13,,,isolated,No,,2021-10-11,個案接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16421,male,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-10-11,Yes,,2021-10-13,,,isolated,No,,2021-10-11,個案接種過兩劑 BNT，屬於突破性感染。,Delta,,,,Yes
 16422,male,Above 30,US,group quarantine,imported case,US,,,headache/sore throat/fever,,2021-10-12,Yes,,2021-10-13,,,isolated,Yes,,2021-10-08,個案接種過一劑嬌生，屬於突破性感染。,,,,,Yes
 16423,female,Above 50,Taiwan,self-financed testing,imported case,Indonesia,,,asymptomatic case,,2021-10-12,Yes,,2021-10-13,,,isolated,No,,2021-09-17,個案接種過兩劑 AZ，兩劑之間於 7 月份在印尼確診，屬於突破性感染。入境及檢疫期滿採檢均為陰性。10/12 因為工作需求自費採檢確診。,,,,,Yes
 16424,female,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-10-12,Yes,,2021-10-14,,,isolated,No,,2021-10-12,個案混打 AZ、BNT，屬於突破性感染。,,,,,Yes
@@ -16431,3 +16431,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16429,male,Above 10,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-10-12,Yes,,2021-10-14,,,isolated,No,,2021-09-29,個案接種過兩劑 AZ，屬於突破性感染。,,,,,Yes
 16430,male,Above 40,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-10-12,Yes,,2021-10-14,,,isolated,No,,2021-09-30,,,,,,No
 16431,female,Above 20,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,2021-10-11,Yes,,2021-10-14,,,isolated,No,,2021-10-11,個案接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16432,female,Above 10,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-10-14,Yes,,2021-10-15,,,isolated,No,,2021-10-13,個案接種過兩劑科興疫苗，屬於突破性感染。,,,,,Yes
+16433,male,Above 30,US,home quarantine,imported case,US,,,asymptomatic case,,2021-10-13,Yes,,2021-10-15,,,isolated,No,,2021-10-01,個案曾於 7 月在美國確診，接種過兩劑莫德納疫苗，屬於突破性感染。,,,,,Yes
+16434,female,Above 20,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-10-14,Yes,,2021-10-15,,,isolated,No,,2021-10-02,個案接種過一劑嬌生，屬於突破性感染。,,,,,Yes
+16435,female,Above 20,Mongolia,home quarantine,imported case,Mongolia,,,asymptomatic case,,2021-10-14,Yes,,2021-10-15,,,isolated,No,,2021-10-01,個案接種過兩劑科興疫苗，屬於突破性感染。,,,,,Yes
