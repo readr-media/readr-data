@@ -16435,3 +16435,14 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16433,male,Above 30,US,home quarantine,imported case,US,,,asymptomatic case,,2021-10-13,Yes,,2021-10-15,,,isolated,No,,2021-10-01,個案曾於 7 月在美國確診，接種過兩劑莫德納疫苗，屬於突破性感染。,,,,,Yes
 16434,female,Above 20,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-10-14,Yes,,2021-10-15,,,isolated,No,,2021-10-02,個案接種過一劑嬌生，屬於突破性感染。,,,,,Yes
 16435,female,Above 20,Mongolia,home quarantine,imported case,Mongolia,,,asymptomatic case,,2021-10-14,Yes,,2021-10-15,,,isolated,No,,2021-10-01,個案接種過兩劑科興疫苗，屬於突破性感染。,,,,,Yes
+16436,male,Above 20,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-02,個案曾於 8 月在美國確診，接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16437,male,Above 20,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-01,個案接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16438,male,Above 10,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-13,,,,,,Yes
+16439,male,Above 20,Malaysia,home quarantine,imported case,Malaysia,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-01,個案接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16440,female,Above 10,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-14,個案接種過兩劑科興疫苗，屬於突破性感染。,,,,,Yes
+16441,female,Above 10,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-14,個案曾於 8 月在菲律賓確診，接種過一劑嬌生，屬於突破性感染。,,,,,Yes
+16442,male,Above 50,UK,filtered at airport,imported case,UK,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-14,個案接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16443,female,Above 40,Taiwan,home quarantine,imported case,US,,,dizziness/vomiting/nausea,,2021-10-14,Yes,,2021-10-16,,,isolated,Yes,,2021-10-10,個案接種過兩劑 BNT，屬於突破性感染。,,,,,Yes
+16444,female,Above 20,Taiwan,identified as a contact,imported case,US,,,asymptomatic case,,,Yes,,2021-10-16,,,isolated,No,,2021-10-03,個案曾於 8 月在美國確診。10/4 因同班機乘客確診，轉列為居家隔離對象，在隔離期滿採檢確診。,,,,,Yes
+16445,male,Above 20,Taiwan,filtered at airport,imported case,Cambodia,,,fever/headache/runny nose,,2021-10-13,Yes,,2021-10-16,,,isolated,Yes,,2021-10-13,,,,,,investigating
+16446,female,Above 30,Indonesia,self-financed testing,indigenous case,Indonesia,,,asymptomatic case,,2021-10-15,No,,2021-10-16,,,isolated,No,,,指揮中心推測個案與 5 月多新北職場群聚感染有關。個案當時被擴大匡列採檢，但因採檢為陰性，未隔離。,,,New Taipei City,,
