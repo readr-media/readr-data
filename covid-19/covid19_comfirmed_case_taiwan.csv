@@ -16516,3 +16516,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16514,male,Above 20,Taiwan,filtered at hospital,imported case,Spain,,,asymptomatic case,,2021-10-28,Yes,,2021-10-30,,,isolated,No,,2021-09-03,,,,,,Yes
 16515,female,Above 30,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-10-29,Yes,,2021-10-30,,,isolated,No,,2021-10-17,,,,,,Yes
 16516,female,Above 20,Taiwan,filtered at airport,imported case,UK,,,asymptomatic case,,2021-10-29,Yes,,2021-10-30,,,isolated,No,,2021-10-28,,,,,,Yes
+16517,male,Above 20,Russia,filtered at airport,imported case,Russia,,,asymptomatic case,,2021-10-28,Yes,,2021-10-31,,,isolated,No,,2021-10-28,,,,,,No
+16518,female,Above 20,Taiwan,filtered at airport,imported case,US,,,fever,2021-10-30,2021-10-30,Yes,,2021-10-31,,,isolated,Yes,,2021-10-30,,,,,,Yes
+16519,male,Above 50,Taiwan,filtered at airport,imported case,Myanmar,,,Investigating,,2021-10-30,Yes,,2021-10-31,,,isolated,No,,2021-10-29,,,,,,investigating
+16520,male,Above 40,Indonesia,filtered at harbor,imported case,Investigating,,,Investigating,,2021-10-30,,,2021-10-31,,,isolated,,,,,,,,,investigating
+16521,male,Above 60,Taiwan,home quarantine,imported case,Thailand,,,throat discomfort,,2021-10-30,Yes,,2021-10-31,,,isolated,Yes,,2021-10-17,,,,,,No
+16522,female,Above 20,Taiwan,filtered at quarantine station,imported case,UK,,,asymptomatic case,,2021-10-30,Yes,,2021-10-31,,,isolated,No,,2021-10-17,,,,,,Yes
