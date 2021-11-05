@@ -16538,3 +16538,12 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16536,female,Above 20,Taiwan,home quarantine,imported case,Thailand,,,asymptomatic case,,2021-11-01,Yes,,2021-11-03,,,isolated,No,,2021-10-20,,,,,,Yes
 16537,female,Above 20,Taiwan,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-11-01,Yes,,2021-11-03,,,isolated,No,,2021-10-20,,,,,,No
 16538,female,Above 30,Philippines,filtered at airport,imported case,Philippines,,,asymptomatic case,,2021-11-02,Yes,,2021-11-03,,,isolated,No,,2021-11-01,,,,,,No
+16539,male,Above 30,Taiwan,hospitalized,indigenous case,,,,lack of appetite/fatigue/fever/shortness of breath,2021-10-19,2021-11-02,No,,2021-11-04,,,isolated,Yes,,,,,,,,Yes
+16540,male,Above 20,Taiwan,home quarantine,imported case,Italy,,,asymptomatic case,,2021-11-02,Yes,,2021-11-04,,,isolated,No,2021-05,2021-11-02,,,,,,
+16541,male,Above 40,Taiwan,filtered at airport,imported case,France,,,itchy throat,,,2021-11-03,,2021-11-05,,,isolated,No,,2021-11-03,,,,,,Yes
+16542,female,Under 10,Taiwan,home quarantine,imported case,Thailand,,,asymptomatic case,,,2021-11-03,,2021-11-05,,,isolated,Yes,,2021-10-22,,,,,,No
+16543,male,Above 40,Taiwan,filtered at airport,imported case,Singapore,,,runny nose,,,2021-11-03,,2021-11-05,,,isolated,No,,2021-11-03,,,,,,Yes
+16544,male,Above 20,Vietnam,home quarantine,imported case,Vietnam,,,asymptomatic case,,,2021-11-04,,2021-11-05,,,isolated,Yes,,2021-10-22,,,,,,Yes
+16545,male,Above 10,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,,2021-11-04,,2021-11-05,,,isolated,No,,2021-10-22,,,,,,No
+16546,male,Above 40,Taiwan,filtered at airport,imported case,Myanmar,,,investigating,,,2021-11-03,,2021-11-05,,,isolated,No,,2021-11-03,,,,,,Yes
+16547,female,Above 30,Indonesia,home isolation,indigenous case,,,,,,2021-11-04,No,,2021-11-05,,,isolated,,,,,,,,,Yes
