@@ -8723,7 +8723,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 8721,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
 8722,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
 8723,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
-8724,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
+8724,female,Above 90,Taiwan,identified as a contact,indigenous case,,,,fever/sore throat,2021-05-24,2021-05-30,No,Yes,2021-06-01,2021-07-26,2021-10-11,deceased,,,,個案癌症併發心、肺、腎衰竭。,,,,,
 8725,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
 8726,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
 8727,,,,,indigenous case,,,,,,,,,2021-06-01,,,isolated,,,,,,y,,,
@@ -16546,13 +16546,19 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16544,male,Above 20,Vietnam,home quarantine,imported case,Vietnam,,,asymptomatic case,,2021-11-04,Yes,,2021-11-05,,,isolated,Yes,,2021-10-22,,,,,,Yes
 16545,male,Above 10,Japan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-11-04,Yes,,2021-11-05,,,isolated,No,,2021-10-22,,,,,,No
 16546,male,Above 40,Taiwan,filtered at airport,imported case,Myanmar,,,investigating,,2021-11-03,Yes,,2021-11-05,,,isolated,No,,2021-11-03,,,,,,Yes
-16547,female,Above 30,Indonesia,home isolation,indigenous case,,,,,,2021-11-04,No,,2021-11-05,,,isolated,,,,,,,,,Yes
+16547,N/A,,,,N/A,,,,,,,,,2021-07-09,,,isolated,,,,經評估「個案無症狀且一採PCR陽性(CT=40)檢體經疾管署昆陽實驗室複驗為陰性、二及三採檢體經昆陽實驗室檢驗PCR陰性、7名家戶接觸者PCR陰性/anti-N抗體陰性且無症狀」，指揮中心決定案16547排除感染並同步銷號。,,,,,
 16548,female,Above 30,Taiwan,self-financed testing,imported case,US,,,asymptomatic case,,2021-11-05,Yes,,2021-11-06,,,isolated,No,,2021-08-17,,,,,,
 16549,male,Above 10,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-11-04,Yes,,2021-11-06,,,isolated,No,,2021-11-04,,,,,,
 16550,male,Above 20,Federation of Saint Christopher and Nevis,group quarantine,imported case,Federation of Saint Christopher and Nevis,,,investigating,investigating,2021-11-06,Yes,,2021-11-07,,,isolated,,,2021-10-24,,,,,,Yes
 16551,female,Above 10,US,filtered at airport,imported case,Mongolia,,,asymptomatic case,,2021-11-05,Yes,,2021-11-07,,,isolated,No,,2021-11-05,,,,,,Yes
 16552,female,Above 30,Vietnam,filtered at airport,imported case,Vietnam,,,investigating,investigating,2021-11-05,Yes,,2021-11-07,,,isolated,,,2021-11-05,,,,,,investigating
 16553,male,Above 10,Malaysia,filtered at airport,imported case,Malaysia,,,investigating,investigating,2021-11-06,Yes,,2021-11-07,,,isolated,,,2021-11-05,,,,,,Yes
-16554,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-06,Yes,,2021-11-08,,,isolated,No,,2021-10-24,,,,,,Yes
+16554,male,Above 20,Indonesia,group quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-06,Yes,,2021-11-08,,,isolated,No,,2021-10-24,個案接種過一劑 AZ 疫苗。,,,,,Yes
 16555,male,Above 40,Taiwan,filtered at airport,imported case,Myanmar,,,asymptomatic case,,2021-11-06,Yes,,2021-11-08,,,isolated,No,,2021-11-06,個案曾於 7 月在緬甸確診。,,,,,No
-16556,female,Above 10,Saint Lucia,home quarantine,imported case,Saint Lucia,,,asymptomatic case,,2021-11-06,Yes,,2021-11-08,,,isolated,No,,2021-10-24,,,,,,Yes
+16556,female,Above 10,Saint Lucia,home quarantine,imported case,Saint Lucia,,,asymptomatic case,,2021-11-06,Yes,,2021-11-08,,,isolated,No,,2021-10-24,個案接種過兩劑 AZ 疫苗，屬於突破性感染。,,,,,Yes
+16557,male,Above 30,Thailand,filtered at airport,imported case,Thailand,,,asymptomatic case,,2021-11-06,Yes,,2021-11-09,,,isolated,No,,2021-11-06,個案於 7 月、8 月接種兩劑國藥疫苗，屬於突破性感染。,,,,,
+16558,female,Above 20,Ukraine,filtered at airport,imported case,Ukraine,,,cough/breathing difficulties,2021-11-08,2021-11-07,Yes,,2021-11-09,,,isolated,Yes,,2021-11-07,,,,,,
+16559,male,Above 50,UK,home quarantine,imported case,South Africa,,,asymptomatic case,,2021-11-07,Yes,,2021-11-09,,,isolated,No,,2021-10-26,個案於 5 月、7 月接種兩劑 AZ 疫苗，屬於突破性感染。,,,,,
+16560,male,Above 20,Vietnam,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-11-06,Yes,,2021-11-09,,,isolated,No,,2021-11-05,,,,,,
+16561,male,Above 30,Taiwan,filtered at hospital,imported case,United Arab Emirates,,,runny nose/sore throat/diarrhea/myalgia,2021-11-06,2021-11-08,Yes,,2021-11-09,,,isolated,Yes,,2021-11-03,,,,,,
+16562,female,Above 50,US,home quarantine,imported case,US,,,asymptomatic case,,2021-11-08,Yes,,2021-11-09,,,isolated,No,,2021-10-27,,,,,,
