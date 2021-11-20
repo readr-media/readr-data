@@ -16617,7 +16617,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16615,male,Above 30,Poland,filtered at airport,imported case,Poland,,,asymptomatic case,,2021-11-18,Yes,,2021-11-18,,,isolated,No,,2021-11-15,,,,,,No
 16616,male,Above 20,Taiwan,filtered at airport,imported case,Germany,,,asymptomatic case,,2021-11-18,Yes,,2021-11-18,,,isolated,No,,2021-11-17,個案 10月曾於德國確診,,,,,No
 16617,female,Above 30,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-18,Yes,,2021-11-18,,,isolated,No,,2021-11-03,,,,,,Yes
-16618,male,Above 20,Taiwan,home quarantine,imported case,Myanmar,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-05,,,,,,Yes
+16618,male,Above 20,Taiwan,home quarantine,imported case,Cambodia,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-05,,,,,,Yes
 16619,female,Above 10,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-05,,,,,,Yes
 16620,female,Above 10,Mongolia,home quarantine,imported case,Mongolia,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-05,個案 9月曾於蒙古確診,,,,,Yes
 16621,male,Above 20,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-17,個案 7月曾於印尼確診。,,,,,No
@@ -16627,3 +16627,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16625,female,Above 10,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-17,,,,,,Yes
 16626,female,Above 30,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-11-05,,,,,,Yes
 16627,male,Above 20,Taiwan,hospitalized,imported case,Poland,,,asymptomatic case,,2021-11-19,Yes,,2021-11-19,,,isolated,No,,2021-04-23,個案 3月曾於波蘭確診。因其它原因就醫後採檢確診(住 院後採檢之核酸檢驗陰性，血清抗體IgM陰性、 IgG陽性)；,,,,,No
+16628,female,Above 20,Myanmar,filtered at airport,imported case,Myanmar,,,headache/dizziness,2021-11-18,2021-11-20,Yes,,2021-11-20,,,isolated,Yes,,2021-11-18,,,,,,No
+16629,male,Above 30,Taiwan,filtered at airport,imported case,Vietnam,,,fatigue/runny nose/dizziness,2021-11-18,2021-11-20,Yes,,2021-11-20,,,isolated,Yes,,2021-11-18,,,,,,Yes
+16630,male,Above 20,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-11-20,Yes,,2021-11-20,,,isolated,No,,2021-11-18,,,,,,Yes
+16631,female,Above 20,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-20,Yes,,2021-11-20,,,isolated,No,,2021-11-05,,,,,,Yes
