@@ -16701,14 +16701,22 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16699,male,Above 10,Vietnam,filtered at airport,imported case,Vietnam,,,asymptomatic case,,,Yes,,2021-11-28,,,isolated,No,,2021-11-26,,,,,,No,,
 16700,male,Above 20,Vietnam,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-11-26,Yes,,2021-11-29,,,isolated,No,,2021-11-26,個案 11 月曾於越南確診。,,,,,Yes,AZ(2),yes
 16701,male,Above 60,Vietnam,filtered at airport,imported case,Vietnam,,,itchy throat,2021-11-26,2021-11-26,Yes,,2021-11-29,,,isolated,Yes,,2021-11-26,,,,,,Yes,BNT(2),yes
-16702,male,Above 10,Vietnam,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-11-26,Yes,,2021-11-29,,,isolated,No,,2021-11-26,,,,,,No,,No
+16702,male,Above 10,Vietnam,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-11-26,Yes,,2021-11-29,,,isolated,No,,2021-11-26,,,,,,No,,no
 16703,female,Above 10,Vietnam,filtered at airport,imported case,Vietnam,,,chills/nasal congestion,2021-11-27,2021-11-26,Yes,,2021-11-29,,,isolated,Yes,,2021-11-26,,,,,,Yes,國藥(2),yes
 16704,male,Above 10,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-28,Yes,,2021-11-29,,,isolated,No,,2021-11-15,,,,,,Yes,BNT(2),yes
 16705,male,Above 20,Cambodia,home quarantine,imported case,Cambodia,,,asymptomatic case,,2021-11-28,Yes,,2021-11-29,,,isolated,No,,2021-11-15,,,,,,Yes,科興(2),investigating
 16706,male,Above 10,Cambodia,home quarantine,imported case,Cambodia,,,asymptomatic case,,2021-11-28,Yes,,2021-11-29,,,isolated,No,,2021-11-15,,,,,,Yes,科興(2),investigating
 16707,male,Above 30,Taiwan,home quarantine,imported case,Taiwan,,,itchy throat,2021-11-28,2021-11-28,Yes,,2021-11-29,,,isolated,Yes,,2021-11-23,個案為華航機師。發病日剛好在居家檢疫 5+9 期滿時，採檢確診。執勤都是直飛美國洛杉磯，目前研判是美國境外移入。,,,,,Yes,AZ(2),yes
 16708,male,Above 20,Taiwan,filtered at airport,imported case,Czech Republic,,,asymptomatic case,,2021-11-27,Yes,,2021-11-30,,,isolated,No,,2021-11-27,,,,,,Yes,BNT(2),yes
-16709,male,Above 40,Philippines,filtered at harbor,imported case,Australia,"#16710, #16711",,asymptomatic case,,2021-11-29,Yes,,2021-11-30,,,isolated,No,,2021-11-29,個案與其他接觸者為同船船員，因 11/23 船上船員出現相關症狀，該船 11/29 靠港後安排採檢後確診。,,,,,No,,No
-16710,male,Above 40,Philippines,filtered at harbor,imported case,Australia,"#16709, #16711",,runny nose/nasal congestion/cough,2021-11-24,2021-11-29,Yes,,2021-11-30,,,isolated,Yes,,2021-11-29,個案與其他接觸者為同船船員，因 11/23 船上船員出現相關症狀，該船 11/29 靠港後安排採檢後確診。,,,,,No,,No
+16709,male,Above 40,Philippines,filtered at harbor,imported case,Australia,"#16710, #16711",,asymptomatic case,,2021-11-29,Yes,,2021-11-30,,,isolated,No,,2021-11-29,個案與其他接觸者為同船船員，因 11/23 船上船員出現相關症狀，該船 11/29 靠港後安排採檢後確診。,,,,,No,,no
+16710,male,Above 40,Philippines,filtered at harbor,imported case,Australia,"#16709, #16711",,runny nose/nasal congestion/cough,2021-11-24,2021-11-29,Yes,,2021-11-30,,,isolated,Yes,,2021-11-29,個案與其他接觸者為同船船員，因 11/23 船上船員出現相關症狀，該船 11/29 靠港後安排採檢後確診。,,,,,No,,no
 16711,male,Above 30,Philippines,filtered at harbor,imported case,Australia,"#16709, #16710",,runny nose/nasal congestion/cough,2021-11-24,2021-11-29,Yes,,2021-11-30,,,isolated,Yes,,2021-11-29,個案與其他接觸者為同船船員，因 11/23 船上船員出現相關症狀，該船 11/29 靠港後安排採檢後確診。,,,,,Yes,科興(2),yes
 16712,male,Above 20,Netherlands,home quarantine,imported case,Netherlands,,,asymptomatic case,,2021-11-29,Yes,,2021-11-30,,,isolated,No,,2021-11-15,個案 10 月初曾於美國確診。,,,,,Yes,JJ(1),yes
+16713,male,Above 10,Taiwan,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-29,Yes,,2021-12-01,,,isolated,No,,2021-11-17,個案 7 月曾於印尼確診。,,,,,No,,no
+16714,female,Above 40,Taiwan,filtered at airport,imported case,Canada,,,sneeze/runny nose/mild cough,2021-11-28,2021-11-28,Yes,,2021-12-01,,,isolated,Yes,,2021-11-28,,,,,,Yes,Moderna(2),yes
+16715,female,Above 20,Taiwan,home quarantine,imported case,US,,,stuffy nose/lose their ability to smell and taste,2021-11-30,2021-11-30,Yes,,2021-12-01,,,isolated,Yes,,2021-11-25,個案因症狀採檢後確診。,,,,,Yes,BNT(2),yes
+16716,male,Above 20,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-30,Yes,,2021-12-01,,,isolated,No,,2021-11-17,,,,,,Yes,Moderna(2),yes
+16717,male,Above 30,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-30,Yes,,2021-12-01,,,isolated,No,,2021-11-17,,,,,,Yes,AZ(2),yes
+16718,male,Above 40,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-11-29,Yes,,2021-12-01,,,isolated,No,,2021-11-29,,,,,,Yes,AZ(2),yes
+16719,female,Above 30,Taiwan,home quarantine,imported case,Cambodia,,,cough,2021-11-20,2021-11-30,Yes,,2021-12-01,,,isolated,Yes,,2021-11-17,,,,,,Yes,AZ(1),no
+16720,male,Above 20,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-11-30,Yes,,2021-12-01,,,isolated,No,,2021-11-17,,,,,,Yes,AZ(2),yes
