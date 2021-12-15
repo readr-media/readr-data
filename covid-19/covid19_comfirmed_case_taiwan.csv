@@ -10510,7 +10510,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 10508,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
 10509,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
 10510,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
-10511,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
+10511,male,Above 50,Taiwan,,indigenous case,,,,shortness of breath,2021-06-04,2021-06-03,,Yes,2021-06-05,2021-08-14,2021-11-19,deceased,Yes,,,,,y,,,,,
 10512,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
 10513,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
 10514,,,,,indigenous case,,,,,,,,,2021-06-05,,,isolated,,,,,,y,,,,,
@@ -16863,3 +16863,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16861,female,Above 20,Taiwan,home quarantine,imported case,United Arab Emirates,,,asymptomatic case,,,Yes,,2021-12-14,,,isolated,No,,2021-11-30,,,,,,Yes,investigating,No
 16862,male,Above 50,Taiwan,home quarantine,imported case,Indonesia,,,asymptomatic case,,,Yes,,2021-12-14,,,isolated,No,,2021-12-01,,,,,,Yes,國藥(1)、科興(1),Yes
 16863,female,Above 40,Taiwan,home quarantine,imported case,Vietnam,,,asymptomatic case,,,Yes,,2021-12-14,,,isolated,No,,2021-12-01,,,,,,No,No,No
+16864,female,Above 30,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-12-13,Yes,,2021-12-15,,,isolated,No,,2021-12-01,,,,,,Yes,BNT(2),Yes
+16865,male,Above 20,Taiwan,home quarantine,imported case,Australia,,,asymptomatic case,,2021-12-13,Yes,,2021-12-15,,,isolated,No,,2021-12-03,,,,,,Yes,BNT(2),Yes
+16866,male,Above 20,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-12-13,Yes,,2021-12-15,,,isolated,No,,2021-11-30,,,,,,Yes,科興(1),No
+16867,male,Above 20,Philippines,home quarantine,imported case,Philippines,,,asymptomatic case,,2021-12-13,Yes,,2021-12-15,,,isolated,No,,2021-11-30,,,,,,Yes,AZ(1),No
+16868,male,Above 20,Indonesia,home quarantine,imported case,Indonesia,,,asymptomatic case,,2021-12-14,Yes,,2021-12-15,,,isolated,No,,2021-12-01,,,,,,Yes,No,No
+16869,male,Above 40,Taiwan,home quarantine,imported case,Investigating,,,investigating,Investigating,2021-12-14,Yes,,2021-12-15,,,isolated,investigating,,2021-12-01,,,,,,Yes,AZ(1),No
+16870,male,Above 30,Taiwan,home quarantine,imported case,US,,,sore throat/tonsillitis,2021-12-06,2021-12-14,Yes,,2021-12-15,,,isolated,Yes,,2021-12-05,,,,,,Yes,AZ(2),Yes
