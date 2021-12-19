@@ -4395,7 +4395,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 4394,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,,,,
 4395,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,,,,
 4396,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,,,,
-4397,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,,,,
+4397,male,Above 60,Taiwan,hospitalized,indigenous case,,,,fever,2021-05-22,2021-05-22,,yes,2021-05-24,2021-07-02,2021-12-01,deceased,,,,,,y,,,,,
 4398,,,,,indigenous case,,,,,,,,,2021-05-24,,,isolated,,,,,,y,,,,,
 4399,male,Above 80,Taiwan,,indigenous case,,,Wanhua,cough/fatigue,2021-05-20,2021-05-21,No,,2021-05-24,,2021-06-09,deceased,,,,,,,,,,,
 4400,female,Above 70,Taiwan,identified as a contact,indigenous case,,,,shortness of breath/chest tightness,2021-05-25,2021-05-22,no,yes,2021-05-24,,2021-06-07,deceased,,,,,,,,,,,
@@ -16910,3 +16910,9 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16908,female,Above 20,Taiwan,home quarantine,imported case,UK,,,sore throat,2021-12-15,2021-12-17,Yes,,2021-12-18,,,isolated,Yes,,2021-12-14,,,,,,Yes,BNT(2),Yes
 16909,female,Above 40,Singapore,self-financed testing,imported case,Singapore,,,asymptomatic case,,2021-12-17,Yes,,2021-12-18,,,isolated,No,,2021-12-03,,,,,,Yes,Moderna(2),Yes
 16910,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-17,Yes,,2021-12-18,,,isolated,No,,2021-12-05,,,,,,Yes,BNT(2),Yes
+16911,male,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-17,Yes,,2021-12-19,,,isolated,No,,2021-12-17,,,,,,Yes,BNT(2),Yes
+16912,female,Above 20,Taiwan,filtered at airport,imported case,Canada,,,fatigue/cough/headache,2021-12-17,2021-12-17,Yes,,2021-12-19,,,isolated,Yes,,2021-12-17,,,,,,Yes,Moderna(1)、BNT(1),Yes
+16913,female,Above 30,Taiwan,home quarantine,imported case,UK,,,asymptomatic case,,2021-12-17,Yes,,2021-12-19,,,isolated,No,,2021-12-05,,,,,,Yes,BNT(2),Yes
+16914,male,Above 30,Taiwan,filtered at airport,imported case,Vietnam,,,fever/cough/runny nose,2021-12-15,2021-12-17,Yes,,2021-12-19,,,isolated,Yes,,2021-12-17,,,,,,Yes,Moderna(1)、BNT(1),Yes
+16915,female,Above 10,Taiwan,filtered at airport,imported case,UK,,,headache,2021-12-18,2021-12-17,Yes,,2021-12-19,,,isolated,Yes,,2021-12-17,,,,,,Yes,Moderna(2),Yes
+16916,male,Above 40,Taiwan,filtered at airport,imported case,Nigeria,,,asymptomatic case,,2021-12-17,Yes,,2021-12-19,,,isolated,No,,2021-12-17,,,,,,Yes,AZ(2),Yes
