@@ -16916,14 +16916,24 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16914,male,Above 30,Taiwan,filtered at airport,imported case,Vietnam,,,fever/cough/runny nose,2021-12-15,2021-12-17,Yes,,2021-12-19,,,isolated,Yes,,2021-12-17,,,,,,Yes,Moderna(1)、BNT(1),Yes
 16915,female,Above 10,Taiwan,filtered at airport,imported case,UK,,,headache,2021-12-18,2021-12-17,Yes,,2021-12-19,,,isolated,Yes,,2021-12-17,,,,,,Yes,Moderna(2),Yes
 16916,male,Above 40,Taiwan,filtered at airport,imported case,Nigeria,,,asymptomatic case,,2021-12-17,Yes,,2021-12-19,,,isolated,No,,2021-12-17,,,,,,Yes,AZ(2),Yes
-16917,female,Above 20,Taiwan,filtered at airport,imported case,Italy,,,Investigating,,2021-12-17,Yes,,,,,,investigating,,2021-12-17,,,,,,Yes,Moderna(2),Yes
-16918,female,Above 10,Taiwan,filtered at airport,imported case,US,,,throat discomfort,2021-12-19,2021-12-18,Yes,,,,,,Yes,,2021-12-18,,,,,,Yes,AZ(1)、BNT(2),Yes
-16919,male,Above 20,Taiwan,filtered at hospital,imported case,US,,,Cough/fever/throat discomfort,2021-12-19,2021-12-18,Yes,,,,,,Yes,,2021-12-18,,,,,,Yes,BNT(2),Yes
-16920,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-18,Yes,,,,,,No,,2021-12-18,,,,,,Yes,嬌生(1)、Moderna(2),Yes
-16921,female,Above 30,Taiwan,filtered at airport,imported case,Germany,,,throat discomfort,2021-12-15,2021-12-17,Yes,,,,,,Yes,,2021-12-17,,,,,,Yes,Moderna(2),Yes
-16922,male,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-17,Yes,,,,,,No,,2021-12-17,,,,,,Yes,BNT(3),Yes
-16923,female,Above 20,Taiwan,filtered at airport,imported case,France,,,throat discomfort,2021-12-15,2021-12-17,Yes,,,,,,Yes,,2021-12-17,,,,,,Yes,BNT(2),Yes
-16924,male,Above 50,Taiwan,filtered at airport,imported case,Belize,,,asymptomatic case,,2021-12-17,Yes,,,,,,No,,2021-12-17,,,,,,Yes,BNT(3),Yes
-16925,male,Above 40,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-17,Yes,,,,,,No,,2021-12-17,,,,,,Yes,BNT(2),Yes
-16926,male,Above 10,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-19,Yes,,,,,,No,,2021-12-19,,,,,,Yes,AZ(2),Yes
-16927,male,Above 20,Philippines,filtered at quarantine station,imported case,Philippines,,,asymptomatic case,,2021-12-18,Yes,,,,,,No,,2021-12-05,,,,,,No,No,No
+16917,female,Above 20,Taiwan,filtered at airport,imported case,Italy,,,Investigating,,2021-12-17,Yes,,2021-12-20,,,isolated,investigating,,2021-12-17,,,,,,Yes,Moderna(2),Yes
+16918,female,Above 10,Taiwan,filtered at airport,imported case,US,,,throat discomfort,2021-12-19,2021-12-18,Yes,,2021-12-20,,,isolated,Yes,,2021-12-18,,,,,,Yes,AZ(1)、BNT(2),Yes
+16919,male,Above 20,Taiwan,filtered at hospital,imported case,US,,,Cough/fever/throat discomfort,2021-12-19,2021-12-18,Yes,,2021-12-20,,,isolated,Yes,,2021-12-18,,,,,,Yes,BNT(2),Yes
+16920,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-18,Yes,,2021-12-20,,,isolated,No,,2021-12-18,,,,,,Yes,嬌生(1)、Moderna(2),Yes
+16921,female,Above 30,Taiwan,filtered at airport,imported case,Germany,,,throat discomfort,2021-12-15,2021-12-17,Yes,,2021-12-20,,,isolated,Yes,,2021-12-17,,,,,,Yes,Moderna(2),Yes
+16922,male,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-17,Yes,,2021-12-20,,,isolated,No,,2021-12-17,,,,,,Yes,BNT(3),Yes
+16923,female,Above 20,Taiwan,filtered at airport,imported case,France,,,throat discomfort,2021-12-15,2021-12-17,Yes,,2021-12-20,,,isolated,Yes,,2021-12-17,,,,,,Yes,BNT(2),Yes
+16924,male,Above 50,Taiwan,filtered at airport,imported case,Belize,,,asymptomatic case,,2021-12-17,Yes,,2021-12-20,,,isolated,No,,2021-12-17,,,,,,Yes,BNT(3),Yes
+16925,male,Above 40,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-17,Yes,,2021-12-20,,,isolated,No,,2021-12-17,,,,,,Yes,BNT(2),Yes
+16926,male,Above 10,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-19,Yes,,2021-12-20,,,isolated,No,,2021-12-19,,,,,,Yes,AZ(2),Yes
+16927,male,Above 20,Philippines,filtered at quarantine station,imported case,Philippines,,,asymptomatic case,,2021-12-18,Yes,,2021-12-20,,,isolated,No,,2021-12-05,,,,,,No,No,No
+16928,male,Above 40,Taiwan,filtered at airport,imported case,Gambia,,,asymptomatic case,,2021-12-19,Yes,,2021-12-21,,,isolated,No,,2021-12-19,,,,,,Yes,BNT(2),Yes
+16929,female,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-19,Yes,,2021-12-21,,,isolated,No,,2021-12-19,,,,,,Yes,Moderna(3),Yes
+16930,male,Above 50,Taiwan,filtered at hospital,imported case,Cambodia,,,diarrhea,2021-11-29,2021-12-19,Yes,,2021-12-21,,,isolated,Yes,,2021-12-19,,,,,,Yes,科興(2)、AZ(1),Yes
+16931,female,Above 40,Vietnam,filtered at hospital,imported case,Vietnam,,,cough/runny nose,2021-12-17,2021-12-19,Yes,,2021-12-21,,,isolated,Yes,,2021-12-16,,,,,,Yes,科興(2),Yes
+16932,female,Above 20,Taiwan,filtered at airport,imported case,UK,,,asymptomatic case,,2021-12-19,Yes,,2021-12-21,,,isolated,No,,2021-12-19,,,,,,Yes,AZ(2),Yes
+16933,male,Above 40,Indonesia,filtered at airport,imported case,Indonesia,,,asymptomatic case,,2021-12-19,Yes,,2021-12-21,,,isolated,No,,2021-12-19,,,,,,Yes,科興(2),Yes
+16934,male,Above 30,Taiwan,filtered at hospital,imported case,UK,,,runny nose,2021-12-20,2021-12-19,Yes,,2021-12-21,,,isolated,Yes,,2021-12-19,,,,,,Yes,Moderna(2),Yes
+16935,female,Above 40,Taiwan,filtered at airport,imported case,UK,,,cough,2021-12-20,2021-12-19,Yes,,2021-12-21,,,isolated,Yes,,2021-12-19,,,,,,Yes,AZ(2)、BNT(1),Yes
+16936,female,Above 40,Indonesia,filtered at hospital,imported case,Indonesia,,,asymptomatic case,,2021-12-20,Yes,,2021-12-21,,,isolated,No,,2021-11-22,,,,,,Yes,科興(2),Yes
+16937,male,Above 50,Taiwan,filtered at hospital,imported case,US,,,asymptomatic case,,2021-12-20,Yes,,2021-12-21,,,isolated,No,,2021-12-14,,,,,,Yes,嬌生(1),Yes
