@@ -16941,7 +16941,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16939,male,Above 40,Taiwan,filtered at airport,imported case,Italy,,,cough,2021-12-20,2021-12-19,Yes,,2021-12-22,,,isolated,Yes,,2021-12-19,,Omicron,,,,Yes,AZ(2),Yes
 16940,female,Above 20,Indonesia,filtered at hospital,imported case,Indonesia,,,asymptomatic case,,2021-12-20,Yes,,2021-12-22,,,isolated,No,,2021-11-22,,,,,,Yes,科興(2),Yes
 16941,male,Above 40,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-19,Yes,,2021-12-22,,,isolated,No,,2021-12-19,,Delta,,,,Yes,Moderna(1),No
-16942,female,Above 20,Taiwan,group quarantine,imported case,US,,,runny nose,2021-12-16,2021-12-20,Yes,,2021-12-22,,,isolated,Yes,,2021-12-14,,,,,,Yes,Moderna(2),Yes
+16942,female,Above 20,Taiwan,group quarantine,imported case,US,,,runny nose,2021-12-16,2021-12-20,Yes,,2021-12-22,,,isolated,Yes,,2021-12-14,,Delta,,,,Yes,Moderna(2),Yes
 16943,male,Above 40,Poland,group quarantine,imported case,Poland,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-12-08,,,,,,Yes,BNT(3),Yes
 16944,female,Above 30,Taiwan,filtered at airport,imported case,UK,,,asymptomatic case,,2021-12-19,Yes,,2021-12-22,,,isolated,No,,2021-12-19,,Omicron,,,,Yes,AZ(1)、BNT(1),Yes
 16945,male,Above 30,Taiwan,group quarantine,imported case,Cambodia,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-12-08,,,,,,Yes,AZ(1)、嬌生(1),Yes
@@ -16949,10 +16949,10 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16947,male,Above 20,Taiwan,group quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-12-15,,,,,,Yes,AZ(2),Yes
 16948,male,Above 20,UK,filtered at airport,imported case,investigating,,,Investigating,,2021-12-20,Yes,,2021-12-22,,,isolated,investigating,,2021-12-20,,Omicron,,,,investigating,investigating,investigating
 16949,male,Above 30,Vietnam,filtered at hospital,imported case,Vietnam,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-10-07,,,,,,Yes,BNT(1),No
-16950,male,Above 20,US,group quarantine,imported case,US,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-12-08,,,,,,Yes,BNT(2),Yes
+16950,male,Above 20,US,group quarantine,imported case,US,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-12-08,,Delta,,,,Yes,BNT(2),Yes
 16951,female,Above 20,Vietnam,group quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-21,Yes,,2021-12-22,,,isolated,No,,2021-12-08,,,,,,Yes,AZ(2),Yes
 16952,male,Above 20,US,group quarantine,imported case,US,,,asymptomatic case,,2021-12-20,Yes,,2021-12-23,,,isolated,No,,2021-12-20,,Omicron,,,,Yes,AZ(2),Yes
-16953,female,Above 40,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-20,Yes,,2021-12-23,,,isolated,No,,2021-12-20,,,,,,Yes,科興(2),Yes
+16953,female,Above 40,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-20,Yes,,2021-12-23,,,isolated,No,,2021-12-20,,Omicron,,,,Yes,科興(2),Yes
 16954,female,Above 20,US,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-20,Yes,,2021-12-23,,,isolated,No,,2021-12-20,,Omicron,,,,Yes,BNT(2),Yes
 16955,female,Above 10,Taiwan,group quarantine,imported case,Dominican Republic,,,asymptomatic case,,2021-12-21,Yes,,2021-12-23,,,isolated,No,,2021-12-08,,,,,,Yes,BNT(2),Yes
 16956,male,Above 20,Taiwan,filtered at airport,imported case,US,,,runny nose,2021-12-18,2021-12-20,Yes,,2021-12-23,,,isolated,Yes,,2021-12-20,,Omicron,,,,Yes,BNT(3),Yes
@@ -16976,13 +16976,13 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16974,male,Above 40,Philippines,filtered at harbor,imported case,Philippines,,,asymptomatic case,,2021-12-22,Yes,,2021-12-24,,,isolated,No,,2021-12-07,,,,,,Yes,BNT(2),Yes
 16975,male,Above 40,Indonesia,filtered at harbor,imported case,Indonesia,,,asymptomatic case,,2021-12-22,Yes,,2021-12-24,,,isolated,No,,2021-12-07,,,,,,Yes,科興(2),Yes
 16976,male,Above 30,India,filtered at harbor,imported case,India,,,asymptomatic case,,2021-12-22,Yes,,2021-12-24,,,isolated,No,,2021-12-07,,,,,,Yes,BNT(2),Yes
-16977,male,Above 20,Taiwan,filtered at airport,imported case,US,,,cough/runny nose/throat discomfort,2021-12-20,2021-12-21,Yes,,2021-12-24,,,isolated,Yes,,2021-12-21,,,,,,Yes,AZ(1)、Moderna(2),Yes
+16977,male,Above 20,Taiwan,filtered at airport,imported case,US,,,cough/runny nose/throat discomfort,2021-12-20,2021-12-21,Yes,,2021-12-24,,,isolated,Yes,,2021-12-21,,Omicron,,,,Yes,AZ(1)、Moderna(2),Yes
 16978,female,Above 30,Taiwan,group quarantine,imported case,Canada,,,runny nose,2021-12-21,2021-12-23,Yes,,2021-12-24,,,isolated,Yes,,2021-12-17,,,,,,Yes,AZ(2),Yes
 16979,female,Above 10,Vietnam,group quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-12-10,,,,,,No,No,No
 16980,male,Above 60,Taiwan,group quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-12-17,,,,,,Yes,科興(2)、國藥(1),Yes
 16981,female,Above 20,Taiwan,filtered at hospital,imported case,Japan,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-11-21,,,,,,Yes,Moderna(2),Yes
 16982,female,Above 20,Taiwan,group quarantine,imported case,US,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-12-10,,,,,,Yes,BNT(2)、Moderna(1),Yes
-16983,male,Above 30,Taiwan,group quarantine,imported case,US,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-12-17,,,,,,Yes,高端(1)、Moderna(2),Yes
+16983,male,Above 30,Taiwan,group quarantine,imported case,US,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-12-17,,Omicron,,,,Yes,高端(1)、Moderna(2),Yes
 16984,male,Above 40,Taiwan,group quarantine,imported case,Lithuania,,,asymptomatic case,,2021-12-23,Yes,,2021-12-24,,,isolated,No,,2021-12-10,,,,,,Yes,AZ(2),Yes
 16985,male,Above 20,Taiwan,group quarantine,imported case,US,,,fever/throat discomfort/runny nose,2021-12-21,2021-12-23,Yes,,2021-12-25,,,isolated,Yes,,2021-12-20,,,,,,Yes,BNT(2),Yes
 16986,female,Above 10,Vietnam,group quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-10,,,,,,Yes,AZ(2),Yes
@@ -16994,17 +16994,17 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 16992,male,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,,,,,Yes,BNT(2),Yes
 16993,male,Above 20,Taiwan,filtered at airport,imported case,France,,,cough/throat discomfort,2021-12-23,2021-12-23,Yes,,2021-12-25,,,isolated,Yes,,2021-12-23,,,,,,Yes,AZ(2),Yes
 16994,male,Above 30,Pakistan,filtered at airport,imported case,Pakistan,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,,,,,Yes,AZ(2),Yes
-16995,male,Above 30,Taiwan,group quarantine,imported case,Italy,,,fever,2021-12-22,2021-12-24,Yes,,2021-12-25,,,isolated,Yes,,2021-12-21,,,,,,Yes,AZ(2),Yes
-16996,male,Above 60,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,,,,,Yes,BNT(2),Yes
+16995,male,Above 30,Taiwan,group quarantine,imported case,Italy,,,fever,2021-12-22,2021-12-24,Yes,,2021-12-25,,,isolated,Yes,,2021-12-21,,Omicron,,,,Yes,AZ(2),Yes
+16996,male,Above 60,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,Delta,,,,Yes,BNT(2),Yes
 16997,female,Above 30,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,,,,,Yes,AZ(1)、BNT(1),Yes
-16998,male,Above 30,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,,,,,No,No,No
-16999,male,Above 20,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,,,,,Yes,AZ(2),Yes
-17000,male,Above 10,Taiwan,group quarantine,imported case,US,,,fever/throat discomfort,2021-12-20,2021-12-23,Yes,,2021-12-25,,,isolated,Yes,,2021-12-20,,,,,,Yes,BNT(2),Yes
-17001,male,Above 40,Taiwan,filtered at airport,imported case,US,,,Investigating,,2021-12-23,Yes,,2021-12-25,,,isolated,investigating,,2021-12-23,,,,,,Yes,AZ(2),Yes
+16998,male,Above 30,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,Delta,,,,No,No,No
+16999,male,Above 20,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-23,Yes,,2021-12-25,,,isolated,No,,2021-12-23,,Delta,,,,Yes,AZ(2),Yes
+17000,male,Above 10,Taiwan,group quarantine,imported case,US,,,fever/throat discomfort,2021-12-20,2021-12-23,Yes,,2021-12-25,,,isolated,Yes,,2021-12-20,,Omicron,,,,Yes,BNT(2),Yes
+17001,male,Above 40,Taiwan,filtered at airport,imported case,US,,,Investigating,2021-12-24,2021-12-23,Yes,,2021-12-25,,,isolated,Yes,,2021-12-23,,Omicron,,,,Yes,AZ(2),Yes
 17002,male,Above 40,Netherlands,group quarantine,imported case,Netherlands,,,asymptomatic case,,2021-12-24,Yes,,2021-12-25,,,isolated,No,,2021-12-18,,,,,,Yes,BNT(2),Yes
-17003,male,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,,,,,Yes,AZ(2),Yes
+17003,male,Above 30,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,Omicron,,,,Yes,AZ(2),Yes
 17004,male,Above 30,Taiwan,filtered at airport,imported case,US,,,fever,2021-12-25,2021-12-24,Yes,,2021-12-26,,,isolated,Yes,,2021-12-24,,,,,,Yes,AZ(2),Yes
-17005,female,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,,,,,Yes,科興(2),Yes
+17005,female,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,Omicron,,,,Yes,科興(2),Yes
 17006,male,Above 40,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,,,,,Yes,AZ(2),Yes
 17007,male,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-23,Yes,,2021-12-26,,,isolated,No,,2021-12-23,,,,,,Yes,BNT(2),Yes
 17008,female,Above 20,Taiwan,filtered at airport,imported case,US,,,itchy throat/cough,2021-12-24,2021-12-23,Yes,,2021-12-26,,,isolated,Yes,,2021-12-23,,,,,,Yes,BNT(2),Yes
@@ -17019,7 +17019,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17017,male,Above 20,Taiwan,filtered at airport,imported case,Kazakhstan,,Taekwondo player,cough,2021-12-13,2021-12-24,Yes,,2021-12-26,,,isolated,Yes,,2021-12-24,,Omicron,,,,Yes,Moderna(2),Yes
 17018,male,Above 20,Taiwan,filtered at airport,imported case,Kazakhstan,,Taekwondo player,throat discomfort,2021-12-25,2021-12-24,Yes,,2021-12-26,,,isolated,Yes,,2021-12-24,,Omicron,,,,Yes,Moderna(2),Yes
 17019,male,Above 20,Taiwan,filtered at airport,imported case,Kazakhstan,,Taekwondo player,runny nose,2021-12-07,2021-12-24,Yes,,2021-12-26,,,isolated,Yes,,2021-12-24,,Omicron,,,,Yes,AZ(1),No
-17020,male,Above 30,Taiwan,filtered at airport,imported case,Cameroon,,,asymptomatic case,,2021-12-25,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,,,,,No,No,No
+17020,male,Above 30,Taiwan,filtered at airport,imported case,Cameroon,,,asymptomatic case,,2021-12-25,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,Omicron,,,,No,No,No
 17021,female,Above 10,Taiwan,filtered at airport,imported case,South Africa,,,asymptomatic case,,2021-12-25,Yes,,2021-12-26,,,isolated,No,,2021-12-25,,,,,,Yes,BNT(1),No
 17022,male,Above 50,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-26,,,isolated,No,,2021-12-24,,,,,,Yes,BNT(2)、Moderna(1),Yes
 17023,female,Above 30,Taiwan,filtered at hospital,imported case,US,,,vomiting/throat discomfort,2021-12-22,2021-12-25,Yes,,2021-12-26,,,isolated,Yes,,2021-12-19,,,,,,Yes,BNT(2),Yes
@@ -17029,13 +17029,13 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17027,male,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-24,Yes,,2021-12-27,,,isolated,No,,2021-12-24,個案曾於美國快篩陽性。,,,,,Yes,AZ(1),No
 17028,male,Above 30,Taiwan,filtered at airport,imported case,US,,,runny nose/chill,2021-12-25,2021-12-24,Yes,,2021-12-27,,,isolated,Yes,,2021-12-24,,,,,,Yes,Moderna(2),Yes
 17029,male,Above 50,Taiwan,filtered at airport,imported case,Vietnam,,,asymptomatic case,,2021-12-24,Yes,,2021-12-27,,,isolated,No,,2021-12-24,,,,,,Yes,AZ(2),Yes
-17030,male,Above 60,Taiwan,home quarantine,imported case,Hungary,,,asymptomatic case,,2021-12-25,Yes,,2021-12-27,,,isolated,No,,2021-12-12,,,,,,Yes,AZ(2),Yes
+17030,male,Above 60,Taiwan,home quarantine,imported case,Hungary,,,asymptomatic case,,2021-12-25,Yes,,2021-12-27,,,isolated,No,,2021-12-12,,Delta,,,,Yes,AZ(2),Yes
 17031,male,Above 10,Taiwan,home quarantine,imported case,US,,,nasal congestion,2021-12-24,2021-12-25,Yes,,2021-12-27,,,isolated,Yes,,2021-12-19,,,,,,Yes,BNT(2),Yes
 17032,male,Above 20,Taiwan,filtered at airport,imported case,Kazakhstan,,Taekwondo player,headache/runny nose/fatigue,2021-12-25,2021-12-24,Yes,,2021-12-27,,,isolated,Yes,,2021-12-24,,Omicron,,,,Yes,Moderna(2),Yes
 17033,male,Above 30,Taiwan,home quarantine,imported case,US,,,cough/sore throat,2021-12-25,2021-12-26,Yes,,2021-12-27,,,isolated,Yes,,2021-12-24,,,,,,Yes,AZ(2),Yes
-17034,female,Above 50,Taiwan,home quarantine,imported case,US,,,cough/sore throat,2021-12-25,2021-12-26,Yes,,2021-12-27,,,isolated,Yes,,2021-12-20,,,,,,Yes,AZ(1)、Moderna(1),Yes
+17034,female,Above 50,Taiwan,home quarantine,imported case,US,,,cough/sore throat,2021-12-25,2021-12-26,Yes,,2021-12-27,,,isolated,Yes,,2021-12-20,,Omicron,,,,Yes,AZ(1)、Moderna(1),Yes
 17035,male,Above 60,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-26,Yes,,2021-12-27,,,isolated,No,,2021-12-20,,,,,,Yes,Moderna(2),Yes
-17036,male,Above 30,Taiwan,filtered at airport,imported case,US,,,sore throat/fever,2021-12-26,2021-12-26,Yes,,2021-12-27,,,isolated,Yes,,2021-12-26,,,,,,Yes,BNT(2),Yes
+17036,male,Above 30,Taiwan,filtered at airport,imported case,US,,,sore throat/fever,2021-12-26,2021-12-26,Yes,,2021-12-27,,,isolated,Yes,,2021-12-26,,Omicron,,,,Yes,BNT(2),Yes
 17037,female,Above 20,Taiwan,home quarantine,imported case,US,,,investigating,,2021-12-26,Yes,,2021-12-27,,,isolated,No,,2021-12-20,,,,,,Yes,JJ(1)、Moderna(1),Yes
 17038,female,Above 50,Taiwan,filtered at airport,imported case,Philippines,,,investigating,,Investigating,Yes,,2021-12-27,,,isolated,,,2021-12-24,,,,,,investigating,,
 17039,male,Above 20,Taiwan,filtered at airport,imported case,South Korea,,,investigating,,2021-12-25,Yes,,2021-12-27,,,isolated,No,,2021-12-25,,,,,,investigating,,
@@ -17057,7 +17057,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17055,female,Above 20,Taiwan,home quarantine,imported case,Kazakhstan,,Taekwondo player,cough/runny nose,2021-12-20,2021-12-27,Yes,,2021-12-28,,,isolated,Yes,,2021-12-24,,,,,,Yes,AZ(2),Yes
 17056,female,Above 80,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-27,Yes,,2021-12-28,,,isolated,No,,2021-12-21,,,,,,Yes,AZ(2),Yes
 17057,female,Above 60,Taiwan,home quarantine,imported case,Hong Kong,,,investigating,investigating,2021-12-27,Yes,,2021-12-28,,,isolated,investigating,,2021-12-14,,,,,,Yes,AZ(2),Yes
-17058,male,Above 40,Taiwan,home quarantine,imported case,China,,,investigating,investigating,2021-12-27,Yes,,2021-12-28,,,isolated,investigating,,2021-12-14,,,,,,investigating,,investigating
+17058,male,Above 40,Taiwan,home quarantine,imported case,China,,,asymptomatic case,,2021-12-27,Yes,,2021-12-28,,,isolated,No,,2021-12-14,,,,,,investigating,,investigating
 17059,male,Above 70,Taiwan,home quarantine,imported case,Turkey,,,investigating,investigating,2021-12-27,Yes,,2021-12-28,,,isolated,investigating,,2021-12-21,,,,,,Yes,AZ(2),Yes
 17060,female,Above 70,Taiwan,home quarantine,imported case,Turkey,,,investigating,investigating,2021-12-27,Yes,,2021-12-28,,,isolated,investigating,,2021-12-21,,,,,,Yes,AZ(2),Yes
 17061,male,Above 40,Taiwan,home quarantine,imported case,Canada,,,itchy throat,2021-12-27,2021-12-27,Yes,,2021-12-28,,,isolated,Yes,,2021-12-20,,,,,,Yes,Moderna(2),investigating
@@ -17075,3 +17075,27 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17073,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-28,Yes,,2021-12-29,,,isolated,No,,2021-12-22,,,,,,Yes,Moderna(2),Yes
 17074,male,Above 70,Taiwan,home quarantine,imported case,Hong Kong,,,nose discomfort,2021-12-28,2021-12-28,Yes,,2021-12-29,,,isolated,Yes,,2021-12-22,,,,,,Yes,科興(2),Yes
 17075,male,Above 40,Taiwan,home quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-28,Yes,,2021-12-29,,,isolated,No,,2021-12-22,,,,,,Yes,AZ(2),Yes
+17076,female,Above 50,Taiwan,filtered at airport,imported case,US,,,investigating,investigating,2021-12-28,Yes,,2021-12-30,,,isolated,investigating,,2021-12-28,,,,,,Yes,AZ(2),Yes
+17077,male,Above 30,Taiwan,home quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-28,Yes,,2021-12-30,,,isolated,No,,2021-12-15,個案 2021-11-26 曾於越南確診。,,,,,Yes,AZ(1)、BNT(1),Yes
+17078,female,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-28,Yes,,2021-12-30,,,isolated,No,,2021-12-28,,,,,,Yes,Moderna(2),Yes
+17079,female,Above 20,Taiwan,filtered at airport,imported case,US,,,runny nose/sore throat,2021-12-29,2021-12-28,Yes,,2021-12-30,,,isolated,Yes,,2021-12-28,,,,,,Yes,BNT(2),Yes
+17080,male,Above 20,Taiwan,home isolation,imported case,US,,,asymptomatic case,,2021-12-28,Yes,,2021-12-30,,,isolated,No,,2021-12-26,,,,,,Yes,BNT(2),Yes
+17081,male,Above 30,UK,filtered at airport,imported case,UK,,,asymptomatic case,,2021-12-27,Yes,,2021-12-30,,,isolated,No,,2021-12-27,,,,,,Yes,BNT(2),Yes
+17082,male,Above 60,US,filtered at airport,imported case,US,,,sputum production/sore throat,2021-12-27,2021-12-28,Yes,,2021-12-30,,,isolated,Yes,,2021-12-28,,,,,,Yes,Moderna(2),Yes
+17083,female,Above 20,Taiwan,filtered at airport,imported case,US,,,asymptomatic case,,2021-12-27,Yes,,2021-12-30,,,isolated,No,,2021-12-27,,,,,,Yes,AZ(1)、BNT(2),Yes
+17084,female,Above 50,Taiwan,home quarantine,imported case,Nicaragua,,,fever/sore throat,2021-12-28,2021-12-29,Yes,,2021-12-30,,,isolated,Yes,,2021-12-26,,,,,,Yes,AZ(2),Yes
+17085,male,Above 50,Taiwan,home quarantine,imported case,US,,,throat discomfort,2021-12-29,2021-12-29,Yes,,2021-12-30,,,isolated,Yes,,2021-12-22,,,,,,Yes,BNT(2),Yes
+17086,male,Above 50,Taiwan,filtered at airport,imported case,Nigeria,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-28,,,,,,Yes,AZ(2),Yes
+17087,female,Above 40,Taiwan,filtered at airport,imported case,Canada,,,fever/runny nose/cough/sore throat/myalgia,2021-12-27,2021-12-28,Yes,,2021-12-30,,,isolated,Yes,,2021-12-28,,,,,,Yes,BNT(2),Yes
+17088,female,Above 20,Taiwan,filtered at airport,imported case,US,,,cough,2021-12-28,2021-12-28,Yes,,2021-12-30,,,isolated,Yes,,2021-12-28,,,,,,Yes,Moderna(2),Yes
+17089,female,Above 40,Taiwan,filtered at airport,imported case,United Arab Emirates,,,asymptomatic case,,2021-12-28,Yes,,2021-12-30,,,isolated,No,,2021-12-28,個案 11 月曾於杜拜確診。,,,,,No,,No
+17090,male,Above 50,Taiwan,home quarantine,imported case,US,,,fever,2021-12-29,2021-12-29,Yes,,2021-12-30,,,isolated,Yes,,2021-12-26,,,,,,Yes,科興(2),Yes
+17091,male,Above 30,Taiwan,home quarantine,imported case,France,,,cough/sore throat,2021-12-27,2021-12-29,Yes,,2021-12-30,,,isolated,Yes,,2021-12-24,,,,,,Yes,Moderna(2),Yes
+17092,male,Above 30,France,home quarantine,imported case,France,,,investigating,investigating,2021-12-29,Yes,,2021-12-30,,,isolated,investigating,,2021-12-15,,,,,,investigating,investigating,investigating
+17093,female,Above 40,France,home quarantine,imported case,France,,,investigating,investigating,2021-12-29,Yes,,2021-12-30,,,isolated,investigating,,2021-12-15,,,,,,investigating,investigating,investigating
+17094,male,Above 30,Taiwan,home quarantine,imported case,US,,,investigating,investigating,2021-12-29,Yes,,2021-12-30,,,isolated,investigating,,2021-12-26,,,,,,investigating,investigating,investigating
+17095,male,Above 40,Thailand,home quarantine,imported case,Thailand,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-14,,,,,,Yes,AZ(2),Yes
+17096,female,Above 10,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-15,,,,,,Yes,Moderna(3),Yes
+17097,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-26,,,,,,Yes,BNT(2),Yes
+17098,female,Above 40,Taiwan,home quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-16,,,,,,Yes,AZ(2),Yes
+17099,female,Above 30,Taiwan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-16,,,,,,investigating,investigating,investigating
