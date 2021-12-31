@@ -17099,3 +17099,44 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17097,female,Above 50,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-26,,,,,,Yes,BNT(2),Yes
 17098,female,Above 40,Taiwan,home quarantine,imported case,Vietnam,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-16,,,,,,Yes,AZ(2),Yes
 17099,female,Above 30,Taiwan,home quarantine,imported case,Japan,,,asymptomatic case,,2021-12-29,Yes,,2021-12-30,,,isolated,No,,2021-12-16,,,,,,investigating,investigating,investigating
+17100,female,Above 50,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,investigating,,investigating
+17101,male,Above 20,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17102,female,Above 50,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-29,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,investigating,,investigating
+17103,female,Above 30,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-28,,,,,,Yes,BNT(2),Yes
+17104,female,Above 20,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17105,female,Above 20,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17106,female,Above 30,Taiwan,unknown,imported case,US,,,unknown,2021-12-28,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-28,,,,,,Yes,Moderna(3),Yes
+17107,female,Above 60,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,investigating,,investigating
+17108,male,Above 30,Taiwan,unknown,imported case,investigating,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-28,,,,,,investigating,,investigating
+17109,male,Above 30,Honduras,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-28,,,,,,investigating,,investigating
+17110,female,Above 30,Taiwan,unknown,imported case,investigating,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,investigating,,investigating
+17111,male,Above 30,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,investigating,,investigating
+17112,female,Above 60,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,investigating,,investigating
+17113,male,Above 30,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,科興(2),Yes
+17114,female,Above 20,Taiwan,unknown,imported case,Italy,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-28,,,,,,Yes,BNT(2),Yes
+17115,male,Above 40,Taiwan,unknown,imported case,US,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-28,,,,,,Yes,BNT(2),Yes
+17116,male,Above 30,US,unknown,imported case,US,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17117,female,Above 20,Taiwan,unknown,imported case,France,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,investigating,,investigating
+17118,male,Above 30,Taiwan,unknown,imported case,US,,,unknown,2021-12-25,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-27,,,,,,Yes,BNT(2),Yes
+17119,female,Above 70,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2)、Moderna(1),Yes
+17120,female,Above 20,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17121,female,Above 30,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-28,,,,,,Yes,AZ(1)、BNT(2),Yes
+17122,female,Above 20,Taiwan,unknown,imported case,US,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17123,female,Above 30,Taiwan,unknown,imported case,Kenya,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-28,,,,,,Yes,AZ(1)、Moderna(2),Yes
+17124,female,Above 50,Taiwan,unknown,imported case,France,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17125,male,Above 20,Philippines,unknown,imported case,Philippines,,,unknown,2021-12-28,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,Yes,科興(2),Yes
+17126,female,Above 40,Taiwan,unknown,imported case,Cameroon,,,unknown,2021-12-28,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-28,,,,,,Yes,AZ(2),Yes
+17127,female,Above 30,Taiwan,unknown,imported case,Switzerland,,,unknown,2021-12-28,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-17,,,,,,investigating,,investigating
+17128,male,Above 50,Taiwan,unknown,imported case,India,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17129,male,Above 20,Taiwan,unknown,imported case,United Arab Emirates,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-23,,,,,,No,,No
+17130,male,Above 50,Ukraine,unknown,imported case,Ukraine,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-23,,,,,,investigating,,investigating
+17131,female,Above 30,Taiwan,unknown,imported case,US,,,unknown,2021-12-15,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,Yes,BNT(2),Yes
+17132,female,Above 20,Philippines,unknown,imported case,Philippines,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-30,,,,,,Yes,AZ(2),Yes
+17133,female,Above 30,Vietnam,unknown,imported case,Vietnam,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-16,,,,,,Yes,BNT(2),Yes
+17134,male,Above 30,Taiwan,unknown,imported case,investigating,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-16,,,,,,Yes,AZ(2),Yes
+17135,male,Above 30,investigating,unknown,imported case,investigating,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-17,,,,,,investigating,,investigating
+17136,female,Above 60,Taiwan,unknown,imported case,investigating,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-17,,,,,,investigating,,investigating
+17137,male,Above 30,Taiwan,unknown,imported case,investigating,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-25,,,,,,No,,No
+17138,male,Above 30,Taiwan,unknown,imported case,Cambodia,,,asymptomatic case,,unknown,Yes,,2021-12-31,,,isolated,No,,2021-12-17,,,,,,No,,No
+17139,female,Above 60,Taiwan,unknown,imported case,US,,,unknown,2021-12-29,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-24,,,,,,Yes,Moderna(3),Yes
+17140,female,Above 30,Taiwan,unknown,imported case,investigating,,,unknown,2021-12-30,unknown,Yes,,2021-12-31,,,isolated,Yes,,2021-12-29,,,,,,Yes,AZ(1)、BNT(2),Yes
