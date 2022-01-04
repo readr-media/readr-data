@@ -17206,3 +17206,37 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17204,female,Above 30,Taiwan,home quarantine,imported case,Armenia,,,asymptomatic case,,2022-01-02,Yes,,2022-01-03,,,isolated,No,,2021-12-19,,,,,,No,Moderna(1),No
 17205,male,Above 20,Taiwan,home quarantine,imported case,US,,,asymptomatic case,,2022-01-01,Yes,,2022-01-03,,,isolated,No,,2021-12-19,,,,,,Yes,BNT(2),Yes
 17206,male,Above 60,Taiwan,home quarantine,imported case,Trinidad and Tobago,,,cough,2021-12-31,2022-01-02,Yes,,2022-01-03,,,isolated,Yes,,2021-12-25,,,,,,Yes,JJ(1)、Moderna(1),Yes
+17207,male,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-01,,,,,,Yes,AZ(2),Yes
+17208,female,Above 20,Taiwan,,imported case,France,,,,,,,,2022-01-04,,,isolated,,,2022-01-01,,,,,,No,,No
+17209,female,Above 40,Norway,,imported case,Norway,,,,,,,,2022-01-04,,,isolated,,,2021-12-25,,,,,,Yes,BNT(1)、Moderna(1),Yes
+17210,female,Above 20,Taiwan,,imported case,US,,,,2022-01-02,,,,2022-01-04,,,isolated,,,2021-12-29,,,,,,Yes,BNT(3),Yes
+17211,male,Above 70,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,Moderna(2),Yes
+17212,female,Above 70,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,Moderna(2),Yes
+17213,female,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(2),Yes
+17214,male,Above 60,Taiwan,,imported case,US,,,,Investigating,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,科興(2),Yes
+17215,female,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(3),Yes
+17216,male,Under 5,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,No,,No
+17217,female,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(3),Yes
+17218,male,Under 5,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-01,,,,,,No,,No
+17219,female,Above 20,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-01,,,,,,Yes,BNT(2),Yes
+17220,female,Above 30,South Africa,,imported case,South Africa,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,AZ(2)、BNT(1),Yes
+17221,female,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,AZ(2),Yes
+17222,male,Above 30,India,,imported case,United Arab Emirates,,,,2022-01-02,,,,2022-01-04,,,isolated,,,2021-12-30,,,,,,Yes,AZ(2),Yes
+17223,female,Above 20,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(2),Yes
+17224,male,Above 70,Taiwan,,imported case,US,,,,2022-01-02,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(3),Yes
+17225,male,Above 30,Taiwan,,imported case,US,,,,2021-12-30,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,Moderna(2),Yes
+17226,female,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(3),Yes
+17227,female,Above 40,Taiwan,,imported case,US,,,,2022-01-03,,,,2022-01-04,,,isolated,,,2022-01-02,,,,,,Yes,BNT(2),Yes
+17228,male,Above 40,Taiwan,,imported case,US,,,,2022-01-02,,,,2022-01-04,,,isolated,,,2021-12-31,,,,,,Yes,AZ(2),Yes
+17229,male,Above 40,UK,,imported case,UK,,,,,,,,2022-01-04,,,isolated,,,2021-11-20,,,,,,Yes,AZ(2),Yes
+17230,female,Above 40,Taiwan,hospitalized,indigenous case,,,,chills/cough/fever/sore throat/runny nose,2022-01-02,2022-01-04,No,,2022-01-04,,,isolated,Yes,,,,Omicron,,Taoyuan City,,Yes,AZ(2),Yes
+17231,male,Above 50,US,,imported case,US,,,,2022-01-03,,,,2022-01-04,,,isolated,,,2021-12-31,,,,,,Yes,Moderna(3),Yes
+17232,female,Above 60,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2021-12-31,,,,,,Yes,Moderna(2),Yes
+17233,male,Above 40,Taiwan,,imported case,Investigating,,,,Investigating,,,,2022-01-04,,,isolated,,,2022-01-03,,,,,,Yes,JJ(1)、Moderna(1),Yes
+17234,male,Above 30,Poland,,imported case,Poland,,,,Investigating,,,,2022-01-04,,,isolated,,,2021-12-20,,,,,,Yes,BNT(2),Yes
+17235,male,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-04,,,isolated,,,2021-12-31,,,,,,Yes,BNT(2),Yes
+17236,male,Above 20,Taiwan,,imported case,US,,,,2022-01-03,,,,2022-01-04,,,isolated,,,2021-12-31,,,,,,Yes,Moderna(2),investigating
+17237,male,Above 20,Taiwan,,imported case,Republic of Uzbekistan,,,,,,,,2022-01-04,,,isolated,,,2021-12-19,,,,,,Yes,AZ(2),Yes
+17238,female,Above 50,Taiwan,home isolation,indigenous case,,#17230,,,,2022-01-04,No,,2022-01-04,,,isolated,,,,,,,,,,,
+17239,female,Above 50,Taiwan,home isolation,indigenous case,,#17230,,fatigue/cough/runny nose,2022-01-01,2022-01-04,No,,2022-01-04,,,isolated,,,,,,,,,,,
+17240,male,Above 50,Taiwan,home isolation,indigenous case,,#17230,,cough,2022-01-01,2022-01-04,No,,2022-01-04,,,isolated,,,,,,,,,,,
