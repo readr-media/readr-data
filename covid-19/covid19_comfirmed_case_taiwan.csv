@@ -17475,3 +17475,35 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17473,male,Above 60,Taiwan,identified as a contact,indigenous case,,,Taoyuan_airport,throat discomfort,2021-12-30,2022-01-08,No,,2022-01-09,,,isolated,,,,,,,,,Yes,AZ(2),Yes
 17474,female,Above 50,Taiwan,identified as a contact,indigenous case,,,Taoyuan_airport,itchy throat/cough/headache,2022-01-08,2022-01-08,No,,2022-01-09,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
 17475,female,Above 60,Taiwan,identified as a contact,indigenous case,,,Taoyuan_airport,fatigue/chest pain,2022-01-06,2022-01-08,No,,2022-01-09,,,isolated,,,,,,,,,Yes,Moderna(3),Yes
+17476,female,Abobe 70,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17477,male,Above 20,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-05,,,,,,,,
+17478,female,Above 50,Taiwan,,imported case,UK,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17479,male,Above 30,Taiwan,,imported case,Nepal,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17480,female,Above 30,Taiwan,,imported case,France,,,,,,,,2022-01-10,,,isolated,,,2022-01-02,,,,,,,,
+17481,female,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17482,male,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2021-12-31,,,,,,,,
+17483,female,Above 30,Taiwan,,imported case,Philippines,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17484,male,Above 20,Taiwan,,imported case,South Africa,,,,,,,,2022-01-10,,,isolated,,,2022-01-07,,,,,,,,
+17485,male,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17486,female,Above 60,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-04,,,,,,,,
+17487,female,Above 30,Taiwan,identified as a contact,indigenous case,,#17639,Taoyuan_airport,discomfort,2022-01-07,2022-01-08,No,,2022-01-10,,,isolated,,,,,,,,,Yes,BNT(1),No
+17488,male,Above 30,Belgium,,imported case,Belgium,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17489,male,Under 5,Taiwan,,imported case,Myanmar,,,,,,,,2022-01-10,,,isolated,,,2021-12-26,,,,,,,,
+17490,male,Under 10,Taiwan,,imported case,Myanmar,,,,,,,,2022-01-10,,,isolated,,,2021-12-26,,,,,,,,
+17491,male,Above 40,Denmark,,imported case,Denmark,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17492,female,Above 20,Taiwan,,imported case,Iceland,,,,,,,,2022-01-10,,,isolated,,,2022-01-07,,,,,,,,
+17493,female,Above 20,Taiwan,,imported case,Italy,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17494,male,Above 40,Ecuador,,imported case,Ecuador,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17495,female,Above 20,Indonesia,,imported case,Indonesia,,,,,,,,2022-01-10,,,isolated,,,2022-01-07,,,,,,,,
+17496,male,Above 70,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17497,male,Above 20,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17498,female,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-09,,,,,,,,
+17499,male,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-09,,,,,,,,
+17500,female,Above 60,Taiwan,,imported case,US,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17501,female,Above 40,Taiwan,,imported case,Finland,,,,,,,,2022-01-10,,,isolated,,,2022-01-08,,,,,,,,
+17502,male,Above 30,Indonesia,,imported case,Indonesia,,,,,,,,2022-01-10,,,isolated,,,2022-01-07,,,,,,,,
+17503,female,Above 40,Taiwan,identified as a contact,indigenous case,,#17453,Taoyuan_airport,sore throat/fever/runny nose,2022-01-05,2022-01-09,No,,2022-01-10,,,isolated,,,,,,,,,Yes,AZ(2),Yes
+17504,male,Under 10,Taiwan,identified as a contact,indigenous case,,"#17472 , #17473",Taoyuan_airport,fever,2022-01-09,2022-01-09,No,,2022-01-10,,,isolated,,,,,,,,,No,,No
+17505,female,Under 10,Taiwan,identified as a contact,indigenous case,,#17504,Taoyuan_airport,asymptomatic case,,2022-01-09,No,,2022-01-10,,,isolated,,,,,,,,,No,,No
+17506,male,Above 40,Taiwan,identified as a contact,indigenous case,,#17503,Taoyuan_airport,nausea/throat discomfort,2021-12-30,2022-01-09,No,,2022-01-10,,,isolated,,,,,,,,,Yes,AZ(2)、Moderna(1),Yes
+17507,female,Above 40,Taiwan,identified as a contact,indigenous case,,#17472,Taoyuan_airport,dry cough,2022-01-04,2022-01-09,No,,2022-01-10,,,isolated,,,,,,,,,Yes,AZ(2),Yes
