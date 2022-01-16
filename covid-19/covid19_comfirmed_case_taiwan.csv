@@ -17764,7 +17764,7 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17762,male,Above 30,US,,imported case,US,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-13,,,,,,,,
 17763,female,Above 30,Taiwan,,imported case,Vietnam,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-07,,,,,,,,
 17764,female,Above 50,Taiwan,,imported case,US,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-07,,,,,,,,
-17765,male,Above 50,Philippines,,imported case,US,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-13,,,,,,,,
+17765,N/A,,,,N/A,,,,,,,,,,,,,,,,,,2022-01-16 新增空號,,,,,
 17766,male,Under 10,Taiwan,,imported case,Australia,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-08,,,,,,,,
 17767,male,Above 60,Taiwan,,imported case,Canada,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-10,,,,,,,,
 17768,female,Above 50,Taiwan,,imported case,Canada,,,,,,Yes,,2022-01-14,,,isolated,,,2022-01-10,,,,,,,,
@@ -17879,8 +17879,59 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 17877,male,Above 30,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-15,,,isolated,,,2022-01-14,,,,,,,,
 17878,female,Above 30,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-15,,,isolated,,,2022-01-14,,,,,,,,
 17879,male,Above 30,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-15,,,isolated,,,2022-01-14,,,,,,,,
-17880,female,Above 10,Taiwan,identified as a contact,indigenous case,,,Taoyuan_bank,臉紅微熱,2022-01-14,2022-01-14,No,,2022-01-15,,,isolated,Yes,,,,,"案17774相關接觸者,接觸者匡列中。",,,No,,No
+17880,female,Above 10,Taiwan,,indigenous case,,,Taoyuan_bank,臉紅微熱,2022-01-14,2022-01-14,No,,2022-01-15,,,isolated,Yes,,,,,"案17774相關接觸者,接觸者匡列中。",,,No,,No
 17881,female,Above 10,Taiwan,identified as a contact,indigenous case,,,Taoyuan_bank,asymptomatic case,,2022-01-14,No,,2022-01-15,,,isolated,,,,,,"案17774相關接觸者,已匡列接觸者2人,列居家隔離,餘匡列 中。",,,Yes,BNT(2),Yes
 17882,female,Above 10,Taiwan,identified as a contact,indigenous case,,,Taoyuan_bank,Investigating,Investigating,2022-01-14,No,,2022-01-15,,,isolated,Yes,,,,,"案17774相關接觸者,接觸者匡列中。",,,Yes,BNT(2),Yes
 17883,female,Above 20,Taiwan,identified as a contact,indigenous case,,,Taoyuan_bank,asymptomatic case,,2022-01-14,No,,2022-01-15,,,isolated,,,,,,"案17630相關接觸者,接觸者匡列中。",,,Yes,BNT(2),Yes
 17884,male,Above 30,Taiwan,identified as a contact,indigenous case,,,Taoyuan_bank,asymptomatic case,,2022-01-14,No,,2022-01-15,,,isolated,,,,,,"案17630相關接觸者,接觸者匡列中。",,,Yes,AZ(2),Yes
+17885,male,Above 30,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17886,female,Above 50,Taiwan,,imported case,Canada,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17887,male,Above 20,Taiwan,,imported case,Mexico,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17888,male,Above 20,Malaysia,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17889,male,Above 20,Taiwan,,imported case,Australia,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17890,male,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17891,female,Above 30,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17892,female,Above 20,Taiwan,,imported case,Australia,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-14,,,,,,,,
+17893,male,Above 30,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17894,female,Above 20,Taiwan,,imported case,Vietnam,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-01,,,,,,,,
+17895,male,Above 50,Taiwan,,imported case,Philippines,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-14,,,,,,,,
+17896,female,Above 60,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-08,,,,,,,,
+17897,male,Above 60,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-08,,,,,,,,
+17898,male,Above 20,Investigating,,imported case,Indonesia,,,,,,Yes,,2022-01-16,,,isolated,,,2022-12-22,,,,,,,,
+17899,female,Above 30,Taiwan,,imported case,UK,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-02,,,,,,,,
+17900,female,Above 30,US,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-08,,,,,,,,
+17901,female,Above 40,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-09,,,,,,,,
+17902,male,Above 60,Philippines,,imported case,Philippines,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17903,male,Above 30,Taiwan,identified as a contact,indigenous case,,#17774,Taoyuan_bank,cough/dry throat,2022-01-12,2022-01-15,No,,2022-01-16,,,isolated,Yes,,,,,"案17774相關接觸者,接觸者匡列中。",,,Yes,AZ(2),Yes
+17904,female,Above 30,Taiwan,identified as a contact,indigenous case,,#17774,Taoyuan_bank,runny nose,2022-01-11,2022-01-15,No,,2022-01-16,,,isolated,Yes,,,,,"案17774相關接觸者,接觸者匡列中。",,,Yes,AZ(2),Yes
+17905,male,Above 20,Taiwan,,imported case,France,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-09,,,,,,,,
+17906,male,Above 50,Taiwan,,imported case,India,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17907,male,Above 20,Chile,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-09,,,,,,,,
+17908,male,Above 30,Taiwan,,imported case,Mexico,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-14,,,,,,,,
+17909,female,Above 20,Denmark,,imported case,Denmark,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-02,,,,,,,,
+17910,male,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-11,,,,,,,,
+17911,male,Above 30,Taiwan,,imported case,Cambodia,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-09,,,,,,,,
+17912,male,Above 40,Taiwan,,imported case,India,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-12,,,,,,,,
+17913,female,Above 70,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-02,,,,,,,,
+17914,male,Above 40,Taiwan,,imported case,Vietnam,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-14,,,,,,,,
+17915,male,Above 40,Taiwan,,imported case,Cambodia,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-14,,,,,,,,
+17916,male,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-12-26,,,,,,,,
+17917,male,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-09,,,,,,,,
+17918,female,Above 50,Switzerland,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17919,female,Above 10,Switzerland,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17920,female,Above 20,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17921,male,Above 30,US,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17922,male,Above 50,UK,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17923,female,Above 20,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17924,female,Above 20,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17925,male,Above 30,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17926,male,Above 30,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17927,female,Above 80,Taiwan,,imported case,Investigating,,,,,,Yes,,2022-01-16,,,isolated,,,2022-01-15,,,,,,,,
+17928,female,Above 40,Taiwan,Investigating,indigenous case,,,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,調查中。,,,,Investigating,Investigating
+17929,female,Above 40,Taiwan,identified as a contact,indigenous case,,#17774,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,"案17774相關接觸者,接觸者匡列中。",,,,Investigating,Investigating
+17930,female,Above 10,Taiwan,group quarantine,indigenous case,,#17880,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,"案17880相關接觸者,接觸者匡列中。",,,,Investigating,Investigating
+17931,male,Above 50,Taiwan,identified as a contact,indigenous case,,#17774,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,"案17774相關接觸者,接觸者匡列中。",,,,Investigating,Investigating
+17932,female,Above 20,Taiwan,identified as a contact,indigenous case,,#17774,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,"案17774相關接觸者,接觸者匡列中。",,,,AZ(1)、Moderna(1),Yes
+17933,female,Above 30,Taiwan,identified as a contact,indigenous case,,#17774,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,"案17774相關接觸者,接觸者匡列中。",,,,AZ(2),Yes
+17934,female,Above 40,Taiwan,Investigating,indigenous case,,,Taoyuan_bank,Investigating,2022-01-14,2022-01-15,No,,2022-01-16,,,isolated,,,,,,調查中。,,,,AZ(1),No
+17935,female,Above 10,Taiwan,Investigating,indigenous case,,,Taoyuan_bank,Investigating,Investigating,2022-01-15,No,,2022-01-16,,,isolated,,,,,,調查中。,,,,Investigating,Investigating
