@@ -18066,3 +18066,57 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 18064,male,Above 60,Taiwan,identified as a contact,indigenous case,,,,Investigating,Investigating,2022-01-18,No,,2022-01-18,,,isolated,,,,案17369相關接觸者，居家隔離期滿前採檢確診。,,,,,Yes,Moderna(2),Yes
 18065,male,Above 40,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-17,No,,2022-01-18,,,isolated,,,,案17997相關接觸者，接觸者匡列中。,,,,,Yes,AZ(1)、Moderna(1),Yes
 18066,male,Above 40,Taiwan,identified as a contact,indigenous case,,,,fever/throat discomfort/stuffy nose,2022-01-15,2022-01-17,No,,2022-01-18,,,isolated,Yes,,,案17774相關接觸者，接觸者匡列中。,,,,,Yes,BNT(2),Yes
+18067,female,Above 20,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-17,,,,,,,,
+18068,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-11,,,,,,,,
+18069,female,Above 50,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-17,,,,,,,,
+18070,male,Above 20,China,filtered at airport,imported case,Australia,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-11,,,,,,,,
+18071,female,Above 40,Taiwan,filtered at airport,imported case,Australia,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18072,male,Above 50,Taiwan,home quarantine,imported case,Philippines,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-17,,,,,,,,
+18073,female,Under 10,Philippines,home quarantine,imported case,Philippines,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-17,,,,,,,,
+18074,female,Above 50,Taiwan,filtered at airport,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18075,female,Above 20,Philippines,home quarantine,imported case,Philippines,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-17,,,,,,,,
+18076,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-11,,,,,,,,
+18077,male,Above 50,US,home quarantine,imported case,US,,,Fever/cough,,,Yes,,2022-01-19,,,isolated,Yes,,2022-01-08,,,,,,,,
+18078,female,Above 10,Ecuador,home quarantine,imported case,Ecuador,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-08,,,,,,,,
+18079,female,Above 30,Taiwan,home quarantine,imported case,United Arab Emirates,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18080,male,Above 20,Philippines,home quarantine,imported case,Philippines,,,,,,Yes,,2022-01-19,,,isolated,,,2021-12-29,,,,,,,,
+18081,male,Under 10,Taiwan,filtered at hospital,indigenous case,,,,fever/cough,2022-01-18,2022-01-18,No,,2022-01-19,,,isolated,Yes,,,案17967相關接觸者，接觸者匡列中。,,,,,No,No,No
+18082,female,Above 30,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,×,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18060相關接觸者，已匡列接觸者6人，列居家隔離，餘匡列中。,,,,,Yes,BNT(2),Yes
+18083,female,Above 10,Taiwan,filtered at hospital,indigenous case,,,,itchy throat/fever/cough,2022-01-17,2022-01-18,No,,2022-01-19,,,isolated,Yes,,,案17983相關接觸者，已匡列接觸者5人，列集中隔離。,,,,,No,No,No
+18084,male,Above 10,India,home quarantine,imported case,India,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-13,,,,,,,,
+18085,male,Above 20,Taiwan,home quarantine,imported case,France,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-04,,,,,,,,
+18086,female,Above 20,Taiwan,home quarantine,imported case,UK,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-05,,,,,,,,
+18087,male,Above 30,Spain,home quarantine,imported case,Spain,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-12,,,,,,,,
+18088,male,Above 30,Taiwan,home quarantine,imported case,Spain,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-12,,,,,,,,
+18089,male,Above 20,Taiwan,home quarantine,imported case,United Arab Emirates,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-05,,,,,,,,
+18090,male,Above 20,Taiwan,home quarantine,imported case,South Korea,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-14,,,,,,,,
+18091,male,Above 20,Taiwan,home quarantine,imported case,Cambodia,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-06,,,,,,,,
+18092,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-05,,,,,,,,
+18093,male,Above 40,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-05,,,,,,,,
+18094,female,Above 20,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-08,,,,,,,,
+18095,female,Above 30,Taiwan,home quarantine,imported case,United Arab Emirates,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-11,,,,,,,,
+18096,male,Under 5,Philippines,home quarantine,imported case,Philippines,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-17,,,,,,,,
+18097,male,Above 20,Philippines,home quarantine,imported case,Philippines,,,,,,Yes,,2022-01-19,,,isolated,,,2021-12-29,,,,,,,,
+18098,female,Above 30,Taiwan,home quarantine,imported case,France,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-12,,,,,,,,
+18099,female,Above 60,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18100,female,Above 40,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18101,Investigating,Above 30,Ireland,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18102,Investigating,Above 20,India,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18103,Investigating,Above 20,India,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18104,female,Above 40,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18105,male,Above 70,Taiwan,filtered at airport,imported case,US,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18106,female,Above 60,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18107,Investigating,Above 20,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18108,female,Above 40,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18109,female,Above 40,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18110,male,Above 40,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18111,female,Above 20,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18112,female,Above 20,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18113,female,Above 20,Taiwan,filtered at airport,imported case,Investigating,,,,,,Yes,,2022-01-19,,,isolated,,,2022-01-18,,,,,,,,
+18114,female,Under 10,Taiwan,filtered at hospital,indigenous case,,,,Investigating,Investigating,2022-01-18,No,,2022-01-19,,,isolated,Investigating,,,案18053相關接觸者，接觸者匡列中。,,,,,No,No,No
+18115,male,Above 10,Taiwan,identified as a contact,indigenous case,,,,Investigating,2022-01-18,2022-01-18,No,,2022-01-19,,,isolated,Investigating,,,案18114相關接觸者，接觸者匡列中。,,,,,No,No,No
+18116,male,Above 40,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18114相關接觸者，接觸者匡列中。,,,,,No,No,No
+18117,female,Above 40,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18114相關接觸者，接觸者匡列中。,,,,,Investigating,Investigating,Investigating
+18118,male,Under 10,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18053相關接觸者，接觸者匡列中。,,,,,No,No,No
+18119,female,Above 50,Taiwan,filtered at hospital,indigenous case,,,,Investigating,Investigating,2022-01-18,No,,2022-01-19,,,isolated,Investigating,,,因需求就醫採檢，接觸者匡列中。,,,,,No,No,No
+18120,male,Above 60,Taiwan,filtered at hospital,indigenous case,,,,itchy throat/cough,2022-01-17,2022-01-18,No,,2022-01-19,,,isolated,Yes,,,案17802相關接觸者，接觸者匡列中。,,,,,Yes,Moderna(2),Yes
