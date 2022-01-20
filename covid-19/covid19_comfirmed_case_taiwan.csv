@@ -18118,5 +18118,42 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 18116,male,Above 40,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18114相關接觸者，接觸者匡列中。,,,,,No,No,No
 18117,female,Above 40,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18114相關接觸者，接觸者匡列中。,,,,,Investigating,Investigating,Investigating
 18118,male,Under 10,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-18,No,,2022-01-19,,,isolated,No,,,案18053相關接觸者，接觸者匡列中。,,,,,No,No,No
-18119,female,Above 50,Taiwan,filtered at hospital,indigenous case,,,,Investigating,Investigating,2022-01-18,No,,2022-01-19,,,isolated,Investigating,,,因需求就醫採檢，接觸者匡列中。,,,,,No,No,No
+18119,N/A,,,,N/A,,,,,,,,,,,,,,,,已移除成空號,,,,,No,No,No
 18120,male,Above 60,Taiwan,filtered at hospital,indigenous case,,,,itchy throat/cough,2022-01-17,2022-01-18,No,,2022-01-19,,,isolated,Yes,,,案17802相關接觸者，接觸者匡列中。,,,,,Yes,Moderna(2),Yes
+18121,male,Above 10,Taiwan,filtered at airport,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18122,male,Above 40,Taiwan,filtered at airport,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18123,female,Above 30,Taiwan,filtered at airport,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18124,male,Above 20,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-14,,,,,,,,
+18125,male,Above 20,Taiwan,filtered at airport,imported case,Australia,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18126,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-12,,,,,,,,
+18127,female,Above 30,Taiwan,filtered at airport,imported case,Bangladesh,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18128,female,Above 40,Taiwan,filtered at airport,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18129,female,Above 40,Taiwan,filtered at airport,imported case,Australia,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18130,female,Above 20,US,filtered at airport,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18131,female,Above 40,Taiwan,filtered at airport,imported case,France,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-18,,,,,,,,
+18132,female,Above 20,Taiwan,filtered at airport,imported case,France,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-18,,,,,,,,
+18133,male,Above 30,Taiwan,home quarantine,imported case,Vietnam,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-13,,,,,,,,
+18134,male,Above 20,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-16,,,,,,,,
+18135,female,Above 40,Taiwan,filtered at hospital,indigenous case,,,,Fever/走路無力/cough,2022-01-17,2022-01-18,No,,2022-01-20,,,isolated,Yes,,,感染源Invasgating，已匡列接觸者31人。,,,,,,AZ(2),Yes
+18136,female,Above 50,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-19,No,,2022-01-20,,,isolated,,,,案17774相關接觸者，接觸者匡列中。,,,,,,AZ(2),Yes
+18137,female,Above 30,Philippines,identified as a contact,indigenous case,,,,cough,2022-01-14,2022-01-19,No,,2022-01-20,,,isolated,Yes,,,案17774相關接觸者，接觸者匡列中。,,,,,,No,No
+18138,female,Above 80,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-19,No,,2022-01-20,,,isolated,,,,案17368相關接觸者，隔離期滿前採檢確診。,,,,,,AZ(2),Yes
+18139,male,Above 60,Taiwan,identified as a contact,indigenous case,,,,asymptomatic case,,2022-01-19,No,,2022-01-20,,,isolated,,,,案17368相關接觸者，隔離期滿前採檢確診。,,,,,,Moderna(2),Yes
+18140,male,Under 5,Taiwan,identified as a contact,indigenous case,,,,runny nose/cough,2022-01-18,2022-01-19,No,,2022-01-20,,,isolated,Yes,,,案17967相關接觸者。,,,,,,No,No
+18141,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-05,,,,,,,,
+18142,female,Above 30,Taiwan,home quarantine,imported case,US,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-13,,,,,,,,
+18143,male,Above 30,Taiwan,home quarantine,imported case,Saudi Arabia,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-13,,,,,,,,
+18144,male,Above 30,Taiwan,home quarantine,imported case,Vietnam,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-13,,,,,,,,
+18145,male,Above 30,Taiwan,home quarantine,imported case,Vietnam,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-13,,,,,,,,
+18146,male,Above 50,Taiwan,filtered at airport,imported case,Invasgating,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18147,male,Above 30,Taiwan,filtered at airport,imported case,Invasgating,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18148,male,Above 30,Taiwan,filtered at airport,imported case,Invasgating,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18149,female,Above 20,Taiwan,filtered at airport,imported case,Invasgating,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18150,male,Above 20,US,filtered at airport,imported case,Invasgating,,,,,,Yes,,2022-01-20,,,isolated,,,2022-01-19,,,,,,,,
+18151,female,Above 20,Taiwan,identified as a contact,indigenous case,,,,Invasgating,Invasgating,2022-01-19,No,,2022-01-20,,,isolated,,,,案17371相關接觸者，隔離期滿前採檢確診。,,,,,,Invasgating,Invasgating
+18152,male,Above 80,Taiwan,identified as a contact,indigenous case,,,,Invasgating,Invasgating,2022-01-19,No,,2022-01-20,,,isolated,,,,案17903相關接觸者，接觸者匡列中。,,,,,,Invasgating,Invasgating
+18153,female,Above 70,Taiwan,identified as a contact,indigenous case,,,,breathing difficulties/cough/throat discomfort,2022-01-19,2022-01-19,No,,2022-01-20,,,isolated,Yes,,,案17903相關接觸者，接觸者匡列中。,,,,,,Invasgating,Invasgating
+18154,female,Above 70,Taiwan,identified as a contact,indigenous case,,,,discomfort,2022-01-15,2022-01-19,No,,2022-01-20,,,isolated,Yes,,,案18135相關接觸者，接觸者匡列中。,,,,,,Moderna(2)、BNT(1),Yes
+18155,male,Under 5,Taiwan,filtered at hospital,indigenous case,,,,Fever/twitch,2022-01-19,2022-01-20,No,,2022-01-20,,,isolated,Yes,,,感染源Invasgating。,,,,,,No,No
+18156,male,Above 50,Taiwan,identified as a contact,indigenous case,,,,cough,2022-01-15,2022-01-20,No,,2022-01-20,,,isolated,Yes,,,案18155相關接觸者，接觸者匡列中。,,,,,,BNT(2),Yes
+18157,female,Above 30,China,identified as a contact,indigenous case,,,,Invasgating,Invasgating,2022-01-20,No,,2022-01-20,,,isolated,,,,案18155相關接觸者，接觸者匡列中。,,,,,,BNT(1),No
