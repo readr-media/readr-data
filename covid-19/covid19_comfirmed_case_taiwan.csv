@@ -18625,3 +18625,67 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 18623,male,Above 40,Taiwan,identified as a contact,indigenous case,,"#18219, #18220",遠雄自貿園區,Investigating,Investigating,Investigating,,,2022-01-26,,,isolated,,,,,,,,,Investigating,Investigating,Investigating
 18624,female,Above 20,Taiwan,identified as a contact,indigenous case,,"#18219, #18220",遠雄自貿園區,Investigating,Investigating,Investigating,,,2022-01-26,,,isolated,,,,,,,,,Investigating,Investigating,Investigating
 18625,male,Above 40,Taiwan,identified as a contact,indigenous case,,#18514,,Investigating,Investigating,Investigating,,,2022-01-26,,,isolated,,,,,,,,,Investigating,Investigating,Investigating
+18626,male,Above 40,US,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-21,,,,,,,,
+18627,male,Above 50,Taiwan,,imported case,South Africa,,,,,,,,2022-01-27,,,isolated,,,2022-01-22,,,,,,,,
+18628,female,Above 20,Taiwan,,imported case,Japan,,,,,,,,2022-01-27,,,isolated,,,2022-01-25,,,,,,,,
+18629,male,Above 30,Taiwan,,imported case,Vietnam,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18630,male,Under 10,Taiwan,identified as a contact,indigenous case,,#18530,,cough/runny nose/fever,2022-01-20,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,No,,No
+18631,female,Above 60,Taiwan,identified as a contact,indigenous case,,"#18530, #18630, #18135, #18154, #18348, #18161, #18617",,nasal congestion/cough,2022-01-19,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
+18632,male,Above 70,Taiwan,identified as a contact,indigenous case,,"#18530, #18630",,asymptomatic case,,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
+18633,male,Under 5,Taiwan,identified as a contact,indigenous case,,"#18530, #18630",,fever,2022-01-20,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,No,,No
+18634,female,Above 20,Taiwan,identified as a contact,indigenous case,,"#18530, #18630",,cough,2022-01-24,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,AZ(1)、Moderna(1),Yes
+18635,female,Above 60,Taiwan,identified as a contact,indigenous case,,"#18161, #18617, #18135, #18154, #18348,#18161, #18617",,sore throat/myalgia,2022-01-22,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
+18636,female,Above 10,Taiwan,identified as a contact,indigenous case,,"#18443, #18521",,nasal congestion/runny nose,2022-01-25,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,No,,No
+18637,female,Above 40,Taiwan,hospitalized,indigenous case,,"#18155, #18156, #18688",Kaohsiung_harbor,fever/sore throat,2022-01-25,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
+18638,male,Above 40,Indonesia,hospitalized,indigenous case,,,Kaohsiung_harbor,fatigue,2022-01-22,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,Yes,BNT(2),Yes
+18639,male,Above 30,Indonesia,identified as a contact,indigenous case,,,Kaohsiung_harbor,Investigating,Investigating,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,Yes,BNT(2),Yes
+18640,male,Above 20,Finland,,imported case,Finland,,,,,,,,2022-01-27,,,isolated,,,2021-09-07,,,,,,,,
+18641,female,Above 60,Taiwan,Community testing,indigenous case,,"#18155, #18156, #18545",Kaohsiung_harbor,asymptomatic case,,2022-01-24,,,2022-01-27,,,isolated,,,,,,,,,Yes,BNT(2),Yes
+18642,female,Above 40,Taiwan,identified as a contact,indigenous case,,"#18155, #18156, #18545",Kaohsiung_harbor,runny nose,2022-01-24,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,AZ(2),Yes
+18643,male,Above 40,Indonesia,identified as a contact,indigenous case,,,,cough/fatigue,2022-01-23,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,Yes,BNT(2),Yes
+18644,male,Above 30,Indonesia,,imported case,Indonesia,,,,,,,,2022-01-27,,,isolated,,,2021-05-02,,,,,,,,
+18645,female,Above 50,Taiwan,identified as a contact,indigenous case,,#18514,,asymptomatic case,,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,Investigating,Investigating,Investigating
+18646,female,Above 20,Taiwan,,imported case,UK,,,,,,,,2022-01-27,,,isolated,,,2022-01-23,,,,,,,,
+18647,male,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18648,male,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-17,,,,,,,,
+18649,female,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18650,male,Above 20,Taiwan,,imported case,France,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18651,female,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18652,female,Above 40,Taiwan,,imported case,Ethiopia,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18653,male,Above 40,Philippines,,imported case,Philippines,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18654,female,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18655,female,Above 20,Taiwan,,imported case,France,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18656,male,Above 60,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18657,male,Above 20,Taiwan,,imported case,Singapore,,,,,,,,2022-01-27,,,isolated,,,2022-01-16,,,,,,,,
+18658,female,Above 40,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18659,male,Above 30,Taiwan,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18660,male,Under 5,Taiwan,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-13,,,,,,,,
+18661,female,Above 30,Taiwan,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18662,male,Above 20,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-16,,,,,,,,
+18663,male,Above 30,India,,imported case,India,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18664,female,Above 30,Taiwan,,imported case,Tanzania,,,,,,,,2022-01-27,,,isolated,,,2022-01-19,,,,,,,,
+18665,female,Above 40,Taiwan,,imported case,India,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18666,female,Above 20,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18667,female,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-16,,,,,,,,
+18668,male,Above 40,Taiwan,,imported case,UK,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18669,female,Above 50,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-19,,,,,,,,
+18670,male,Above 30,Taiwan,,imported case,India,,,,,,,,2022-01-27,,,isolated,,,2022-01-12,,,,,,,,
+18671,female,Above 20,Taiwan,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-12,,,,,,,,
+18672,male,Above 40,Taiwan,,imported case,Vietnam,,,,,,,,2022-01-27,,,isolated,,,2022-01-13,,,,,,,,
+18673,female,Above 20,Taiwan,,imported case,Indonesia,,,,,,,,2022-01-27,,,isolated,,,2022-01-13,,,,,,,,
+18674,male,Above 30,Turkey,,imported case,Turkey,,,,,,,,2022-01-27,,,isolated,,,2022-01-16,,,,,,,,
+18675,female,Above 30,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-20,,,,,,,,
+18676,female,Under 5,Taiwan,,imported case,US,,,,,,,,2022-01-27,,,isolated,,,2022-01-12,,,,,,,,
+18677,male,Above 30,Vietnam,identified as a contact,indigenous case,,,,sore throat/lose their ability to smell and taste,2022-01-26,2022-01-25,,,2022-01-27,,,isolated,,,,,,,,,Yes,BNT(2),Yes
+18678,male,Above 20,Russia,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18679,female,Above 30,Taiwan,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18680,male,Above 40,US,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18681,female,Above 20,Indonesia,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18682,female,Above 30,Taiwan,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18683,female,Above 60,US,,imported case,Investigating,,,,,,,,2022-01-27,,,isolated,,,2022-01-26,,,,,,,,
+18684,male,Under 5,Taiwan,identified as a contact,indigenous case,,"#18530, #18613",,asymptomatic case,,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,No,,No
+18685,male,Under 10,Taiwan,hospitalized,indigenous case,,#18530,,cough/fever,2022-01-26,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,No,,No
+18686,female,Above 50,Taiwan,Investigating,indigenous case,,,,Investigating,Investigating,Investigating,,,2022-01-27,,,isolated,,,,,,,,,Investigating,Investigating,Investigating
+18687,female,Above 50,Taiwan,Community testing,indigenous case,,,,Investigating,Investigating,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
+18688,male,Above 40,Taiwan,identified as a contact,indigenous case,,,,chest tightness,2022-01-24,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,Yes,Moderna(2),Yes
+18689,male,Under 10,Taiwan,identified as a contact,indigenous case,,,,nasal congestion/cough/runny nose,2022-01-19,2022-01-26,,,2022-01-27,,,isolated,,,,,,,,,No,,No
