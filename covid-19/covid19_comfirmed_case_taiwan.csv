@@ -18917,3 +18917,63 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 18915,male,Above 20,Taiwan,,imported case,investigating,,,,,,Yes,,2022-01-31,,,isolated,,,2022-01-30,,,,,,,,
 18916,female,Above 30,Taiwan,home quarantine,indigenous case,,"#18135, #18530, #18551, #18906",桃園幼兒園及火鍋店,cough/headache,2022-01-30,2022-01-30,No,,2022-01-31,,,isolated,Yes,,,個案為 #18551 的保母。,,,Taoyuan City,,investigating,investigating,investigating
 18917,male,Above 40,Taiwan,home quarantine,indigenous case,,"#18219, #18220, #18620",遠雄自貿園區,asymptomatic case,,2022-01-30,No,,2022-01-31,,,isolated,No,,,,,,,,Yes,AZ(2),Yes
+18918,male,Above 50,Taiwan,,imported case,US,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-28,,,,,,,,
+18919,female,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18920,male,Above 40,Indonesia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18921,male,Above 50,Poland,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18922,male,Above 40,Poland,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18923,male,Above 40,Russia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18924,male,Above 40,Russia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18925,male,Above 30,Ukraine,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18926,male,Above 30,Netherlands,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18927,male,Above 50,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18928,male,Above 50,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18929,male,Above 20,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18930,male,Above 30,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18931,male,Above 40,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18932,male,Above 20,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18933,male,Above 40,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18934,male,Above 30,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18935,male,Above 30,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18936,male,Above 40,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18937,male,Above 40,Malaysia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18938,male,Above 20,Taiwan,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18939,male,Under 5,Taiwan,,imported case,US,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-25,,,,,,,,
+18940,female,Under 5,Taiwan,,imported case,US,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-25,,,,,,,,
+18941,female,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18942,male,Above 40,Taiwan,,indigenous case,,#18905,,sore throat/dry cough/sputum production,2022-01-30,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,個案為案 18905 同住家人。,,,Kaohsiung City,,No,,No
+18943,male,Under 5,Taiwan,,indigenous case,,#18443、#18771,YiIan_Hotel,fever,2022-01-30,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,,,,Kaohsiung City,,No,,No
+18944,female,Above 30,Taiwan,,indigenous case,,#18443、#18771,YiIan_Hotel,sore throat,2022-01-30,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,,,,Kaohsiung City,,Yes,AZ(2),Yes
+18945,male,Under 10,Taiwan,,indigenous case,,#18443、#18749,YiIan_Hotel,runny nose/nasal congestion/cough,2022-01-28,2022-01-31,No,,2022-02-01,,,isolated,Yes,,,,,,Kaohsiung City,,No,,No
+18946,female,Above 40,Taiwan,,indigenous case,,#18443、#18749,YiIan_Hotel,fever/cough/sore throat,2022-01-31,2022-01-31,No,,2022-02-01,,,isolated,Yes,,,,,,Kaohsiung City,,Yes,AZ(2),Yes
+18947,female,Above 20,Philippines,,indigenous case,,"#18219, #18220",遠雄自貿園區,fever,2022-01-27,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,,,,Taoyuan City,,Yes,BNT(2),Yes
+18948,female,Above 20,Philippines,,indigenous case,,"#18219, #18220",遠雄自貿園區,chills/fever,2022-01-27,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,,,,Taoyuan City,,Yes,BNT(2),Yes
+18949,female,Above 40,Taiwan,,indigenous case,,"#18135, #18530, #18706",桃園幼兒園及餐廳,sore throat/chest tightness/cough/headache,2022-01-30,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,,,,Taoyuan City,,Yes,BNT(2),investigating
+18950,female,Above 60,Taiwan,,indigenous case,,#18886,,dry throat,2022-01-30,2022-01-30,No,,2022-02-01,,,isolated,Yes,,,個案為案 18886 同住家人。,,,Taoyuan City,,Yes,Moderna(2),Yes
+18951,male,Under 10,Taiwan,,indigenous case,,"#18443, #18883",YiIan_Hotel,investigating,investigating,2022-01-31,No,,2022-02-01,,,isolated,investigating,,,,,,Kaohsiung City,,No,,No
+18952,male,Under 5,Taiwan,,indigenous case,,"#18443, #18749",YiIan_Hotel,fever/cough,2022-01-31,2022-01-31,No,,2022-02-01,,,isolated,Yes,,,,,,Kaohsiung City,,No,,No
+18953,male,Above 40,Taiwan,,imported case,Vietnam,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-18,,,,,,,,
+18954,male,Above 40,Taiwan,,imported case,Brazil,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-28,,,,,,,,
+18955,male,Above 40,Taiwan,,imported case,India,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-18,,,,,,,,
+18956,male,Above 20,Nicaragua,,imported case,UK,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18957,female,Above 30,Taiwan,,imported case,US,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-17,,,,,,,,
+18958,female,Above 30,Japan,,imported case,Japan,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-26,,,,,,,,
+18959,male,Above 50,Russia,,imported case,Malaysia,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-29,,,,,,,,
+18960,female,Above 10,Taiwan,,imported case,Panama,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-30,,,,,,,,
+18961,female,Above 20,Taiwan,,imported case,Poland,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-18,,,,,,,,
+18962,female,Above 50,Taiwan,,imported case,France,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-25,,,,,,,,
+18963,male,Above 50,UK,,imported case,UK,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-18,,,,,,,,
+18964,female,Above 40,Taiwan,,imported case,UK,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-25,,,,,,,,
+18965,male,Above 20,Taiwan,,imported case,Switzerland,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-25,,,,,,,,
+18966,male,Above 50,Taiwan,,imported case,Philippines,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-17,,,,,,,,
+18967,male,Under 5,Taiwan,,imported case,Japan,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18968,male,Above 20,US,,imported case,investigating,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-25,,,,,,,,
+18969,male,Under 10,Taiwan,,indigenous case,,"#18155, #18186",Kaohsiung_harbor,asymptomatic case,,2022-01-31,No,,2022-02-01,,,isolated,No,,,,,,Kaohsiung City,,No,,No
+18970,female,Under 10,Taiwan,,indigenous case,,"#18155, #18186",Kaohsiung_harbor,asymptomatic case,,2022-01-31,No,,2022-02-01,,,isolated,No,,,,,,Kaohsiung City,,No,,No
+18971,female,Above 30,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18972,male,Above 30,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18973,female,Above 20,US,,imported case,investigating,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18974,male,Above 20,The Republic of El Salvador,,imported case,investigating,,,,,,Yes,,2022-02-01,,,isolated,,,2022-01-31,,,,,,,,
+18975,female,Above 40,Taiwan,,indigenous case,,#18886,,cough/sore throat,2022-01-28,2022-01-31,No,,2022-02-01,,,isolated,Yes,,,,,,Taoyuan City,,Yes,BNT(2),Yes
+18976,female,Above 20,Taiwan,,indigenous case,,#18886,,asymptomatic case,,2022-02-01,No,,2022-02-01,,,isolated,No,,,,,,Taoyuan City,,Yes,BNT(2),Yes
+18977,male,Above 40,Taiwan,,indigenous case,,#18886,,asymptomatic case,,2022-02-01,No,,2022-02-01,,,isolated,No,,,,,,Taoyuan City,,Yes,AZ(2),Yes
