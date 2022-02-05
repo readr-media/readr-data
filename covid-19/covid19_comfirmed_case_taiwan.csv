@@ -19157,3 +19157,75 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 19155,male,Above 40,Taiwan,identified as a contact,indigenous case,,"#18757, #18886, #19029",,itchy throat,2022-02-03,2022-02-03,No,,2022-02-04,,,isolated,Yes,,,,,,,,Yes,高端(2)、BNT(1),Yes
 19156,female,Above 20,Taiwan,identified as a contact,indigenous case,,"#18757, #18886, #19029",,sore throat,2022-02-03,2022-02-03,No,,2022-02-04,,,isolated,Yes,,,,,,,,Yes,高端(2),Yes
 19157,female,Above 10,Taiwan,identified as a contact,indigenous case,,"#18757, #18886, #19029",,sore throat,2022-02-02,2022-02-03,No,,2022-02-04,,,isolated,Yes,,,,,,,,Yes,BNT(2),Yes
+19158,female,Above 60,Taiwan,,imported case,Canada,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19159,female,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-21,,,,,,,,
+19160,male,Above 20,Taiwan,,imported case,United Arab Emirates,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-21,,,,,,,,
+19161,male,Above 20,Japan,,imported case,Japan,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-03,,,,,,,,
+19162,male,Above 20,US,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-20,,,,,,,,
+19163,female,Above 60,Taiwan,identified as a contact,indigenous case,,"#18155, #19094",Kaohsiung_harbor,investigating,investigating,2022-02-03,No,,2022-02-05,,,isolated,investigating,,,,,,Kaohsiung City,,investigating,investigating,investigating
+19164,female,Above 40,Taiwan,home quarantine,indigenous case,,"#18443, #18822",YiIan_Hotel,fever/myalgia/sore throat,2022-02-03,2022-02-03,No,,2022-02-05,,,isolated,Yes,,,,,,Kaohsiung City,,investigating,investigating,investigating
+19165,female,Above 70,Taiwan,identified as a contact,indigenous case,,"#18155, #19131",Kaohsiung_harbor,sore throat/myalgia/runny nose,2022-01-17,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Kaohsiung City,,investigating,investigating,investigating
+19166,male,Above 40,Taiwan,identified as a contact,indigenous case,,"#18155, #19131",Kaohsiung_harbor,asymptomatic case,,2022-02-04,No,,2022-02-05,,,isolated,No,,,,,,Kaohsiung City,,investigating,investigating,investigating
+19167,female,Above 50,Taiwan,home quarantine,indigenous case,,"#18155, #19094",Kaohsiung_harbor,dry throat,2022-02-03,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Kaohsiung City,,investigating,investigating,investigating
+19168,male,Between 20 to 40,Taiwan,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19169,male,Above 30,Taiwan,,imported case,Philippines,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19170,male,Above 10,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-29,,,,,,,,
+19171,male,Above 50,Taiwan,,imported case,India,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-03,,,,,,,,
+19172,female,Above 20,Taiwan,,imported case,Switzerland,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-29,,,,,,,,
+19173,male,Above 60,Taiwan,,imported case,Germany,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-21,,,,,,,,
+19174,female,Above 30,Philippines,,imported case,Philippines,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19175,male,Above 50,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-28,,,,,,,,
+19176,female,Above 30,Taiwan,,imported case,France,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-22,,,,,,,,
+19177,female,Above 30,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-21,,,,,,,,
+19178,female,Above 20,Indonesia,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-22,,,,,,,,
+19179,male,Above 30,Ukraine,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-01,,,,,,,,
+19180,male,Above 10,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-29,,,,,,,,
+19181,male,Above 50,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-29,,,,,,,,
+19182,male,Above 60,Taiwan,,imported case,US,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-22,,,,,,,,
+19183,female,Above 20,Taiwan,,imported case,Japan,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-29,,,,,,,,
+19184,male,Above 20,Japan,,imported case,Japan,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19185,male,Above 40,Philippines,,imported case,Philippines,,,,,,Yes,,2022-02-05,,,isolated,,,2022-01-29,,,,,,,,
+19186,female,Above 80,Taiwan,home quarantine,indigenous case,,"#18155, #18373",Kaohsiung_harbor,asymptomatic case,,2022-02-04,No,,2022-02-05,,,isolated,No,,,,,,Kaohsiung City,,Yes,Moderna(1),No
+19187,male,Above 20,Taiwan,home quarantine,indigenous case,,"#18155, #18365",Kaohsiung_harbor,sputum production/sore throat/itchy throat,2022-02-04,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Kaohsiung City,,No,,No
+19188,female,Above 50,Taiwan,home quarantine,indigenous case,,"#18155, #18365",Kaohsiung_harbor,nasal congestion/cough,2022-02-04,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Kaohsiung City,,No,,No
+19189,male,Above 40,Taiwan,home quarantine,indigenous case,,"#18155, #18641",Kaohsiung_harbor,cough,2022-02-03,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Kaohsiung City,,No,,No
+19190,male,Above 30,Taiwan,home quarantine,indigenous case,,"#18155, #18444",Kaohsiung_harbor,asymptomatic case,,2022-02-04,No,,2022-02-05,,,isolated,No,,,,,,Kaohsiung City,,Yes,AZ(2),Yes
+19191,female,Above 50,Taiwan,identified as a contact,indigenous case,,"#18757, #19154",,cough,2022-01-31,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Taoyuan City,,Yes,AZ(2)、Moderna(1),Yes
+19192,male,Above 20,Taiwan,home quarantine,indigenous case,,"#18135, #18348",桃園幼兒園及餐廳,cough/itchy throat,2022-01-22,2022-02-04,No,,2022-02-05,,,isolated,Yes,,,,,,Taoyuan City,,Yes,高端(2),Yes
+19193,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19194,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19195,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19196,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19197,male,Above 10,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19198,male,Above 30,Gambia,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19199,female,Above 20,US,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19200,male,Above 50,UK,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19201,male,Above 20,UK,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19202,female,Above 60,Saint Vincent and the Grenadines,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19203,female,Above 10,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19204,female,Above 50,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19205,female,Above 30,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19206,male,Above 20,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-05,,,isolated,,,2022-02-04,,,,,,,,
+19207,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19208,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19209,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19210,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19211,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19212,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19213,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19214,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19215,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19216,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19217,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19218,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19219,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19220,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19221,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19222,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19223,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19224,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19225,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19226,female,Between 20 to 40,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,y,Taoyuan City,,investigating,investigating,investigating
+19227,male,Above 50,Taiwan,identified as a contact,indigenous case,,"#18757, #19154, #19191",,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,,Taoyuan City,,Yes,Moderna(1),No
+19228,male,Under 5,Taiwan,identified as a contact,indigenous case,,"#18757, #19154, #18976",,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,,Taoyuan City,,No,No,No
+19229,male,Above 70,Taiwan,identified as a contact,indigenous case,,"#18757, #19154, #19191",,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,,Taoyuan City,,Yes,Moderna(3),Yes
