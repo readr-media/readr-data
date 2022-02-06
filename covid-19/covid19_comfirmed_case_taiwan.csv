@@ -19229,3 +19229,46 @@ patient_id,gender,age,country,report_reason,case_type,imported_country,contact_w
 19227,male,Above 50,Taiwan,identified as a contact,indigenous case,,"#18757, #19154, #19191",,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,,Taoyuan City,,Yes,Moderna(1),No
 19228,male,Under 5,Taiwan,identified as a contact,indigenous case,,"#18757, #19154, #18976",,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,,Taoyuan City,,No,No,No
 19229,male,Above 70,Taiwan,identified as a contact,indigenous case,,"#18757, #19154, #19191",,investigating,investigating,2022-02-04,No,,2022-02-05,,,isolated,investigating,,,,,,Taoyuan City,,Yes,Moderna(3),Yes
+19230,female,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-22,,,,,,,,
+19231,female,Above 30,Taiwan,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19232,female,Above 50,Taiwan,,imported case,Australia,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19233,female,Above 60,Mexico,,imported case,Mexico,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19234,male,Above 10,Taiwan,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19235,female,Above 20,Taiwan,,imported case,South Korea,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-04,,,,,,,,
+19236,male,Above 40,Austria,,imported case,Austria,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-01,,,,,,,,
+19237,male,Above 40,Taiwan,,imported case,Philippines,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-20,,,,,,,,
+19238,female,Above 50,Taiwan,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19239,male,Above 20,Philippines,,imported case,Thailand,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-23,,,,,,,,
+19240,female,Above 60,investigating,home quarantine,indigenous case,,"#18155, #18367",Kaohsiung_harbor,asymptomatic case,,2022-02-04,No,,2022-02-06,,,isolated,No,,,,,,Kaohsiung City,,Yes,Moderna(2),Yes
+19241,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
+19242,male,Above 70,Taiwan,home quarantine,indigenous case,,"#18155, #18490",Kaohsiung_harbor,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,,Kaohsiung City,,Yes,Moderna(2),Yes
+19243,female,Above 70,Taiwan,home quarantine,indigenous case,,"#18155, #18490",Kaohsiung_harbor,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,,Kaohsiung City,,No,,No
+19244,male,Above 40,Taiwan,self-financed testing,indigenous case,,Investigating,Kaohsiung_harbor,runny nose,2022-02-04,2022-02-05,No,,2022-02-06,,,isolated,Yes,,,個案因需求定期採檢，感染源調查中，具高雄港活動史,,,Kaohsiung City,,Yes,AZ(2)、Moderna(1),Yes
+19245,female,Above 10,Taiwan,home quarantine,indigenous case,,"#18757, #19029",,cough/sore throat/fever,2022-02-04,2022-02-04,No,,2022-02-06,,,isolated,Yes,,,,,,,,Yes,AZ(2),Yes
+19246,male,Above 30,US,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-28,,,,,,,,
+19247,male,Above 10,US,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-28,,,,,,,,
+19248,male,Above 40,investigating,,imported case,Poland,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-22,,,,,,,,
+19249,male,Above 30,Canada,,imported case,Canada,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-04,,,,,,,,
+19250,male,Above 60,Taiwan,,imported case,South Africa,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-22,,,,,,,,
+19251,male,Above 20,Singapore,,imported case,Singapore,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19252,female,Above 50,Taiwan,,imported case,Dominican Republic,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-23,,,,,,,,
+19253,male,Above 30,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-26,,,,,,,,
+19254,male,Above 40,Taiwan,,imported case,Canada,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-30,,,,,,,,
+19255,female,Above 40,Taiwan,,imported case,Canada,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-30,,,,,,,,
+19256,male,Under 10,Taiwan,,imported case,Canada,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-30,,,,,,,,
+19257,male,Above 40,US,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-30,,,,,,,,
+19258,male,Above 20,Taiwan,,imported case,US,,,,,,Yes,,2022-02-06,,,isolated,,,2022-01-22,,,,,,,,
+19259,female,Above 50,Taiwan,,indigenous case,,"#18375, #18397",,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,,,,No,,No
+19260,female,Above 20,Taiwan,,indigenous case,,"#18443, #18589",YiIan_Hotel,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,,,,Yes,AZ(2),Yes
+19261,male,Above 40,UK,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19262,female,Above 30,Taiwan,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19263,female,Above 10,Netherlands,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19264,male,Above 20,US,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19265,male,Above 40,UK,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19266,male,Above 40,Netherlands,,imported case,investigating,,,,,,Yes,,2022-02-06,,,isolated,,,2022-02-05,,,,,,,,
+19267,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
+19268,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
+19269,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
+19270,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
+19271,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
+19272,female,Between 20 to 30,Philippines,home quarantine,indigenous case,,"#18219, #18220",遠雄自貿園區,asymptomatic case,,2022-02-05,No,,2022-02-06,,,isolated,No,,,,,y,,,investigating,investigating,investigating
