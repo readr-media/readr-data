@@ -22,6 +22,9 @@
 	* _all: 其他區域立委
 	* _party: 不分區政黨票
 
+* 其他
+	* congress_2020_liCode_mapping: 2020 年立委有同一個開票所代表多個村里投票的狀況，在資料上，liCode 最前方會加上英文代號（如 1001 會變成 A1001），此為 mapping 檔案
+
 ## 公投
 * 選舉類別
 	* referendum: 公投
