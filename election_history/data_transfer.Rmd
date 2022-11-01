@@ -1,0 +1,458 @@
+---
+title: "R Notebook"
+---
+
+# meta 匯入
+```{r}
+select_col_elprof<-filter(elprof_meta,select=="*")
+select_col_elprof<-select_col_elprof$en_name
+select_col_elctks<-filter(elctks_meta,select=="*")
+select_col_elctks<-select_col_elctks$en_name
+
+```
+
+# 議員資料 SOP
+elctks.csv 候選人得票檔
+elprof.csv 選區概況
+* tboxNo 投開票所編號 投開票所以上層級彙總時，該投開票所別為0
+* tksRate 得票率
+* profRate 投票率
+* prof1 有效票數 
+* prof3 投票數
+* prof7 選舉人數
+* elprof.csv -> 各選區結果檔：prvCode, cityCode, areaCode, liCode, deptCode, profRate,tboxNo
+* elctks.csv -> candidates 候選人得票檔：prvCode, cityCode, areaCode, liCode, deptCode, tboxNo, candNo, tks, candVictor,tksRate
+* areaCode 選區別
+* deptCode 鄉鎮市區
+
+* 縣市cc：2018, 2014, 2009, 2005, 2002, 1998, 1994
+* 直轄市dc：2018, 2014, 2010, 2006, 2002, 1998, 1994
+
+
+## 選區
+```{r}
+# 縣市
+t="縣市"
+for(y in c("2018","2014","2009","2005","2002")){
+print(y)
+elprof_an <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_an.csv"),col_names = FALSE)
+elprof_am <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_am.csv"),col_names = FALSE)
+elprof_all <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_all.csv"),col_names = FALSE)
+elprof<-rbind(elprof_an,elprof_am,elprof_all)
+
+colnames(elprof)<-elprof_meta$en_name
+elprof<-select(elprof,select_col_elprof)
+elprof$prvCode<-gsub("'","",elprof$prvCode)
+elprof$cityCode<-gsub("'","",elprof$cityCode)
+elprof$deptCode<-gsub("'","",elprof$deptCode)
+elprof$areaCode<-gsub("'","",elprof$areaCode)
+elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+elprof$tboxNo<-as.numeric(elprof$tboxNo)
+elprof<-filter(elprof,tboxNo=="0")
+elprof$tboxNo<-NULL
+
+write.csv(elprof,paste0("citycon_elprof_",y,"_cc.csv"),row.names = FALSE)
+}
+
+# 直轄市
+t="直轄市"
+for(y in c("2018","2014","2010","2006","2002")){
+print(y)
+  if(y=="2006"|y=="2002"|y=="1998"|y=="1994"){
+  elprof_am <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_am.csv"),col_names = FALSE)
+  elprof_all <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_all.csv"),col_names = FALSE)
+  elprof<-rbind(elprof_am,elprof_all)
+  colnames(elprof)<-elprof_meta$en_name
+  elprof<-select(elprof,select_col_elprof)
+  elprof$prvCode<-gsub("'","",elprof$prvCode)
+  elprof$cityCode<-gsub("'","",elprof$cityCode)
+  elprof$deptCode<-gsub("'","",elprof$deptCode)
+  elprof$areaCode<-gsub("'","",elprof$areaCode)
+  elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+  elprof$tboxNo<-as.numeric(elprof$tboxNo)
+  elprof<-filter(elprof,tboxNo=="0")
+  elprof$tboxNo<-NULL
+  
+  write.csv(new,paste0("citycon_elprof_",y,"_dc.csv"),row.names = FALSE)
+      }else{
+  elprof_an <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_an.csv"),col_names = FALSE)
+  elprof_am <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_am.csv"),col_names = FALSE)
+  elprof_all <- read_csv(paste0("transfer/citycon/",t,"/elprof_",y,"_all.csv"),col_names = FALSE)
+    elprof<-rbind(elprof_am,elprof_all)
+      colnames(elprof)<-elprof_meta$en_name
+  elprof<-select(elprof,select_col_elprof)
+  elprof$prvCode<-gsub("'","",elprof$prvCode)
+  elprof$cityCode<-gsub("'","",elprof$cityCode)
+  elprof$deptCode<-gsub("'","",elprof$deptCode)
+  elprof$areaCode<-gsub("'","",elprof$areaCode)
+  elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+  elprof$tboxNo<-as.numeric(elprof$tboxNo)
+  elprof<-filter(elprof,tboxNo=="0")
+  elprof$tboxNo<-NULL
+  
+  write.csv(elprof,paste0("citycon_elprof_",y,"_dc.csv"),row.names = FALSE)
+      }
+}
+
+
+```
+
+```{r}
+# 候選人概況
+# 縣市
+t="縣市"
+for(y in c("2018","2014","2009","2005","2002")){
+print(y)
+elctks_an <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_an.csv"),col_names = FALSE)
+elctks_am <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_am.csv"),col_names = FALSE)
+elctks_all <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_all.csv"),col_names = FALSE)
+elctks<-rbind(elctks_an,elctks_am,elctks_all)
+
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+write.csv(elctks,paste0("citycon_elctks_",y,"_cc.csv"),row.names = FALSE)
+}
+
+# 直轄市
+t="直轄市"
+for(y in c("2018","2014","2010","2006","2002")){
+print(y)
+  if(y=="2006"|y=="2002"|y=="1998"|y=="1994"){
+  elctks_am <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_am.csv"),col_names = FALSE)
+  elctks_all <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_all.csv"),col_names = FALSE)
+  elctks<-rbind(elctks_am,elctks_all)
+  colnames(elctks)<-elctks_meta$en_name
+
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+  
+  write.csv(new,paste0("citycon_elctks_",y,"_dc.csv"),row.names = FALSE)
+      }else{
+  elctks_an <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_an.csv"),col_names = FALSE)
+  elctks_am <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_am.csv"),col_names = FALSE)
+  elctks_all <- read_csv(paste0("transfer/citycon/",t,"/elctks_",y,"_all.csv"),col_names = FALSE)
+    elctks<-rbind(elctks_am,elctks_all)
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+  
+  write.csv(elctks,paste0("citycon_elctks_",y,"_dc.csv"),row.names = FALSE)
+      }
+}
+
+```
+
+
+# 縣市長資料 SOP
+# 選區
+```{r}
+# 縣市
+t="縣市"
+for(y in c("2018","2014","2009","2005","2001")){
+print(y)
+elprof_all <- read_csv(paste0("transfer/citymayor/",t,"/elprof_",y,".csv"),col_names = FALSE)
+elprof<-elprof_all
+colnames(elprof)<-elprof_meta$en_name
+elprof<-select(elprof,select_col_elprof)
+elprof$prvCode<-gsub("'","",elprof$prvCode)
+elprof$cityCode<-gsub("'","",elprof$cityCode)
+elprof$deptCode<-gsub("'","",elprof$deptCode)
+elprof$areaCode<-gsub("'","",elprof$areaCode)
+elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+elprof$tboxNo<-as.numeric(elprof$tboxNo)
+elprof<-filter(elprof,tboxNo=="0")
+elprof$tboxNo<-NULL
+
+write.csv(elprof,paste0("citymayor_elprof_",y,"_cc.csv"),row.names = FALSE)
+}
+
+# 直轄市
+t="直轄市"
+for(y in c("2018","2014","2010","2006","2002","1998","1994")){
+print(y)
+  elprof_all <- read_csv(paste0("transfer/citymayor/",t,"/elprof_",y,".csv"),col_names = FALSE)
+  elprof<-elprof_all
+  colnames(elprof)<-elprof_meta$en_name
+  elprof<-select(elprof,select_col_elprof)
+  elprof$prvCode<-gsub("'","",elprof$prvCode)
+  elprof$cityCode<-gsub("'","",elprof$cityCode)
+  elprof$deptCode<-gsub("'","",elprof$deptCode)
+  elprof$areaCode<-gsub("'","",elprof$areaCode)
+  elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+  elprof$tboxNo<-as.numeric(elprof$tboxNo)
+  elprof<-filter(elprof,tboxNo=="0")
+  elprof$tboxNo<-NULL
+  
+  write.csv(elprof,paste0("citymayor_elprof_",y,"_dc.csv"),row.names = FALSE)
+      }
+
+
+```
+
+```{r}
+# 候選人概況
+# 縣市
+t="縣市"
+for(y in c("2018","2014","2009","2005","2001")){
+print(y)
+elctks_all <- read_csv(paste0("transfer/citymayor/",t,"/elctks_",y,".csv"),col_names = FALSE)
+elctks<-elctks_all
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+write.csv(elctks,paste0("citymayor_elctks_",y,"_cc.csv"),row.names = FALSE)
+Sys.sleep(1)
+}
+
+# 直轄市
+t="直轄市"
+for(y in c("2018","2014","2010","2006","2002")){
+print(y)
+elctks_all <- read_csv(paste0("transfer/citymayor/",t,"/elctks_",y,".csv"),col_names = FALSE)
+elctks<-elctks_all
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+  
+  write.csv(elctks,paste0("citymayor_elctks_",y,"_dc.csv"),row.names = FALSE)
+  Sys.sleep(1)
+      }
+
+```
+
+# 總統
+```{r}
+# 區域
+for(y in c("2000","2004","2008","2012","2016","2020")){
+print(y)
+elprof_all <- read_csv(paste0("transfer/president/elprof_",y,".csv"),col_names = FALSE)
+elprof<-elprof_all
+colnames(elprof)<-elprof_meta$en_name
+elprof<-select(elprof,select_col_elprof)
+elprof$prvCode<-gsub("'","",elprof$prvCode)
+elprof$cityCode<-gsub("'","",elprof$cityCode)
+elprof$deptCode<-gsub("'","",elprof$deptCode)
+elprof$areaCode<-gsub("'","",elprof$areaCode)
+elprof$liCode<-gsub("'","",elprof$liCode)
+elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+elprof$tboxNo<-as.numeric(elprof$tboxNo)
+elprof<-filter(elprof,tboxNo=="0")
+elprof$tboxNo<-NULL
+
+write.csv(elprof,paste0("president_elprof_",y,".csv"),row.names = FALSE)
+Sys.sleep(1)
+}
+
+# 候選人
+for(y in c("2000","2004","2008","2012","2016","2020")){
+print(y)
+elctks_all <- read_csv(paste0("transfer/president/elctks_",y,".csv"),col_names = FALSE,col_types = cols(X10 = col_character()))
+elctks<-elctks_all
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+write.csv(elctks,paste0("president_elctks_",y,".csv"),row.names = FALSE)
+Sys.sleep(1)
+}
+```
+# 立委
+```{r}
+
+for(t in c("am","an","all")){
+
+# 區域
+for(y in c("2001","2004","2008","2012","2016","2020")){
+print(y)
+elprof_all <- read_csv(paste0("transfer/congress/elprof_",y,"_",t,".csv"),col_names = FALSE)
+elprof<-elprof_all
+colnames(elprof)<-elprof_meta$en_name
+elprof<-select(elprof,select_col_elprof)
+elprof$prvCode<-gsub("'","",elprof$prvCode)
+elprof$cityCode<-gsub("'","",elprof$cityCode)
+elprof$deptCode<-gsub("'","",elprof$deptCode)
+elprof$areaCode<-gsub("'","",elprof$areaCode)
+elprof$liCode<-gsub("'","",elprof$liCode)
+elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+elprof$tboxNo<-as.numeric(elprof$tboxNo)
+elprof<-filter(elprof,tboxNo=="0")
+elprof$tboxNo<-NULL
+
+write.csv(elprof,paste0("congress_elprof_",y,"_",t,".csv"),row.names = FALSE)
+}
+
+# 候選人
+for(y in c("2001","2004","2008","2012","2016","2020")){
+print(y)
+elctks_all <- read_csv(paste0("transfer/congress/elctks_",y,"_",t,".csv"),col_names = FALSE,col_types = cols(X10 = col_character()))
+elctks<-elctks_all
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+write.csv(elctks,paste0("congress_elctks_",y,"_",t,".csv"),row.names = FALSE)
+}
+}
+
+# 政黨票
+t="party"
+# 區域
+for(y in c("2012","2016","2020")){
+print(y)
+elprof_all <- read_csv(paste0("transfer/congress/elprof_",y,"_",t,".csv"),col_names = FALSE)
+elprof<-elprof_all
+colnames(elprof)<-elprof_meta$en_name
+elprof<-select(elprof,select_col_elprof)
+elprof$prvCode<-gsub("'","",elprof$prvCode)
+elprof$cityCode<-gsub("'","",elprof$cityCode)
+elprof$deptCode<-gsub("'","",elprof$deptCode)
+elprof$areaCode<-gsub("'","",elprof$areaCode)
+elprof$liCode<-gsub("'","",elprof$liCode)
+elprof<-select(elprof,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,profRate)
+elprof$tboxNo<-as.numeric(elprof$tboxNo)
+elprof<-filter(elprof,tboxNo=="0")
+elprof$tboxNo<-NULL
+
+write.csv(elprof,paste0("congress_elprof_",y,"_",t,".csv"),row.names = FALSE)
+}
+
+# 候選人
+for(y in c("2012","2016","2020")){
+print(y)
+elctks_all <- read_csv(paste0("transfer/congress/elctks_",y,"_",t,".csv"),col_names = FALSE,col_types = cols(X10 = col_character()))
+elctks<-elctks_all
+colnames(elctks)<-elctks_meta$en_name
+elctks<-select(elctks,select_col_elctks)
+elctks$prvCode<-gsub("'","",elctks$prvCode)
+elctks$cityCode<-gsub("'","",elctks$cityCode)
+elctks$deptCode<-gsub("'","",elctks$deptCode)
+elctks$areaCode<-gsub("'","",elctks$areaCode)
+elctks$liCode<-gsub("'","",elctks$liCode)
+elctks<-select(elctks,prvCode,cityCode,areaCode,liCode,deptCode,tboxNo,candNo,tks,tksRate,candVictor)
+elctks$tboxNo<-as.numeric(elctks$tboxNo)
+elctks<-filter(elctks,tboxNo=="0")
+elctks$tboxNo<-NULL
+
+write.csv(elctks,paste0("congress_elctks_",y,"_",t,".csv"),row.names = FALSE)
+}
+
+# 不分區結果
+for(y in c("2012","2016","2020")){
+  party_result <- read_csv(paste0("transfer/congress/elretks_",y,"_party_result.csv"),col_names = FALSE)
+  colnames(party_result)<-c("partyUni","no1","no2","candCount","victorCount")
+  party_result<-select(party_result,partyUni,victorCount)
+  write.csv(party_result,paste0("congress_partyresult_",y,".csv"),row.names = FALSE)
+}
+
+```
+
+
+# 公投
+```{r}
+# 區域
+for(y in 7:20){
+print(y)
+rfprof_all <- read_csv(paste0("transfer/referendum/rfprof_",y,".csv"))
+rfprof<-rfprof_all
+rfprof<-select(rfprof,prv_code,city_code,area_code,li_code,dept_code,tbox_no,vote_to_votable)
+rfprof$tbox_no<-as.numeric(rfprof$tbox_no)
+rfprof<-filter(rfprof,tbox_no=="0")
+rfprof$tbox_no<-NULL
+write.csv(rfprof,paste0("referendum_rfprof_",y,".csv"),row.names = FALSE)
+
+print(y)
+rftckt_all <- read_csv(paste0("transfer/referendum/rftckt_",y,".csv"))
+rftckt<-rftckt_all
+rftckt<-select(rftckt,prv_code,city_code,area_code,li_code,dept_code,tbox_no,agree_ticket,agree_ticket_percent,disagree_ticket,disagree_ticket_percent,agree_to_votable,vote_result)
+rftckt$tbox_no<-as.numeric(rftckt$tbox_no)
+rftckt<-filter(rftckt,tbox_no=="0")
+rftckt$tbox_no<-NULL
+
+write.csv(rftckt,paste0("referendum_rftckt_",y,".csv"),row.names = FALSE)
+}
+
+
+# 地方公投
+y="hc_1"
+print(y)
+rfprof_all <- read_csv(paste0("transfer/referendum/rfprof_",y,".csv"))
+rfprof<-rfprof_all
+rfprof<-select(rfprof,prv_code,city_code,area_code,li_code,dept_code,tbox_no,vote_to_votable)
+rfprof$tbox_no<-as.numeric(rfprof$tbox_no)
+rfprof<-filter(rfprof,tbox_no=="0")
+rfprof$tbox_no<-NULL
+write.csv(rfprof,paste0("referendum_rfprof_",y,".csv"),row.names = FALSE)
+
+print(y)
+rftckt_all <- read_csv(paste0("transfer/referendum/rftckt_",y,".csv"))
+rftckt<-rftckt_all
+rftckt<-select(rftckt,prv_code,city_code,area_code,li_code,dept_code,tbox_no,agree_ticket,agree_ticket_percent,disagree_ticket,disagree_ticket_percent,agree_to_votable,vote_result)
+rftckt$tbox_no<-as.numeric(rftckt$tbox_no)
+rftckt<-filter(rftckt,tbox_no=="0")
+rftckt$tbox_no<-NULL
+
+write.csv(rftckt,paste0("referendum_rftckt_",y,".csv"),row.names = FALSE)
+
+```
