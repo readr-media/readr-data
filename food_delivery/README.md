@@ -1,5 +1,6 @@
 # README
 此資料為 READr 專題報導[「記者來當外送員！開箱美食外送秘辛」](https://www.readr.tw/project/food-delivery) 使用之資料。
+
 CC BY ND （姓名標示-禁止改作）
 本授權條款允許使用者重製、散布、傳輸著作（包括商業與非商業性利用），但不得修改該著作。使用時標註來源為 [READr](https://www.readr.tw/)。 
 
